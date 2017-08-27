@@ -5,7 +5,7 @@ import java.util.LinkedList;
 import java.util.List;
 
 public class 排序_元素无重复 {
-    //不交换
+    //排序
     public List<List<Integer>> permute(int[] nums) {
         List<List<Integer>> all = new ArrayList<>();
         if (nums == null || nums.length == 0) {

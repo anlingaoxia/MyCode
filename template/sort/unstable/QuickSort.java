@@ -12,7 +12,7 @@ public class QuickSort {
     public static int sortOnce(int[] nums, int i, int j) {
         int key = nums[i];
         while (i < j) {
-            while (i < j && nums[j] > key) {
+            while (i < j && nums[j] >= key) {
                 j--;
             }
             if (i < j) {
@@ -29,9 +29,4 @@ public class QuickSort {
         nums[i] = key;
         return i;
     }
-
-    public static void main(String[] args) {
-
-    }
-
 }

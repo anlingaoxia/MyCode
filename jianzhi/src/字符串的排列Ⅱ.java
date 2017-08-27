@@ -11,11 +11,11 @@ public class 字符串的排列Ⅱ {
         }
         char[] ctr = str.toCharArray();
         boolean[] alphabet = new boolean[128];
-        PermutationHelper(ctr, list, 0, alphabet);
+        PermutationHelper(ctr, list, 0);
         return list;
     }
 
-    public static void PermutationHelper(char[] ctr, List<String> list, int p, boolean[] alphabet) {
+    public static void PermutationHelper(char[] ctr, List<String> list, int p) {
         if (p == ctr.length - 1) {
             list.add(new String(ctr));
         }
@@ -24,10 +24,9 @@ public class 字符串的排列Ⅱ {
                 continue;
             }
             swap(ctr, p, i);
-            PermutationHelper(ctr, list, p + 1, alphabet);
+            PermutationHelper(ctr, list, p + 1);
             swap(ctr, p, i);
         }
-        System.out.println();
     }
 
     public static void swap(char[] ctr, int i, int j) {
@@ -35,11 +34,5 @@ public class 字符串的排列Ⅱ {
         ctr[i] = ctr[j];
         ctr[j] = t;
     }
-
-    public static void main(String[] args) {
-        String str = "aabc";
-        System.out.println(Permutation(str));
-    }
-
 
 }

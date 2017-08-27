@@ -1,4 +1,4 @@
-package didi;
+package duoyi;
 
 public class Test {
     public static void main(String[] args) {
@@ -41,8 +41,6 @@ public class Test {
         }
         return true;
     }
-
-
 }
 
 class Person {

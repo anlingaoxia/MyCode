@@ -1,4 +1,4 @@
-package three60;
+package threesixzero;
 
 import java.util.Scanner;
 

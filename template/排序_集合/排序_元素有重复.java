@@ -6,7 +6,7 @@ import java.util.LinkedList;
 import java.util.List;
 
 public class 排序_元素有重复 {
-    //不交换
+    //排序
     public List<List<Integer>> permuteUnique(int[] nums) {
         List<List<Integer>> all = new ArrayList<>();
         if (nums == null || nums.length == 0) {
@@ -45,7 +45,11 @@ public class 排序_元素有重复 {
 
     public void permuteUnique_exHelper(int[] nums, List<List<Integer>> all, int p) {
         if (p == nums.length) {
-            all.add(newList(nums));
+            List<Integer> newList = new ArrayList<>();
+            for (int i = 0; i < nums.length; i++) {
+                newList.add(nums[i]);
+            }
+            all.add(newList);
         }
         for (int i = p; i < nums.length; i++) {
             if (!isContainDuplicate(nums, i)) {
@@ -56,6 +60,12 @@ public class 排序_元素有重复 {
         }
     }
 
+    public void swap(int[] nums, int i, int j) {
+        int t = nums[i];
+        nums[i] = nums[j];
+        nums[j] = t;
+    }
+
     public boolean isContainDuplicate(int[] nums, int p) {
         for (int i = p + 1; i < nums.length; i++) {
             if (nums[i] == nums[p]) {
@@ -63,19 +73,5 @@ public class 排序_元素有重复 {
             }
         }
         return false;
-    }
-
-    public void swap(int[] nums, int i, int j) {
-        int t = nums[i];
-        nums[i] = nums[j];
-        nums[j] = t;
-    }
-
-    public List<Integer> newList(int[] nums) {
-        List<Integer> newList = new ArrayList<>();
-        for (int i = 0; i < nums.length; i++) {
-            newList.add(nums[i]);
-        }
-        return newList;
     }
 }

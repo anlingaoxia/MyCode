@@ -1,11 +1,8 @@
-package three60;
+package threesixzero;
 
 import java.util.Arrays;
 import java.util.Scanner;
-//4
-//        1 3 7 9
-//        3
-//        2 10 12
+
 public class Main3 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
@@ -59,14 +56,6 @@ public class Main3 {
         a[ai] = b[bj];
         b[bj] = t;
     }
-
-//    public int sum(int[] array) {
-//        int count = 0;
-//        for (int i : array) {
-//            count += i;
-//        }
-//        return count;
-//    }
 
 
 
