@@ -1,6 +1,6 @@
 package array;
 
-import lib.Interval;
+import node.Interval;
 
 import java.util.ArrayList;
 import java.util.Comparator;

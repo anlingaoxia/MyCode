@@ -30,4 +30,8 @@ public class QuickSort {
         return i;
     }
 
+    public static void main(String[] args) {
+
+    }
+
 }

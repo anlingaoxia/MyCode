@@ -1,6 +1,6 @@
 package binarytree;
 
-import lib.TreeNode;
+import node.TreeNode;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -11,6 +11,7 @@ public class Inorder {
         if (root == null) {
             return;
         }
+
         printRecursively(root.left, list);
         list.add(root.val);
         printRecursively(root.right, list);

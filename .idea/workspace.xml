@@ -2,7 +2,221 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="562a92e1-f3cd-49cf-aadc-99cbc9cb3080" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jianzhi/src/二叉搜索树与双向链表.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jianzhi/src/二叉搜索树的后序遍历序列.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jianzhi/src/二叉树中和为某一值的路径.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jianzhi/src/二叉树的镜像.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jianzhi/src/二维数组中的查找.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jianzhi/src/二进制中1的个数.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jianzhi/src/从上往下打印二叉树.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jianzhi/src/从尾到头打印链表.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jianzhi/src/包含min函数的栈.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jianzhi/src/反转链表.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jianzhi/src/变态跳台阶.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jianzhi/src/合并两个排序的链表.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jianzhi/src/复杂链表的复制.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jianzhi/src/字符串的排列.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jianzhi/src/字符串的排列Ⅱ.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jianzhi/src/数值的整数次方.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jianzhi/src/斐波那契数列.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jianzhi/src/旋转数组的最小数字.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jianzhi/src/栈的压入弹出序列.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jianzhi/src/树的子结构.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jianzhi/src/用两个栈实现队列.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jianzhi/src/矩形覆盖.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jianzhi/src/调整数组顺序使奇数位于偶数前面.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jianzhi/src/跳台阶.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jianzhi/src/重建二叉树.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jianzhi/src/链表中倒数第k个结点.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jianzhi/src/顺时针打印矩阵.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/leetcode/动态规划/分类_是否能分为两个相等的子数组.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/node/RandomListNode.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/didi/Main.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/didi/Test.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/didi/TheMaxK.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/three60/Main1.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/three60/Main2.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/three60/Main3.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/排序_集合/加和_元素无重复_选择有重复.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/排序_集合/加和_元素有重复_选择无重复.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/排序_集合/排序_元素无重复.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/排序_集合/排序_元素有重复.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/排序_集合/集合_元素无重复.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/排序_集合/集合_元素有重复.java" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/lib/TreeNode.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/transform/N617.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/transform/N657.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/transform/easy/Add_Digits.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/transform/easy/Add_Strings.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/transform/easy/Arranging_Coins.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/transform/easy/Assign_Cookies.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/transform/easy/Balanced_Binary_Tree.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/transform/easy/Base_7.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/transform/easy/Best_Time_to_Buy_and_Sell_Stock.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/transform/easy/Best_Time_to_Buy_and_Sell_Stock_II.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/transform/easy/Binary_Tree_Level_Order_Traversal.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/transform/easy/Binary_Tree_Level_Order_Traversal_II.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/transform/easy/Binary_Tree_Paths.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/transform/easy/Binary_Watch.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/transform/easy/Bulls_and_Cows.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/transform/easy/Climbing_Stairs.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/transform/easy/Construct_the_Rectangle.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/transform/easy/Contains_Duplicate.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/transform/easy/Contains_Duplicate_II.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/transform/easy/Convert_Sorted_Array_to_Binary_Search_Tree.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/transform/easy/Convert_a_Number_to_Hexadecimal.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/transform/easy/Count_and_Say.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/transform/easy/Delete_Node_in_a_Linked_List.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/transform/easy/Detect_Capital.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/transform/easy/Excel_Sheet_Column_Number.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/transform/easy/Factorial_Trailing_Zeroes.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/transform/easy/Find_All_Anagrams_in_a_String.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/transform/easy/Find_All_Numbers_Disappeared_in_an_Array.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/transform/easy/Find_Mode_in_Binary_Search_Tree.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/transform/easy/Find_the_Difference.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/transform/easy/First_Unique_Character_in_a_String.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/transform/easy/Fizz_Buzz.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/transform/easy/Guess_Number_Higher_or_Lower.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/transform/easy/Hamming_Distance.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/transform/easy/Happy_Number.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/transform/easy/House_Robber.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/transform/easy/Implement_Queue_using_Stacks.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/transform/easy/Implement_Stack_using_Queues.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/transform/easy/Intersection_of_Two_Arrays.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/transform/easy/Intersection_of_Two_Arrays_II.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/transform/easy/Invert_Binary_Tree.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/transform/easy/Island_Perimeter.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/transform/easy/Isomorphic_Strings.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/transform/easy/Length_of_Last_Word.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/transform/easy/Linked_List_Cycle.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/transform/easy/Longest_Palindrome.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/transform/easy/Lowest_Common_Ancestor_of_a_Binary_Search_Tree.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/transform/easy/Majority_Element.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/transform/easy/Max_Consecutive_Ones.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/transform/easy/Maximum_Depth_of_Binary_Tree.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/transform/easy/Merge_Sorted_Array.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/transform/easy/Merge_Two_Sorted_Lists.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/transform/easy/Minimum_Moves_to_Equal_Array_Elements.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/transform/easy/Missing_Number.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/transform/easy/Move_Zeroes.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/transform/easy/Next_Greater_Element_I.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/transform/easy/Nim_Game.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/transform/easy/Nth_Digit.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/transform/easy/Number_Complement.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/transform/easy/Number_of_1_Bits.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/transform/easy/Number_of_Boomerangs.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/transform/easy/Number_of_Segments_in_a_String.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/transform/easy/Palindrome_Linked_List.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/transform/easy/Palindrome_Number.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/transform/easy/Pascals_Triangle.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/transform/easy/Pascals_Triangle_II.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/transform/easy/Path_Sum.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/transform/easy/Path_Sum_III.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/transform/easy/Plus_One.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/transform/easy/Power_of_Four.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/transform/easy/Power_of_Three.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/transform/easy/Power_of_Two.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/transform/easy/Ransom_Note.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/transform/easy/Rectangle_Area.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/transform/easy/Relative_Ranks.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/transform/easy/Remove_Duplicates_from_Sorted_Array.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/transform/easy/Remove_Duplicates_from_Sorted_List.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/transform/easy/Remove_Element.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/transform/easy/Remove_Linked_List_Elements.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/transform/easy/Repeated_Substring_Pattern.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/transform/easy/Reverse_Linked_List.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/transform/easy/Reverse_String.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/transform/easy/Reverse_Vowels_of_a_String.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/transform/easy/Roman_to_Integer.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/transform/easy/Same_Tree.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/transform/easy/Single_Number.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/transform/easy/Sum_of_Left_Leaves.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/transform/easy/Swap_Nodes_in_Pairs.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/transform/easy/Symmetric_Tree.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/transform/easy/Two_Sum_II.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/transform/easy/Ugly_Number.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/transform/easy/Valid_Anagram.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/transform/easy/Valid_Sudoku.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/transform/easy2/Add_Binary.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/transform/easy2/Count_Primes.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/transform/easy2/Excel_Sheet_Column_Title.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/transform/easy2/First_Bad_Version.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/transform/easy2/Heaters.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/transform/easy2/Implement_strStr.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/transform/easy2/Intersection_of_Two_Linked_Lists.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/transform/easy2/Longest_Common_Prefix.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/transform/easy2/Maximum_Subarray.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/transform/easy2/MinStack.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/transform/easy2/Range_Sum_Query.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/transform/easy2/Reverse_Bits.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/transform/easy2/Reverse_Integer.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/transform/easy2/Search_Insert_Position.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/transform/easy2/Sqrt.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/transform/easy2/Third_Maximum_Number.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/transform/easy2/Two_Sum.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/transform/easy2/Valid_Palindrome.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/transform/easy2/Valid_Perfect_Square.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/transform/easy3/N35.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/transform/easy3/N561.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/transform/libclass/TreeNode.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/transform/medium/Add_Two_Numbers_II.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/transform/medium/Arithmetic_Slices.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/transform/medium/Battleships_in_a_Board.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/transform/medium/Beautiful_Arrangement.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/transform/medium/Binary_Tree_Inorder_Traversal.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/transform/medium/Count_Numbers_with_Unique_Digits.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/transform/medium/Counting_Bits.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/transform/medium/Diagonal_Traverse.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/transform/medium/FOURSum_II.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/transform/medium/Find_All_Duplicates_in_an_Array.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/transform/medium/Find_Bottom_Left_Tree_Value.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/transform/medium/Find_Largest_Value_in_Each_Tree_Row.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/transform/medium/Integer_Break.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/transform/medium/Is_Subsequence.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/transform/medium/Linked_List_Random_Node.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/transform/medium/Magical_String.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/transform/medium/Minesweeper.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/transform/medium/Minimum_Moves_to_Equal_Array_Elements_II.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/transform/medium/Most_Frequent_Subtree_Sum.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/transform/medium/Next_Greater_Element_II.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/transform/medium/Product_of_Array_Except_Self.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/transform/medium/Queue_Reconstruction_by_Height.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/transform/medium/Search_For_A_Range.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/transform/medium/Single_Number_III.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/transform/medium/Sort_Characters_By_Frequency.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/transform/medium/Target_Sum.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/transform/medium/Teemo_Attacking.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/transform/medium/Top_K_Frequent_Elements.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/transform/medium/Total_Hamming_Distance.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/transform/medium2/N105.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/transform/medium2/N106.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/transform/medium2/N120.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/transform/medium2/N378.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/transform/medium2/N421.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/transform/medium2/N532.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/transform/medium2/N539.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/transform/medium2/N90.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/transform/test/QuickSort.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/transform/test/Test.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/transform/test/TwoVArray.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/template/toutiao/Main2.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/template/toutiao/Main3.java" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MyCode.iml" afterPath="$PROJECT_DIR$/MyCode.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/leetcode/array/N056.java" afterPath="$PROJECT_DIR$/leetcode/array/N056.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/leetcode/string/N606.java" afterPath="$PROJECT_DIR$/leetcode/string/N606.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/template/binarytree/Inorder.java" afterPath="$PROJECT_DIR$/template/binarytree/Inorder.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/template/binarytree/LevelSorder.java" afterPath="$PROJECT_DIR$/template/binarytree/LevelSorder.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/template/binarytree/Levelorder.java" afterPath="$PROJECT_DIR$/template/binarytree/Levelorder.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/template/binarytree/Postorder.java" afterPath="$PROJECT_DIR$/template/binarytree/Postorder.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/template/binarytree/Preorder.java" afterPath="$PROJECT_DIR$/template/binarytree/Preorder.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/template/sort/unstable/QuickSort.java" afterPath="$PROJECT_DIR$/template/sort/unstable/QuickSort.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/leetcode/lib/Interval.java" afterPath="$PROJECT_DIR$/lib/node/Interval.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/leetcode/transform/libclass/ComplexListNode.java" afterPath="$PROJECT_DIR$/lib/node/ComplexListNode.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/leetcode/transform/libclass/ListNode.java" afterPath="$PROJECT_DIR$/lib/node/ListNode.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/note/txt/string.txt" afterPath="$PROJECT_DIR$/lib/txt/string.txt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/template/lib/TreeNode.java" afterPath="$PROJECT_DIR$/lib/node/TreeNode.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -13,7 +227,126 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name="加和_元素有重复_选择无重复.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/template/排序_集合/加和_元素有重复_选择无重复.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="460">
+              <caret line="23" column="9" lean-forward="true" selection-start-line="23" selection-start-column="9" selection-end-line="23" selection-end-column="9" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="二叉树中和为某一值的路径.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/jianzhi/src/二叉树中和为某一值的路径.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="439">
+              <caret line="34" column="32" lean-forward="false" selection-start-line="34" selection-start-column="27" selection-end-line="34" selection-end-column="32" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="分类_是否能分为两个相等的子数组.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/leetcode/动态规划/分类_是否能分为两个相等的子数组.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="340">
+              <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/template/didi/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="340">
+              <caret line="17" column="44" lean-forward="false" selection-start-line="17" selection-start-column="44" selection-end-line="17" selection-end-column="44" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Test.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/template/didi/Test.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="380">
+              <caret line="19" column="9" lean-forward="true" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Main1.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/template/three60/Main1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="220">
+              <caret line="11" column="29" lean-forward="true" selection-start-line="11" selection-start-column="29" selection-end-line="11" selection-end-column="29" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Main2.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/template/three60/Main2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="40">
+              <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="20" selection-end-column="5" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Main3.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/template/three60/Main3.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-280">
+              <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="2" selection-end-line="7" selection-end-column="17" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HeapSort.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/template/sort/unstable/HeapSort.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="41" selection-end-column="5" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="QuickSort.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/template/sort/unstable/QuickSort.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="379">
+              <caret line="33" column="0" lean-forward="true" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>listnode</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -26,20 +359,100 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Leetcode/src/array/N048.java" />
-        <option value="$PROJECT_DIR$/Leetcode/src/lib/TreeNode.java" />
-        <option value="$PROJECT_DIR$/Leetcode/src/transform/easy/Find_Mode_in_Binary_Search_Tree.java" />
-        <option value="$PROJECT_DIR$/Template/thread/models/PrintModelThread.java" />
+        <option value="$PROJECT_DIR$/lib/TreeNode.java" />
+        <option value="$PROJECT_DIR$/jianzhi/src/旋转数组的最小数字.java" />
+        <option value="$PROJECT_DIR$/lib/ListNode.java" />
+        <option value="$PROJECT_DIR$/lib/Interval.java" />
+        <option value="$PROJECT_DIR$/lib/ComplexListNode.java" />
+        <option value="$PROJECT_DIR$/lib/node/TreeNode.java" />
+        <option value="$PROJECT_DIR$/leetcode/transform/N657.java" />
+        <option value="$PROJECT_DIR$/template/binarytree/Inorder.java" />
+        <option value="$PROJECT_DIR$/template/binarytree/Levelorder.java" />
+        <option value="$PROJECT_DIR$/template/binarytree/LevelSorder.java" />
+        <option value="$PROJECT_DIR$/template/binarytree/Postorder.java" />
+        <option value="$PROJECT_DIR$/template/binarytree/Preorder.java" />
+        <option value="$PROJECT_DIR$/jianzhi/src/从尾到头打印链表.java" />
+        <option value="$PROJECT_DIR$/jianzhi/src/重建二叉树.java" />
+        <option value="$PROJECT_DIR$/jianzhi/src/链表中倒数第k个结点.java" />
+        <option value="$PROJECT_DIR$/leetcode/array/N056.java" />
+        <option value="$PROJECT_DIR$/leetcode/string/N606.java" />
+        <option value="$PROJECT_DIR$/lib/node/ListNode.java" />
+        <option value="$PROJECT_DIR$/jianzhi/src/合并两个排序的链表.java" />
+        <option value="$PROJECT_DIR$/jianzhi/src/树的子结构.java" />
+        <option value="$PROJECT_DIR$/jianzhi/src/二叉树的镜像.java" />
+        <option value="$PROJECT_DIR$/jianzhi/src/顺时针打印矩阵.java" />
+        <option value="$PROJECT_DIR$/jianzhi/src/包含min函数的栈.java" />
+        <option value="$PROJECT_DIR$/jianzhi/src/栈的压入弹出序列.java" />
+        <option value="$PROJECT_DIR$/jianzhi/src/从上往下打印二叉树.java" />
+        <option value="$PROJECT_DIR$/jianzhi/src/二叉搜索树的后序遍历序列.java" />
+        <option value="$PROJECT_DIR$/jianzhi/src/反转链表.java" />
+        <option value="$PROJECT_DIR$/lib/node/RandomListNode.java" />
+        <option value="$PROJECT_DIR$/jianzhi/src/复杂链表的复制.java" />
+        <option value="$PROJECT_DIR$/jianzhi/src/二叉搜索树与双向链表.java" />
+        <option value="$PROJECT_DIR$/jianzhi/src/字符串的排列.java" />
+        <option value="$PROJECT_DIR$/jianzhi/src/二维数组中的查找.java" />
+        <option value="$PROJECT_DIR$/jianzhi/src/字符串的排列Ⅱ.java" />
+        <option value="$PROJECT_DIR$/template/排序_集合/全排序_无重复.java" />
+        <option value="$PROJECT_DIR$/template/排序_集合/全排序_有重复.java" />
+        <option value="$PROJECT_DIR$/template/排序_集合/排序_有重复.java" />
+        <option value="$PROJECT_DIR$/template/排序_集合/集合_无重复.java" />
+        <option value="$PROJECT_DIR$/template/排序_集合/集合_有重复.java" />
+        <option value="$PROJECT_DIR$/template/排序_集合/集合_无重复_加和.java" />
+        <option value="$PROJECT_DIR$/template/排序_集合/加和_元素无重复_可重复选择.java" />
+        <option value="$PROJECT_DIR$/template/排序_集合/加和_元素有重复_选择无重复.java" />
+        <option value="$PROJECT_DIR$/jianzhi/src/二叉树中和为某一值的路径.java" />
+        <option value="$PROJECT_DIR$/leetcode/动态规划/分类_是否能分为两个相等的子数组.java" />
+        <option value="$PROJECT_DIR$/template/didi/Main.java" />
+        <option value="$PROJECT_DIR$/template/sort/unstable/QuickSort.java" />
+        <option value="$PROJECT_DIR$/template/didi/TheMaxK.java" />
+        <option value="$PROJECT_DIR$/template/didi/Test.java" />
+        <option value="$PROJECT_DIR$/template/three60/Main1.java" />
+        <option value="$PROJECT_DIR$/template/three60/Main.java" />
+        <option value="$PROJECT_DIR$/template/three60/Main2.java" />
+        <option value="$PROJECT_DIR$/template/three60/Main3.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="291" />
-    <option name="y" value="40" />
-    <option name="width" value="1400" />
-    <option name="height" value="1000" />
+    <option name="x" value="984" />
+    <option name="width" value="943" />
+    <option name="height" value="1087" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>Android &gt; Lint &gt; Accessibility</id>
+          </State>
+          <State>
+            <id>Android &gt; Lint &gt; Correctness</id>
+          </State>
+          <State>
+            <id>Android &gt; Lint &gt; Usability</id>
+          </State>
+          <State>
+            <id>Android Lint for Kotlin</id>
+          </State>
+          <State>
+            <id>Compiler issuesJava</id>
+          </State>
+          <State>
+            <id>Java</id>
+          </State>
+          <State>
+            <id>XML</id>
+          </State>
+        </expanded-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
@@ -82,11 +495,6 @@
             <path>
               <item name="MyCode" type="b2602c69:ProjectViewProjectNode" />
               <item name="MyCode" type="462c0819:PsiDirectoryNode" />
-              <item name=".idea" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MyCode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MyCode" type="462c0819:PsiDirectoryNode" />
               <item name="jianzhi" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -97,18 +505,26 @@
             <path>
               <item name="MyCode" type="b2602c69:ProjectViewProjectNode" />
               <item name="MyCode" type="462c0819:PsiDirectoryNode" />
-              <item name="note" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MyCode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MyCode" type="462c0819:PsiDirectoryNode" />
-              <item name="note" type="462c0819:PsiDirectoryNode" />
-              <item name="txt" type="462c0819:PsiDirectoryNode" />
+              <item name="template" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="MyCode" type="b2602c69:ProjectViewProjectNode" />
               <item name="MyCode" type="462c0819:PsiDirectoryNode" />
               <item name="template" type="462c0819:PsiDirectoryNode" />
+              <item name="didi" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MyCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MyCode" type="462c0819:PsiDirectoryNode" />
+              <item name="template" type="462c0819:PsiDirectoryNode" />
+              <item name="didi" type="462c0819:PsiDirectoryNode" />
+              <item name="Test.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </path>
+            <path>
+              <item name="MyCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MyCode" type="462c0819:PsiDirectoryNode" />
+              <item name="template" type="462c0819:PsiDirectoryNode" />
+              <item name="three60" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -134,13 +550,15 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.appearance" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
+    <property name="SearchEverywhereHistoryKey" value="heapsor&#9;PSI&#9;JAVA://sort.unstable.HeapSort&#10;quick&#9;PSI&#9;JAVA://sort.unstable.QuickSort" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\_WORKSPACE\_intellij\MyCode\lib" />
       <recent name="D:\_WORKSPACE\_intellij\MyCode\Note\txt" />
     </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
@@ -150,10 +568,11 @@
       <recent name="models" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\_WORKSPACE\_intellij\MyCode\jianzhi\src" />
+      <recent name="D:\_WORKSPACE\_intellij\MyCode\leetcode\string" />
+      <recent name="D:\_WORKSPACE\_intellij\MyCode\leetcode\array" />
       <recent name="D:\_WORKSPACE\_intellij\MyCode\template" />
       <recent name="D:\_WORKSPACE\_intellij\MyCode\Leetcode\src" />
-      <recent name="D:\_WORKSPACE\_intellij\MyCode\Leetcode\src\lib" />
-      <recent name="D:\_WORKSPACE\_intellij\MyCode\Note\src\leetcode" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -168,7 +587,102 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Main3">
+    <configuration name="Main1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="three60.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="three60.Main1" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="MyCode" />
+      <envs />
+    </configuration>
+    <configuration name="Main2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="three60.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="three60.Main2" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="MyCode" />
+      <envs />
+    </configuration>
+    <configuration name="Main3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="three60.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="three60.Main3" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="MyCode" />
+      <envs />
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="didi.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="didi.Test" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="MyCode" />
+      <envs />
+    </configuration>
+    <configuration name="TheMaxK" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="didi.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="didi.TheMaxK" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="MyCode" />
+      <envs />
+    </configuration>
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
@@ -250,9 +764,28 @@
       <properties />
       <listeners />
     </configuration>
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="Application.TheMaxK" />
+      <item index="1" class="java.lang.String" itemvalue="Application.Test" />
+      <item index="2" class="java.lang.String" itemvalue="Application.Main1" />
+      <item index="3" class="java.lang.String" itemvalue="Application.Main2" />
+      <item index="4" class="java.lang.String" itemvalue="Application.Main3" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Application.Main3" />
+        <item index="1" class="java.lang.String" itemvalue="Application.Main2" />
+        <item index="2" class="java.lang.String" itemvalue="Application.Main1" />
+        <item index="3" class="java.lang.String" itemvalue="Application.Test" />
+        <item index="4" class="java.lang.String" itemvalue="Application.TheMaxK" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -269,17 +802,19 @@
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.50574714" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24972376" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2320819" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3291536" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -291,7 +826,6 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -302,15 +836,15 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/note/txt/string.txt">
+    <entry file="file://$PROJECT_DIR$/leetcode/transform/easy/Contains_Duplicate_II.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1345">
-          <caret line="164" column="54" lean-forward="false" selection-start-line="164" selection-start-column="54" selection-end-line="164" selection-end-column="54" />
+        <state relative-caret-position="80">
+          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/string/N606.java">
+    <entry file="file://$PROJECT_DIR$/leetcode/transform/medium2/N90.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -318,294 +852,438 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/array/N073.java">
+    <entry file="file://$PROJECT_DIR$/leetcode/transform/medium2/N105.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="60">
+          <caret line="3" column="13" lean-forward="false" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/string/N014.java">
+    <entry file="file://$PROJECT_DIR$/leetcode/transform/test/QuickSort.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="-700">
+          <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/array/N039.java">
+    <entry file="file://$PROJECT_DIR$/leetcode/transform/test/Test.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="40">
+          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/string/N551.java">
+    <entry file="file://$PROJECT_DIR$/leetcode/transform/test/TwoVArray.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/array/N064.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/array/N081.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/array/N611.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/dp/_N638.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/array/N048.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/transform/medium/Most_Frequent_Subtree_Sum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/transform/easy/Merge_Sorted_Array.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="40">
+          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/leetcode/transform/N657.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="40">
+          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/transform/easy/Find_Mode_in_Binary_Search_Tree.java">
+    <entry file="file://$PROJECT_DIR$/leetcode/transform/N617.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="3" column="4" lean-forward="false" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
+        <state relative-caret-position="40">
+          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/transform/medium/Is_Subsequence.java">
+    <entry file="file://$PROJECT_DIR$/leetcode/string/N606.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="80">
+          <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/transform/easy/Binary_Watch.java">
+    <entry file="file://$PROJECT_DIR$/leetcode/string/N557.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="260">
+          <caret line="13" column="46" lean-forward="false" selection-start-line="13" selection-start-column="46" selection-end-line="13" selection-end-column="46" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/transform/easy/Roman_to_Integer.java">
+    <entry file="file://$PROJECT_DIR$/template/binarytree/Inorder.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/transform/easy2/Count_Primes.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/transform/easy2/Valid_Perfect_Square.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/transform/easy/Missing_Number.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Jianzhi/Jianzhi.iml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/template/thread/PrintModelThread.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="49" column="13" lean-forward="false" selection-start-line="49" selection-start-column="13" selection-end-line="49" selection-end-column="13" />
+        <state relative-caret-position="160">
+          <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
           <folding>
-            <element signature="method#PrintModelThread#0;class#PrintModelThread#0" expanded="false" />
-            <element signature="method#add#0;class#PrintModelThread#0" expanded="false" />
-            <element signature="e#866#915#0" expanded="false" />
-            <element signature="e#1357#1406#0" expanded="false" />
-            <element signature="method#run#0;class#PrintModelThread#0" expanded="false" />
-            <element signature="class#PrintChar#0;class#PrintModelThread#0" expanded="false" />
-            <element signature="method#run#0;class#PrintChar#0;class#PrintModelThread#0" expanded="false" />
-            <element signature="class#PrintNum#0;class#PrintModelThread#0" expanded="false" />
-            <element signature="method#run#0;class#PrintNum#0;class#PrintModelThread#0" expanded="false" />
-            <element signature="method#main#0;class#PrintModelThread#0" expanded="false" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/array/N018.java">
+    <entry file="file://$PROJECT_DIR$/jianzhi/src/链表中倒数第k个结点.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="9" column="36" lean-forward="true" selection-start-line="9" selection-start-column="36" selection-end-line="9" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jianzhi/src/合并两个排序的链表.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="19" column="49" lean-forward="true" selection-start-line="19" selection-start-column="49" selection-end-line="20" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jianzhi/src/树的子结构.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="10" column="25" lean-forward="true" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jianzhi/src/顺时针打印矩阵.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="11" column="20" lean-forward="true" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jianzhi/src/包含min函数的栈.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="245">
+          <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <folding>
+            <element signature="e#451#452#0" expanded="false" />
+            <element signature="e#486#487#0" expanded="false" />
+            <element signature="e#510#511#0" expanded="false" />
+            <element signature="e#543#544#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jianzhi/src/栈的压入弹出序列.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="15" column="13" lean-forward="true" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jianzhi/src/从上往下打印二叉树.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="6" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jianzhi/src/二叉搜索树的后序遍历序列.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="520">
+          <caret line="26" column="5" lean-forward="false" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jianzhi/src/反转链表.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="700">
+          <caret line="35" column="33" lean-forward="false" selection-start-line="35" selection-start-column="20" selection-end-line="35" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/node/TreeNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="19" column="17" lean-forward="false" selection-start-line="19" selection-start-column="12" selection-end-line="19" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/node/ListNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="26" column="5" lean-forward="true" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/node/RandomListNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="12" column="59" lean-forward="true" selection-start-line="12" selection-start-column="59" selection-end-line="12" selection-end-column="59" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/node/ComplexListNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="9" column="32" lean-forward="true" selection-start-line="9" selection-start-column="32" selection-end-line="9" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jianzhi/src/复杂链表的复制.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="680">
+          <caret line="34" column="5" lean-forward="false" selection-start-line="34" selection-start-column="5" selection-end-line="34" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jianzhi/src/二叉搜索树与双向链表.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="4" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jianzhi/src/二维数组中的查找.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="16" column="5" lean-forward="true" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jianzhi/src/二叉树的镜像.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="21" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jianzhi/src/字符串的排列.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="19" column="24" lean-forward="false" selection-start-line="19" selection-start-column="24" selection-end-line="19" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jianzhi/src/字符串的排列Ⅱ.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="11" column="39" lean-forward="true" selection-start-line="11" selection-start-column="39" selection-end-line="11" selection-end-column="39" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/_ENVIRONMENT/Java/jdk/src.zip!/java/util/List.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="201">
+          <caret line="144" column="12" lean-forward="false" selection-start-line="144" selection-start-column="12" selection-end-line="144" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/_ENVIRONMENT/Java/jdk/src.zip!/java/lang/Object.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="201">
+          <caret line="147" column="25" lean-forward="false" selection-start-line="147" selection-start-column="19" selection-end-line="147" selection-end-column="25" />
+          <folding>
+            <element signature="e#5748#5749#0" expanded="false" />
+            <element signature="e#5784#5785#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/_ENVIRONMENT/Java/jdk/src.zip!/java/util/ArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="393">
+          <caret line="316" column="26" lean-forward="true" selection-start-line="316" selection-start-column="26" selection-end-line="316" selection-end-column="26" />
+          <folding>
+            <element signature="e#10907#10908#0" expanded="false" />
+            <element signature="e#10945#10946#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/_ENVIRONMENT/Java/jdk/src.zip!/java/util/LinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="193">
+          <caret line="969" column="25" lean-forward="false" selection-start-line="969" selection-start-column="25" selection-end-line="969" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/template/排序_集合/排序_元素无重复.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="313">
+          <caret line="22" column="24" lean-forward="true" selection-start-line="22" selection-start-column="24" selection-end-line="22" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="method#permute_ex#0;class#排序_元素无重复#0" expanded="false" />
+            <element signature="method#permute_exHelper#0;class#排序_元素无重复#0" expanded="false" />
+            <element signature="method#swap#0;class#排序_元素无重复#0" expanded="false" />
+            <element signature="method#newList#0;class#排序_元素无重复#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/template/排序_集合/集合_元素无重复.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="19" column="30" lean-forward="false" selection-start-line="19" selection-start-column="30" selection-end-line="19" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/template/排序_集合/集合_元素有重复.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="12" column="9" lean-forward="false" selection-start-line="11" selection-start-column="23" selection-end-line="12" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/template/排序_集合/排序_元素有重复.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="57" column="0" lean-forward="false" selection-start-line="57" selection-start-column="0" selection-end-line="57" selection-end-column="0" />
+          <folding>
+            <element signature="method#permuteUnique#0;class#排序_元素有重复#0" expanded="false" />
+            <element signature="method#permuteUniqueHelper#0;class#排序_元素有重复#0" expanded="false" />
+            <element signature="method#permuteUnique_ex#0;class#排序_元素有重复#0" expanded="false" />
+            <element signature="method#permuteUnique_exHelper#0;class#排序_元素有重复#0" expanded="false" />
+            <element signature="method#isContainDuplicate#0;class#排序_元素有重复#0" expanded="false" />
+            <element signature="method#swap#0;class#排序_元素有重复#0" expanded="false" />
+            <element signature="method#newList#0;class#排序_元素有重复#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/template/排序_集合/加和_元素无重复_选择有重复.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="12" column="75" lean-forward="true" selection-start-line="12" selection-start-column="75" selection-end-line="12" selection-end-column="75" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/template/排序_集合/加和_元素有重复_选择无重复.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="460">
+          <caret line="23" column="9" lean-forward="true" selection-start-line="23" selection-start-column="9" selection-end-line="23" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jianzhi/src/二叉树中和为某一值的路径.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="439">
+          <caret line="34" column="32" lean-forward="false" selection-start-line="34" selection-start-column="27" selection-end-line="34" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/template/didi.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="9" lean-forward="false" selection-start-line="0" selection-start-column="9" selection-end-line="0" selection-end-column="9" />
+          <caret line="0" column="17" lean-forward="false" selection-start-line="0" selection-start-column="17" selection-end-line="0" selection-end-column="17" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/lib/TreeNode.java">
+    <entry file="file://$PROJECT_DIR$/leetcode/动态规划/分类_是否能分为两个相等的子数组.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="40">
-          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        <state relative-caret-position="340">
+          <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/lib/Interval.java">
+    <entry file="file://$PROJECT_DIR$/template/sort/unstable/QuickSort.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="40">
-          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/template/binarytree/LevelSorder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="379">
+          <caret line="33" column="0" lean-forward="true" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/template/sort/unstable/HeapSort.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="180">
+          <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="41" selection-end-column="5" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/template/designmode/Singleton.java">
+    <entry file="file://$PROJECT_DIR$/template/didi/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="340">
+          <caret line="17" column="44" lean-forward="false" selection-start-line="17" selection-start-column="44" selection-end-line="17" selection-end-column="44" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/template/didi/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="19" column="9" lean-forward="true" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/template/sort/unstable/SelectionSort.java">
+    <entry file="file://$PROJECT_DIR$/template/three60/Main1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="220">
+          <caret line="11" column="29" lean-forward="true" selection-start-line="11" selection-start-column="29" selection-end-line="11" selection-end-column="29" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/template/sort/stable/InsertionSort.java">
+    <entry file="file://$PROJECT_DIR$/template/didi/TheMaxK.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="940">
+          <caret line="50" column="5" lean-forward="true" selection-start-line="50" selection-start-column="5" selection-end-line="50" selection-end-column="5" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/template/sort/unstable/MergeSort.java">
+    <entry file="file://$PROJECT_DIR$/template/three60/Main2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="40">
+          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="20" selection-end-column="5" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/template/lib/TreeNode.java">
+    <entry file="file://$PROJECT_DIR$/template/three60/Main3.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/template/binarytree/Preorder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/template/sort/stable/BubbleSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/template/toutiao/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-12694">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="-280">
+          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="2" selection-end-line="7" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

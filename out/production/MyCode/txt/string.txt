@@ -1,0 +1,271 @@
+28. Implement strStr()
+字符串是否含有指定的子字符串
+    public static int strStr(String haystack, String needle) {
+        if (needle.equals("")) return 0;
+        if (haystack.equals("")) return -1;
+        if (haystack.length() < needle.length()) return -1;
+        char[] ch = haystack.toCharArray();
+        char[] cn = needle.toCharArray();
+        for (int i = 0; i <= ch.length - cn.length; i++) {
+            boolean has = true;
+            for (int j = 0; j <= cn.length - 1; j++) {
+                if (ch[i + j] != cn[j]) has = false;
+            }
+            if (has) return i;
+        }
+        return -1;
+    }
+
+=====
+557. Reverse Words in a String III
+给定一个字符串，你需要改变字符的顺序在每个词在句子中的空白，同时仍然保持初始的语序。
+    public String reverseWords(String s) {
+        if (s == null || s.length() == 0) return "";
+        String[] noSpace = s.split(" ");
+        if (noSpace.length == 0) return "";
+        StringBuilder sb = new StringBuilder("");
+        for (String t : noSpace) {
+            sb.append(reverseOne(t)).append(" ");
+        }
+        sb.deleteCharAt(sb.length() - 1);
+        return sb.toString();
+    }
+
+    public String reverseOne(String s) {
+        char[] chars = s.toCharArray();
+        for (int i = 0, j = s.length()- 1; i < j; i++, j--) {
+            char t = chars[i];
+            chars[i] = chars[j];
+            chars[j] = t;
+        }
+        return new String(chars);
+    }
+
+=====
+551. Student Attendance Record I
+A：缺席，L：迟到，P：出席
+如果没有一个以上的A或者连续两个L，则可以有礼物，判断是否有礼物
+    public static boolean checkRecord(String s) {
+        if (s == null || s.length() == 0) return false;
+        int aN = 0;
+        int lN = 0;
+        for (int i = 0; i < s.length(); i++) {
+            if (s.charAt(i) == 'L') {
+                if (lN == 2) return false;
+                lN++;
+            } else {
+                lN = 0;
+                if (s.charAt(i) == 'A') aN++;
+            }
+        }
+        return aN <= 1;
+    }
+=====
+541. Reverse String II
+一个字符串，一个k，把每2k个字符串中的前k个字符串翻转，不足则全部翻转。
+    public String reverseStr(String s, int k) {
+        if (s == null || s.length() == 0) return "";
+        char[] cs = s.toCharArray();
+        for (int i = 0; i < cs.length; i = i + 2*k) {
+            int start = i;
+            int end = i + k - 1;
+            if (end >= cs.length) end = cs.length - 1;
+            reverse(cs, start, end);
+        }
+        return new String(cs);
+    }
+
+    public void reverse(char[] cs, int start, int end) {
+        for (int i = start, j = end; i < j; i++, j--) {
+            char t = cs[i];
+            cs[i] = cs[j];
+            cs[j] = t;
+        }
+    }
+
+
+=====
+14. Longest Common Prefix
+找出字符串数组中最长的公共前缀字符
+    public String longestCommonPrefix(String[] strs) {
+        if (strs == null || strs.length == 0) return "";
+        int minL = Integer.MAX_VALUE;
+        for (String s : strs) {
+            if (s.length() < minL) minL = s.length();
+        }
+        int count = 0;
+        for (int i = 0; i < minL; i++) {
+            char c = strs[0].charAt(i);
+            for (int j = 1; j < strs.length; j++) {
+                if (strs[j].charAt(i) != c) return new String(strs[0].toCharArray(), 0, count);
+            }
+            count++;
+        }
+        return new String(strs[0].toCharArray(), 0, minL);
+    }
+=====
+520. Detect Capital
+判断大写字母使用是不是正确：
+1.所有字符都大写。
+2.所有字符都小写。
+3.只有首字符大写。
+    public boolean detectCapitalUse(String word) {
+        if (word == null) return false;
+        if (word.length() == 0 || word.length() == 1) return true;
+        boolean firstLower = word.charAt(0) >= 97;
+        if (firstLower) {
+            for (int i = 1; i < word.length(); i++) {
+                if (word.charAt(i) < 97) return false;
+            }
+        } else {
+            boolean secondLower = word.charAt(1) >= 97;
+            if (secondLower) {
+                for (int i = 2; i < word.length(); i++) {
+                    if (word.charAt(i) < 97) return false;
+                }
+            } else {
+                for (int i = 2; i < word.length(); i++) {
+                    if (word.charAt(i) >= 97) return false;
+                }
+            }
+        }
+        return true;
+    }
+=====
+20. Valid Parentheses
+字符串只包含左右大中小括号，判断是否配对。
+    public boolean isValid(String s) {
+        Stack<Character> stack = new Stack<>();
+        for (int i = 0; i < s.length(); i++) {
+            char t = s.charAt(i);
+            if (t == '(' || t == '[' || t == '{') stack.push(t);
+            else if (stack.isEmpty()) return false;
+            else if (t == ')' && stack.pop() != '(') return false;
+            else if (t == ']' && stack.pop() != '[') return false;
+            else if (t == '}' && stack.pop() != '{') return false;
+        }
+        return stack.isEmpty();
+    }
+
+=====
+459. Repeated Substring Pattern
+判断是否是由重复字符串构成。
+    public boolean repeatedSubstringPattern(String str) {
+        if (str == null || str.length() == 0) return false;
+        int maxL = str.length() / 2;
+        for (int i = 1; i <= maxL; i++) {
+            if (str.length() % i == 0 && check(str, i)) return true;
+        }
+        return false;
+    }
+
+    public boolean check(String s, int k) {
+        for (int i = k; i < s.length(); i = i + k) {
+            for (int j = i, c = 0; j < i + k; j++, c++) {
+                if (s.charAt(c) != s.charAt(j)) return false;
+            }
+        }
+        return true;
+    }
+=====
+606. Construct String from Binary Tree
+通过括号构建二叉树字符串。
+    public String tree2str(node.TreeNode t) {
+        if (t == null) return "";
+        return builder(t);
+    }
+
+    public String builder(node.TreeNode root) {
+        if (root == null) return "";
+        StringBuilder sb = new StringBuilder(String.valueOf(root.val));
+        String left = builder(root.left);
+        String right = builder(root.right);
+        if (left.equals("") && right.equals("")) return sb.toString();
+        sb.append("(").append(left).append(")");
+        if (!right.equals("")) sb.append("(").append(right).append(")");
+        return sb.toString();
+    }
+=====
+434. Number of Segments in a String
+计算字符串的段数，一段就是不包含space的字符串。
+    public int countSegments(String s) {
+        if (s == null || s.length() == 0) return 0;
+        int count = 0;
+        boolean start = false;
+        for (int i = 0; i < s.length(); i++) {
+            if (!start && s.charAt(i) != ' ') {
+                count++;
+                start = true;
+            }
+            else if (s.charAt(i) == ' ') start = false;
+        }
+        return count;
+    }
+=====
+345. Reverse Vowels of a String
+只翻转字符串的元音。
+    public String reverseVowels(String s) {
+        List<Integer> sites = new ArrayList<>();
+        for (int i = 0; i < s.length(); i++) {
+            if (checkVowel(s.charAt(i))) sites.add(i);
+        }
+        char[] cs = s.toCharArray();
+        for (int i = 0, j = sites.size() - 1; i < j; i++, j--) {
+            char t = cs[sites.get(i)];
+            cs[sites.get(i)] = cs[sites.get(j)];
+            cs[sites.get(j)] = t;
+        }
+        return new String(cs);
+    }
+
+    public boolean checkVowel(char c) {
+        return c == 'a' || c == 'e' || c == 'i' || c == 'o' || c == 'u' || c == 'A' || c == 'E' || c == 'I' || c == 'O' || c == 'U';
+    }
+
+
+=====
+58. Length of Last Word
+返回最后一个单词的长度。(注意连续空格和开头结尾的空格)
+    public int lengthOfLastWord(String s) {
+        if (s == null || s.length() == 0) return 0;
+        int count = 0;
+        int last = 0;
+        for (int i = 0; i < s.length(); i++) {
+            if (s.charAt(i) != ' ') {
+                count++;
+            } else  {
+                if (count != 0) last = count;//*****
+                count = 0;
+            }
+        }
+        return count == 0 ? last : count;
+    }
+
+=====
+67. Add Binary
+二进制相加
+直接计算相加。
+    public String addBinary(String a, String b) {
+        StringBuilder sb = new StringBuilder("");
+        int up = 0, aN = 0, bN = 0;
+        for (int i = a.length() - 1, j = b.length() - 1; i >= 0 || j >= 0; i--, j--) {
+            aN = bN = 0;
+            if (i >= 0) aN = a.charAt(i) - 48;
+            if (j >= 0) bN = b.charAt(j) - 48;
+            int cN = aN + bN + up;
+            if (cN >= 2) {
+                cN -= 2;
+                up = 1;
+            } else up = 0;
+            sb = sb.insert(0, cN);
+        }
+        if (up > 0) sb = sb.insert(0, up);
+        return sb.toString();
+    }
+
+=====
+125. Valid Palindrome
+
+
+
+

@@ -1,6 +1,6 @@
 package string;
 
-import lib.TreeNode;
+import node.TreeNode;
 
 public class N606 {
     public static String tree2str(TreeNode t) {

@@ -1,6 +1,6 @@
 package binarytree;
 
-import lib.TreeNode;
+import node.TreeNode;
 
 import java.util.ArrayList;
 import java.util.LinkedList;
