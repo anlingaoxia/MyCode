@@ -2,22 +2,48 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="562a92e1-f3cd-49cf-aadc-99cbc9cb3080" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exam/my/TopK.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jianzhi/src/字符串的排列_题目.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/array/NewArray.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jianzhi/src/丑数.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jianzhi/src/两个链表的第一个公共结点.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jianzhi/src/二叉树的深度.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jianzhi/src/删除链表中重复的结点.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jianzhi/src/和为S的两个数字.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jianzhi/src/和为S的连续正数序列.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jianzhi/src/左旋转字符串.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jianzhi/src/平衡二叉树.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jianzhi/src/把数组排成最小的数.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jianzhi/src/按之字形顺序打印二叉树.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jianzhi/src/数字在排序数组中出现的次数.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jianzhi/src/数组中出现次数超过一半的数字.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jianzhi/src/数组中只出现一次的数字.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jianzhi/src/数组中的逆序对.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jianzhi/src/数组中重复的数字.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jianzhi/src/整数中1出现的次数.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jianzhi/src/最小的K个数.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jianzhi/src/第一个只出现一次的字符位置.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jianzhi/src/翻转单词顺序列.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jianzhi/src/连续子数组的最大和.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/排序_集合/note.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/排序_集合/排序_元素无重复_交换元素.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/排序_集合/排序_元素无重复_排序添加.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/排序_集合/排序_元素有重复_交换元素.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/排序_集合/排序_元素有重复_排序添加.java" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jianzhi/src/字符串的排列_题目.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/MyCode/didi/Person.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/MyCode/didi/Test.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/MyCode/three60/Main1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/MyCode/three60/Main2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/MyCode/three60/Main3.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/MyCode/排序_集合/排序_元素无重复.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/MyCode/排序_集合/排序_元素有重复.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/template/排序_集合/排序_元素无重复.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/template/排序_集合/排序_元素有重复.java" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/MyCode/my/TopK.class" afterPath="$PROJECT_DIR$/out/production/MyCode/my/TopK.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/MyCode/sort/unstable/MergeSort.class" afterPath="$PROJECT_DIR$/out/production/MyCode/sort/unstable/MergeSort.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/MyCode/sort/unstable/QuickSort.class" afterPath="$PROJECT_DIR$/out/production/MyCode/sort/unstable/QuickSort.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/MyCode/src/字符串的排列Ⅱ.class" afterPath="$PROJECT_DIR$/out/production/MyCode/src/字符串的排列Ⅱ.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MyCode.iml" afterPath="$PROJECT_DIR$/MyCode.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jianzhi/src/字符串的排列Ⅱ.java" afterPath="$PROJECT_DIR$/jianzhi/src/字符串的排列Ⅱ.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/template/sort/unstable/QuickSort.java" afterPath="$PROJECT_DIR$/template/sort/unstable/QuickSort.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/template/排序_集合/排序_元素无重复.java" afterPath="$PROJECT_DIR$/template/排序_集合/排序_元素无重复.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/template/排序_集合/排序_元素有重复.java" afterPath="$PROJECT_DIR$/template/排序_集合/排序_元素有重复.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/template/didi/Main.java" afterPath="$PROJECT_DIR$/exam/didi/Main.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/template/didi/Test.java" afterPath="$PROJECT_DIR$/exam/duoyi/Test.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/template/didi/TheMaxK.java" afterPath="$PROJECT_DIR$/exam/didi/TheMaxK.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/template/three60/Main1.java" afterPath="$PROJECT_DIR$/exam/threesixzero/Main1.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/template/three60/Main2.java" afterPath="$PROJECT_DIR$/exam/threesixzero/Main2.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/template/three60/Main3.java" afterPath="$PROJECT_DIR$/exam/threesixzero/Main3.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/template/toutiao/Main.java" afterPath="$PROJECT_DIR$/exam/toutiao/Main.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/template/sort/unstable/MergeSort.java" afterPath="$PROJECT_DIR$/template/sort/unstable/MergeSort.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -29,43 +55,64 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="字符串的排列_题目.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/jianzhi/src/字符串的排列_题目.java">
+      <file leaf-file-name="和为S的两个数字.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/jianzhi/src/和为S的两个数字.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="450">
-              <caret line="15" column="5" lean-forward="true" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+            <state relative-caret-position="100">
+              <caret line="5" column="10" lean-forward="false" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="左旋转字符串.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/jianzhi/src/左旋转字符串.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="15" column="9" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="19" selection-end-column="31" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="翻转单词顺序列.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/jianzhi/src/翻转单词顺序列.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="448">
+              <caret line="29" column="5" lean-forward="false" selection-start-line="29" selection-start-column="5" selection-end-line="29" selection-end-column="5" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="数组中重复的数字.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/jianzhi/src/数组中重复的数字.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="440">
+              <caret line="22" column="32" lean-forward="true" selection-start-line="22" selection-start-column="32" selection-end-line="22" selection-end-column="32" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="删除链表中重复的结点.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/jianzhi/src/删除链表中重复的结点.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="340">
+              <caret line="17" column="22" lean-forward="true" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="22" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="按之字形顺序打印二叉树.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/jianzhi/src/按之字形顺序打印二叉树.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="340">
+              <caret line="17" column="36" lean-forward="true" selection-start-line="17" selection-start-column="36" selection-end-line="17" selection-end-column="36" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="method#PermutationHelper#0;class#字符串的排列_题目#0" expanded="false" />
-                <element signature="method#duplicate#0;class#字符串的排列_题目#0" expanded="false" />
-                <element signature="method#swap#0;class#字符串的排列_题目#0" expanded="false" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="排序_元素有重复.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/template/排序_集合/排序_元素有重复.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="389">
-              <caret line="24" column="77" lean-forward="true" selection-start-line="24" selection-start-column="77" selection-end-line="24" selection-end-column="77" />
-              <folding>
-                <element signature="method#permuteUnique#0;class#排序_元素有重复#0" expanded="false" />
-                <element signature="method#permuteUnique_ex#0;class#排序_元素有重复#0" expanded="false" />
-                <element signature="method#permuteUnique_exHelper#0;class#排序_元素有重复#0" expanded="false" />
-                <element signature="method#swap#0;class#排序_元素有重复#0" expanded="false" />
-                <element signature="method#isContainDuplicate#0;class#排序_元素有重复#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="字符串的排列Ⅱ.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/jianzhi/src/字符串的排列Ⅱ.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="630">
-              <caret line="22" column="42" lean-forward="false" selection-start-line="22" selection-start-column="42" selection-end-line="22" selection-end-column="42" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -83,7 +130,15 @@
     <findStrings>
       <find>listnode</find>
       <find>println</find>
+      <find>arrays</find>
+      <find>print</find>
+      <find>    </find>
+      <find>static</find>
     </findStrings>
+    <replaceStrings>
+      <replace />
+      <replace />
+    </replaceStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -96,34 +151,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/template/binarytree/LevelSorder.java" />
-        <option value="$PROJECT_DIR$/template/binarytree/Postorder.java" />
-        <option value="$PROJECT_DIR$/template/binarytree/Preorder.java" />
-        <option value="$PROJECT_DIR$/jianzhi/src/从尾到头打印链表.java" />
-        <option value="$PROJECT_DIR$/jianzhi/src/重建二叉树.java" />
-        <option value="$PROJECT_DIR$/jianzhi/src/链表中倒数第k个结点.java" />
-        <option value="$PROJECT_DIR$/leetcode/array/N056.java" />
-        <option value="$PROJECT_DIR$/leetcode/string/N606.java" />
-        <option value="$PROJECT_DIR$/lib/node/ListNode.java" />
-        <option value="$PROJECT_DIR$/jianzhi/src/合并两个排序的链表.java" />
-        <option value="$PROJECT_DIR$/jianzhi/src/树的子结构.java" />
-        <option value="$PROJECT_DIR$/jianzhi/src/二叉树的镜像.java" />
-        <option value="$PROJECT_DIR$/jianzhi/src/顺时针打印矩阵.java" />
-        <option value="$PROJECT_DIR$/jianzhi/src/包含min函数的栈.java" />
-        <option value="$PROJECT_DIR$/jianzhi/src/栈的压入弹出序列.java" />
-        <option value="$PROJECT_DIR$/jianzhi/src/从上往下打印二叉树.java" />
-        <option value="$PROJECT_DIR$/jianzhi/src/二叉搜索树的后序遍历序列.java" />
-        <option value="$PROJECT_DIR$/jianzhi/src/反转链表.java" />
-        <option value="$PROJECT_DIR$/lib/node/RandomListNode.java" />
-        <option value="$PROJECT_DIR$/jianzhi/src/复杂链表的复制.java" />
-        <option value="$PROJECT_DIR$/jianzhi/src/二叉搜索树与双向链表.java" />
-        <option value="$PROJECT_DIR$/jianzhi/src/字符串的排列.java" />
-        <option value="$PROJECT_DIR$/jianzhi/src/二维数组中的查找.java" />
-        <option value="$PROJECT_DIR$/template/排序_集合/全排序_无重复.java" />
-        <option value="$PROJECT_DIR$/template/排序_集合/全排序_有重复.java" />
-        <option value="$PROJECT_DIR$/template/排序_集合/排序_有重复.java" />
-        <option value="$PROJECT_DIR$/template/排序_集合/集合_无重复.java" />
-        <option value="$PROJECT_DIR$/template/排序_集合/集合_有重复.java" />
         <option value="$PROJECT_DIR$/template/排序_集合/集合_无重复_加和.java" />
         <option value="$PROJECT_DIR$/template/排序_集合/加和_元素无重复_可重复选择.java" />
         <option value="$PROJECT_DIR$/template/排序_集合/加和_元素有重复_选择无重复.java" />
@@ -143,10 +170,38 @@
         <option value="$PROJECT_DIR$/exam/my/TopK.java" />
         <option value="$PROJECT_DIR$/template/sort/unstable/QuickSort.java" />
         <option value="$PROJECT_DIR$/jianzhi/src/字符串的排列_新.java" />
-        <option value="$PROJECT_DIR$/jianzhi/src/字符串的排列Ⅱ.java" />
         <option value="$PROJECT_DIR$/template/排序_集合/排序_元素有重复.java" />
-        <option value="$PROJECT_DIR$/template/排序_集合/排序_元素无重复.java" />
         <option value="$PROJECT_DIR$/jianzhi/src/字符串的排列_题目.java" />
+        <option value="$PROJECT_DIR$/template/排序_集合/排序_元素无重复.java" />
+        <option value="$PROJECT_DIR$/template/排序_集合/note.txt" />
+        <option value="$PROJECT_DIR$/template/排序_集合/排序_元素有重复_交换元素.java" />
+        <option value="$PROJECT_DIR$/template/排序_集合/排序_元素有重复_排序添加.java" />
+        <option value="$PROJECT_DIR$/template/排序_集合/排序_元素无重复_交换元素.java" />
+        <option value="$PROJECT_DIR$/template/排序_集合/排序_元素无重复_排序添加.java" />
+        <option value="$PROJECT_DIR$/jianzhi/src/字符串的排列Ⅱ.java" />
+        <option value="$PROJECT_DIR$/jianzhi/src/数组中出现次数超过一半的数字.java" />
+        <option value="$PROJECT_DIR$/template/sort/unstable/HeapSort.java" />
+        <option value="$PROJECT_DIR$/jianzhi/src/最小的K个数.java" />
+        <option value="$PROJECT_DIR$/jianzhi/src/连续子数组的最大和.java" />
+        <option value="$PROJECT_DIR$/jianzhi/src/整数中1出现的次数.java" />
+        <option value="$PROJECT_DIR$/jianzhi/src/把数组排成最小的数.java" />
+        <option value="$PROJECT_DIR$/jianzhi/src/丑数.java" />
+        <option value="$PROJECT_DIR$/jianzhi/src/第一个只出现一次的字符位置.java" />
+        <option value="$PROJECT_DIR$/template/sort/unstable/MergeSort.java" />
+        <option value="$PROJECT_DIR$/jianzhi/src/TT.java" />
+        <option value="$PROJECT_DIR$/jianzhi/src/数组中的逆序对.java" />
+        <option value="$PROJECT_DIR$/jianzhi/src/两个链表的第一个公共结点.java" />
+        <option value="$PROJECT_DIR$/jianzhi/src/数字在排序数组中出现的次数.java" />
+        <option value="$PROJECT_DIR$/jianzhi/src/二叉树的深度.java" />
+        <option value="$PROJECT_DIR$/jianzhi/src/平衡二叉树.java" />
+        <option value="$PROJECT_DIR$/jianzhi/src/数组中只出现一次的数字.java" />
+        <option value="$PROJECT_DIR$/jianzhi/src/和为S的连续正数序列.java" />
+        <option value="$PROJECT_DIR$/jianzhi/src/和为S的两个数字.java" />
+        <option value="$PROJECT_DIR$/jianzhi/src/左旋转字符串.java" />
+        <option value="$PROJECT_DIR$/jianzhi/src/翻转单词顺序列.java" />
+        <option value="$PROJECT_DIR$/jianzhi/src/数组中重复的数字.java" />
+        <option value="$PROJECT_DIR$/jianzhi/src/删除链表中重复的结点.java" />
+        <option value="$PROJECT_DIR$/jianzhi/src/按之字形顺序打印二叉树.java" />
       </list>
     </option>
   </component>
@@ -206,7 +261,6 @@
     </navigator>
     <panes>
       <pane id="AndroidView" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -261,6 +315,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scratches" />
       <pane id="PackagesPane">
         <subPane>
           <expand>
@@ -284,7 +339,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="SearchEverywhereHistoryKey" value="字符串的排列&#9;FILE&#9;file://D:/_WORKSPACE/_intellij/MyCode/jianzhi/src/字符串的排列.java&#10;qui&#9;FILE&#9;file://D:/_WORKSPACE/_intellij/MyCode/template/sort/unstable/QuickSort.java&#10;heapsor&#9;PSI&#9;JAVA://sort.unstable.HeapSort&#10;quick&#9;PSI&#9;JAVA://sort.unstable.QuickSort" />
+    <property name="SearchEverywhereHistoryKey" value="mergesor&#9;FILE&#9;file://D:/_WORKSPACE/_intellij/MyCode/template/sort/unstable/MergeSort.java&#10;merge&#9;PSI&#9;JAVA://sort.unstable.MergeSort&#10;heap&#9;FILE&#9;file://D:/_WORKSPACE/_intellij/MyCode/template/sort/unstable/HeapSort.java&#10;字符串的排列&#9;FILE&#9;file://D:/_WORKSPACE/_intellij/MyCode/jianzhi/src/字符串的排列.java&#10;qui&#9;FILE&#9;file://D:/_WORKSPACE/_intellij/MyCode/template/sort/unstable/QuickSort.java&#10;heapsor&#9;PSI&#9;JAVA://sort.unstable.HeapSort&#10;quick&#9;PSI&#9;JAVA://sort.unstable.QuickSort" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
@@ -318,15 +373,15 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.TopK">
-    <configuration name="Main1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.按之字形顺序打印二叉树">
+    <configuration name="按之字形顺序打印二叉树" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="threesixzero.*" />
+          <option name="PATTERN" value="src.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="threesixzero.Main1" />
+      <option name="MAIN_CLASS_NAME" value="src.按之字形顺序打印二叉树" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -338,14 +393,14 @@
       <module name="MyCode" />
       <envs />
     </configuration>
-    <configuration name="Main2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="删除链表中重复的结点" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="threesixzero.*" />
+          <option name="PATTERN" value="src.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="threesixzero.Main2" />
+      <option name="MAIN_CLASS_NAME" value="src.删除链表中重复的结点" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -357,14 +412,14 @@
       <module name="MyCode" />
       <envs />
     </configuration>
-    <configuration name="Main3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="翻转单词顺序列" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="threesixzero.*" />
+          <option name="PATTERN" value="src.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="threesixzero.Main3" />
+      <option name="MAIN_CLASS_NAME" value="src.翻转单词顺序列" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -376,14 +431,14 @@
       <module name="MyCode" />
       <envs />
     </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="和为S的连续正数序列" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="duoyi.*" />
+          <option name="PATTERN" value="src.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="duoyi.Test" />
+      <option name="MAIN_CLASS_NAME" value="src.和为S的连续正数序列" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -395,14 +450,14 @@
       <module name="MyCode" />
       <envs />
     </configuration>
-    <configuration name="TopK" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="和为S的两个数字" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="my.*" />
+          <option name="PATTERN" value="src.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="my.TopK" />
+      <option name="MAIN_CLASS_NAME" value="src.和为S的两个数字" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -496,19 +551,19 @@
       <listeners />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.Test" />
-      <item index="1" class="java.lang.String" itemvalue="Application.Main1" />
-      <item index="2" class="java.lang.String" itemvalue="Application.Main2" />
-      <item index="3" class="java.lang.String" itemvalue="Application.Main3" />
-      <item index="4" class="java.lang.String" itemvalue="Application.TopK" />
+      <item index="0" class="java.lang.String" itemvalue="Application.和为S的连续正数序列" />
+      <item index="1" class="java.lang.String" itemvalue="Application.和为S的两个数字" />
+      <item index="2" class="java.lang.String" itemvalue="Application.翻转单词顺序列" />
+      <item index="3" class="java.lang.String" itemvalue="Application.删除链表中重复的结点" />
+      <item index="4" class="java.lang.String" itemvalue="Application.按之字形顺序打印二叉树" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.TopK" />
-        <item index="1" class="java.lang.String" itemvalue="Application.Main3" />
-        <item index="2" class="java.lang.String" itemvalue="Application.Main2" />
-        <item index="3" class="java.lang.String" itemvalue="Application.Main1" />
-        <item index="4" class="java.lang.String" itemvalue="Application.Test" />
+        <item index="0" class="java.lang.String" itemvalue="Application.按之字形顺序打印二叉树" />
+        <item index="1" class="java.lang.String" itemvalue="Application.删除链表中重复的结点" />
+        <item index="2" class="java.lang.String" itemvalue="Application.翻转单词顺序列" />
+        <item index="3" class="java.lang.String" itemvalue="Application.和为S的两个数字" />
+        <item index="4" class="java.lang.String" itemvalue="Application.和为S的连续正数序列" />
       </list>
     </recent_temporary>
   </component>
@@ -529,23 +584,24 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="69" y="-9" width="1860" height="1098" extended-state="6" />
+    <frame x="54" y="-8" width="1874" height="1096" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3291536" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.50535333" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30512017" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1987682" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20110497" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3291536" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -557,166 +613,18 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3291536" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <option name="time" value="3" />
+    </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/leetcode/transform/test/Test.java" />
-    <entry file="file://$PROJECT_DIR$/leetcode/transform/test/TwoVArray.java" />
-    <entry file="file://$PROJECT_DIR$/leetcode/transform/N657.java" />
-    <entry file="file://$PROJECT_DIR$/leetcode/transform/N617.java" />
-    <entry file="file://$PROJECT_DIR$/leetcode/string/N606.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="80">
-          <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/string/N557.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="13" column="46" lean-forward="false" selection-start-line="13" selection-start-column="46" selection-end-line="13" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/template/binarytree/Inorder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/jianzhi/src/链表中倒数第k个结点.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="9" column="36" lean-forward="true" selection-start-line="9" selection-start-column="36" selection-end-line="9" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/jianzhi/src/合并两个排序的链表.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="19" column="49" lean-forward="true" selection-start-line="19" selection-start-column="49" selection-end-line="20" selection-end-column="27" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/jianzhi/src/树的子结构.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="10" column="25" lean-forward="true" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/jianzhi/src/顺时针打印矩阵.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="11" column="20" lean-forward="true" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/jianzhi/src/包含min函数的栈.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="245">
-          <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/jianzhi/src/栈的压入弹出序列.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="15" column="13" lean-forward="true" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/jianzhi/src/从上往下打印二叉树.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="80">
-          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="6" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/jianzhi/src/二叉搜索树的后序遍历序列.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="520">
-          <caret line="26" column="5" lean-forward="false" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/jianzhi/src/反转链表.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="700">
-          <caret line="35" column="33" lean-forward="false" selection-start-line="35" selection-start-column="20" selection-end-line="35" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/node/TreeNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="320">
-          <caret line="19" column="17" lean-forward="false" selection-start-line="19" selection-start-column="12" selection-end-line="19" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/node/ListNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="26" column="5" lean-forward="true" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/node/RandomListNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="12" column="59" lean-forward="true" selection-start-line="12" selection-start-column="59" selection-end-line="12" selection-end-column="59" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/node/ComplexListNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="9" column="32" lean-forward="true" selection-start-line="9" selection-start-column="32" selection-end-line="9" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/jianzhi/src/复杂链表的复制.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="680">
-          <caret line="34" column="5" lean-forward="false" selection-start-line="34" selection-start-column="5" selection-end-line="34" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/jianzhi/src/二叉搜索树与双向链表.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="4" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/jianzhi/src/二维数组中的查找.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="320">
-          <caret line="16" column="5" lean-forward="true" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/jianzhi/src/二叉树的镜像.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="21" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/_ENVIRONMENT/Java/jdk/src.zip!/java/util/List.java" />
-    <entry file="jar://C:/_ENVIRONMENT/Java/jdk/src.zip!/java/lang/Object.java" />
-    <entry file="jar://C:/_ENVIRONMENT/Java/jdk/src.zip!/java/util/ArrayList.java" />
-    <entry file="jar://C:/_ENVIRONMENT/Java/jdk/src.zip!/java/util/LinkedList.java" />
     <entry file="file://$PROJECT_DIR$/template/排序_集合/集合_元素无重复.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="380">
@@ -739,21 +647,10 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/template/didi.java" />
-    <entry file="file://$PROJECT_DIR$/template/sort/unstable/HeapSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="41" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/exam/threesixzero/Main3.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1710">
           <caret line="57" column="5" lean-forward="false" selection-start-line="57" selection-start-column="5" selection-end-line="57" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -761,7 +658,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
           <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="20" selection-end-column="5" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -777,7 +673,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="485">
           <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -793,9 +688,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="362">
           <caret line="17" column="44" lean-forward="false" selection-start-line="17" selection-start-column="44" selection-end-line="17" selection-end-column="44" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -811,7 +703,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
           <caret line="9" column="6" lean-forward="true" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -839,35 +730,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/jianzhi/src/字符串的排列.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="600">
-          <caret line="20" column="28" lean-forward="true" selection-start-line="20" selection-start-column="28" selection-end-line="20" selection-end-column="28" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/_ENVIRONMENT/Java/jdk/src.zip!/com/sun/org/apache/xpath/internal/operations/String.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="30" column="13" lean-forward="false" selection-start-line="30" selection-start-column="13" selection-end-line="30" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/template/排序_集合/排序_元素无重复.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="7" column="8" lean-forward="false" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
-          <folding>
-            <element signature="method#permute_ex#0;class#排序_元素无重复#0" expanded="false" />
-            <element signature="method#permute_exHelper#0;class#排序_元素无重复#0" expanded="false" />
-            <element signature="method#swap#0;class#排序_元素无重复#0" expanded="false" />
-            <element signature="method#newList#0;class#排序_元素无重复#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="jar://D:/_ENVIRONMENT/Java/jdk/src.zip!/com/sun/org/apache/xpath/internal/operations/String.java" />
     <entry file="file://$PROJECT_DIR$/template/排序_集合/加和_元素有重复_选择无重复.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="600">
@@ -876,37 +739,299 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/jianzhi/src/字符串的排列Ⅱ.java">
+    <entry file="file://$PROJECT_DIR$/template/排序_集合/排序_元素有重复.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="630">
-          <caret line="22" column="42" lean-forward="false" selection-start-line="22" selection-start-column="42" selection-end-line="22" selection-end-column="42" />
+        <state relative-caret-position="420">
+          <caret line="24" column="32" lean-forward="false" selection-start-line="24" selection-start-column="32" selection-end-line="24" selection-end-column="32" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/template/排序_集合/排序_元素有重复.java">
+    <entry file="file://$PROJECT_DIR$/template/排序_集合/note.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="389">
-          <caret line="24" column="77" lean-forward="true" selection-start-line="24" selection-start-column="77" selection-end-line="24" selection-end-column="77" />
+        <state relative-caret-position="220">
+          <caret line="11" column="42" lean-forward="false" selection-start-line="11" selection-start-column="42" selection-end-line="11" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/template/排序_集合/排序_元素有重复_交换元素.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="199">
+          <caret line="11" column="36" lean-forward="true" selection-start-line="11" selection-start-column="36" selection-end-line="11" selection-end-column="36" />
           <folding>
-            <element signature="method#permuteUnique#0;class#排序_元素有重复#0" expanded="false" />
-            <element signature="method#permuteUnique_ex#0;class#排序_元素有重复#0" expanded="false" />
-            <element signature="method#permuteUnique_exHelper#0;class#排序_元素有重复#0" expanded="false" />
-            <element signature="method#swap#0;class#排序_元素有重复#0" expanded="false" />
-            <element signature="method#isContainDuplicate#0;class#排序_元素有重复#0" expanded="false" />
+            <element signature="method#isLast#0;class#排序_元素有重复_交换元素#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/template/排序_集合/排序_元素无重复.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="700">
+          <caret line="60" column="0" lean-forward="true" selection-start-line="55" selection-start-column="4" selection-end-line="60" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/template/排序_集合/排序_元素无重复_交换元素.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="6" column="52" lean-forward="true" selection-start-line="6" selection-start-column="52" selection-end-line="6" selection-end-column="52" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/template/排序_集合/排序_元素无重复_排序添加.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="32" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/template/排序_集合/排序_元素有重复_排序添加.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="12" column="9" lean-forward="true" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/jianzhi/src/字符串的排列_题目.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="15" column="5" lean-forward="true" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+        <state relative-caret-position="540">
+          <caret line="48" column="37" lean-forward="false" selection-start-line="48" selection-start-column="37" selection-end-line="48" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jianzhi/src/最小的K个数.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="9" column="22" lean-forward="false" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="22" />
+          <folding>
+            <element signature="e#189#198#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jianzhi/src/连续子数组的最大和.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="16" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/_ENVIRONMENT/Java/jdk/src.zip!/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="211">
+          <caret line="2896" column="18" lean-forward="false" selection-start-line="2896" selection-start-column="18" selection-end-line="2896" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jianzhi/src/字符串的排列Ⅱ.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="17" column="9" lean-forward="true" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jianzhi/src/数组中出现次数超过一半的数字.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="14" column="29" lean-forward="true" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jianzhi/src/字符串的排列.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="5" column="50" lean-forward="false" selection-start-line="5" selection-start-column="50" selection-end-line="5" selection-end-column="50" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jianzhi/src/整数中1出现的次数.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="10" column="24" lean-forward="true" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jianzhi/src/把数组排成最小的数.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="24" column="67" lean-forward="true" selection-start-line="24" selection-start-column="67" selection-end-line="24" selection-end-column="67" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="method#PermutationHelper#0;class#字符串的排列_题目#0" expanded="false" />
-            <element signature="method#duplicate#0;class#字符串的排列_题目#0" expanded="false" />
-            <element signature="method#swap#0;class#字符串的排列_题目#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/template/sort/unstable/HeapSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="37" column="0" lean-forward="false" selection-start-line="37" selection-start-column="0" selection-end-line="41" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jianzhi/src/第一个只出现一次的字符位置.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="3" column="10" lean-forward="false" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jianzhi/src/丑数.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="30" selection-end-column="5" />
+          <folding>
+            <element signature="e#802#803#0" expanded="true" />
+            <element signature="e#852#853#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jianzhi/src/TT.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="628">
+          <caret line="39" column="39" lean-forward="true" selection-start-line="39" selection-start-column="39" selection-end-line="46" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/template/sort/unstable/MergeSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="448">
+          <caret line="28" column="42" lean-forward="false" selection-start-line="28" selection-start-column="42" selection-end-line="28" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jianzhi/src/数组中的逆序对.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="13" column="9" lean-forward="true" selection-start-line="13" selection-start-column="9" selection-end-line="13" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jianzhi/src/两个链表的第一个公共结点.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="30" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jianzhi/src/数字在排序数组中出现的次数.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="3" column="48" lean-forward="false" selection-start-line="3" selection-start-column="48" selection-end-line="3" selection-end-column="48" />
+          <folding>
+            <element signature="method#GetNumberOfK#0;class#数字在排序数组中出现的次数#0" expanded="false" />
+            <element signature="method#binarySearch#0;class#数字在排序数组中出现的次数#0" expanded="false" />
+            <element signature="method#findLeftFirst#0;class#数字在排序数组中出现的次数#0" expanded="false" />
+            <element signature="method#findRightLast#0;class#数字在排序数组中出现的次数#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jianzhi/src/二叉树的深度.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="17" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jianzhi/src/平衡二叉树.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="9" column="39" lean-forward="false" selection-start-line="9" selection-start-column="39" selection-end-line="9" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jianzhi/src/数组中只出现一次的数字.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="5" column="79" lean-forward="false" selection-start-line="5" selection-start-column="79" selection-end-line="5" selection-end-column="79" />
+          <folding>
+            <element signature="method#FindNumsAppearOnce#0;class#数组中只出现一次的数字#0" expanded="false" />
+            <element signature="method#main#0;class#数组中只出现一次的数字#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jianzhi/src/和为S的连续正数序列.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="22" column="114" lean-forward="true" selection-start-line="22" selection-start-column="114" selection-end-line="23" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jianzhi/src/和为S的两个数字.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="5" column="10" lean-forward="false" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jianzhi/src/左旋转字符串.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="15" column="9" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="19" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jianzhi/src/翻转单词顺序列.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="448">
+          <caret line="29" column="5" lean-forward="false" selection-start-line="29" selection-start-column="5" selection-end-line="29" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jianzhi/src/数组中重复的数字.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="22" column="32" lean-forward="true" selection-start-line="22" selection-start-column="32" selection-end-line="22" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jianzhi/src/删除链表中重复的结点.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="17" column="22" lean-forward="true" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jianzhi/src/按之字形顺序打印二叉树.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="17" column="36" lean-forward="true" selection-start-line="17" selection-start-column="36" selection-end-line="17" selection-end-column="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>

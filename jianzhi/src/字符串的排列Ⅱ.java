@@ -1,38 +1,30 @@
 package src;
 
 import java.util.ArrayList;
-import java.util.List;
 
 public class 字符串的排列Ⅱ {
-    public static ArrayList<String> Permutation(String str) {
-        ArrayList<String> list = new ArrayList<>();
+    public ArrayList<String> Permutation(String str) {
+        ArrayList<String> all = new ArrayList<>();
         if (str == null || str.length() == 0) {
-            return list;
+            return all;
         }
-        char[] ctr = str.toCharArray();
-        boolean[] alphabet = new boolean[128];
-        PermutationHelper(ctr, list, 0);
-        return list;
+        PermutationHelper(str.toCharArray(), all, new char[str.length()], 0, new boolean[str.length()]);
+        return all;
     }
 
-    public static void PermutationHelper(char[] ctr, List<String> list, int p) {
-        if (p == ctr.length - 1) {
-            list.add(new String(ctr));
+    public void PermutationHelper(char[] ctr, ArrayList<String> all, char[] save, int sp, boolean[] used) {
+        if (sp == ctr.length) {
+            all.add(new String(save));
         }
-        for (int i = p; i < ctr.length; i++) {
-            if (i != p && ctr[i] == ctr[p]) {
+        for (int i = 0; i < ctr.length; i++) {
+            if (used[i] || i != 0 && !used[i - 1] && ctr[i] == ctr[i - 1]) {
                 continue;
             }
-            swap(ctr, p, i);
-            PermutationHelper(ctr, list, p + 1);
-            swap(ctr, p, i);
+            used[i] = true;
+            save[sp++] = ctr[i];
+            PermutationHelper(ctr, all, save, sp, used);
+            sp--;
+            used[i] = false;
         }
     }
-
-    public static void swap(char[] ctr, int i, int j) {
-        char t = ctr[i];
-        ctr[i] = ctr[j];
-        ctr[j] = t;
-    }
-
 }
