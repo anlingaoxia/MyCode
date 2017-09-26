@@ -1,0 +1,133 @@
+Animation Resources
+补间动画在res/anim/使用R.anim访问
+帧动画在res/drawable/使用R.drawable访问
+
+动画资源可以定义两种动画中的一种：
+属性动画
+View动画:包含两种
+1.补间动画：通过在动画上对一个图像执行一系列转换来创建动画。
+2.帧动画:通过展示一系列的AnimationDrawable来创建动画.
+
+属性动画:在animator文件夹下
+xml文件里有animator、objectAnimator、set三个标签
+它修改目标对象的属性，例如背景颜色或alpha值，在规定的时间内修改。
+<set>//一个容器,用来容纳<objectAnimator>, <valueAnimator>, <set>,每个<set>都可以定义自己的ordering属性
+	android:ordering=sequentially|together (default) (顺序播放|同时播放)
+	<objectAnimator> 代表一个ObjectAnimator.
+	   *android:propertyName string alpha,rotation...
+	   *android:valueFrom="float | int | color"
+       *android:valueTo="float | int | color"
+		android:duration="int"  默认300ms
+		android:startOffset="int" 时间延迟
+        android:repeatCount="int" -1无限重复,正整数表示重复几次,默认0,不重复
+        android:repeatMode=["repeat" | "reverse"] repeatCount=0时不起作用,reverse|loop 分别是对称播放,或者重复播放
+        android:valueType=["intType" | "floatType"]/> 默认floatType,如果为颜色,不要设置该项.
+	<animator> 代表一个ValueAnimator.
+       *android:valueFrom="float | int | color"
+       *android:valueTo="float | int | color"
+		android:duration="int"
+        android:startOffset="int"
+        android:repeatCount="int"
+        android:repeatMode=["repeat" | "reverse"]
+        android:valueType=["intType" | "floatType"]/>
+
+
+
+为了运行动画,必须在代码中初始化XML资源到一个AnimatorSet对象上,然后在启动AnimatorSet之前为所有animations 设置目标对象。使用setTarget()方法进行设置目标对象.
+eg:
+AnimatorSet set = (AnimatorSet) AnimatorInflater.loadAnimator(myContext,R.anim.property_animator);
+set.setTarget(myObject);
+set.start();
+
+
+View动画:在anim文件夹下
+
+Tween animation:编译为 Animation对象
+xml文件里只有scale、rotate、translate、alpha、set五个标签,行旋转,渐变,移动,拉伸
+<set>//一个容器,用来容纳<alpha>, <scale>, <translate>, <rotate>
+	android:interpolator="@[package:]anim/interpolator_resource" //引用的是一个插值器的资源,不是类名
+	android:shareInterpolator=["true" | "false"] > true如果希望所有子元素都用同样的插值器
+	<scale尺寸
+        android:fromXScale="float"  起始的X方向上相对自身的缩放比例，浮点值，比如1.0代表自身无变化，0.5代表起始时缩小一倍，2.0代表放大一倍；
+        android:toXScale="float"    结尾的X方向上相对自身的缩放比例，浮点值；
+        android:fromYScale="float"  起始的Y方向上相对自身的缩放比例，浮点值，
+        android:toYScale="float"    结尾的Y方向上相对自身的缩放比例，浮点值；
+        android:pivotX="float"      缩放起点X轴坐标，可以是数值、百分数、百分数p 三种样式,数值、百分数都是从自身内部开始由大变小,百分数p是由父View开始缩放到子View
+                                    当为数值时，表示在当前View的左上角，即原点处加上50px，做为起始缩放点；
+                                    当为百分数时，表示在当前控件的左上角加上自己宽度的50%做为起始点；
+                                    当为百分数p时，那么就是表示在当前的左上角加上父控件宽度的50%做为起始点x轴坐标。
+        android:pivotY="float" />   缩放起点Y轴坐标，取值及意义跟android:pivotX一样。
+
+	<alpha透明度
+		android:fromAlpha="float"   动画开始的透明度，从0.0 --1.0 ，0.0表示全透明，1.0表示完全不透明
+        android:toAlpha="float" />  动画结束时的透明度，也是从0.0 --1.0 ，0.0表示全透明，1.0表示完全不透明
+
+    <translate平移
+        android:fromXDelta="float"  起始点X轴坐标，可以是数值、百分数、百分数p 三种样式
+        android:toXDelta="float"    起始点Y轴从标，可以是数值、百分数、百分数p 三种样式
+        android:fromYDelta="float"  结束点X轴坐标
+        android:toYDelta="float" /> 结束点Y轴坐标
+
+    <rotate旋转
+        android:fromDegrees="float"     开始旋转的角度位置，正值代表顺时针方向度数，负值代码逆时针方向度数
+        android:toDegrees="float"       结束时旋转到的角度位置，正值代表顺时针方向度数，负值代码逆时针方向度数
+        android:pivotX="float"          缩放起点X轴坐标，可以是数值、百分数、百分数p 三种样式
+        android:pivotY="float" />       缩放起点Y轴坐标，可以是数值、百分数、百分数p 三种样式
+
+    <Animation
+        android:duration        动画持续时间，以毫秒为单位
+        android:fillAfter       如果设置为true，控件动画结束时，将保持动画最后时的状态
+        android:fillBefore      如果设置为true,控件动画结束时，还原到开始动画前的状态
+        android:fillEnabled     设置fillAfter和fillBefore是否生效.这三个fill必须在顶层设置.默认true时为fillBefore
+        android:repeatCount     重复次数
+        android:repeatMode      重复类型，有reverse和restart两个值，reverse表示倒序回放，restart表示重新放一遍，必须与repeatCount一起使用才能看到效果。因为这里的意义是重复的类型，即回放时的动作。
+        android:interpolator    设定插值器，其实就是指定的动作效果，比如弹跳效果等，不在这小节中讲解，后面会单独列出一单讲解。
+    />
+    <duration,fill3,repeat2,interpolator>
+
+
+
+    AccelerateDecelerateInterpolator   在动画开始与介绍的地方速率改变比较慢，在中间的时候加速
+    AccelerateInterpolator                     在动画开始的地方速率改变比较慢，然后开始加速
+    AnticipateInterpolator                      开始的时候向后然后向前甩
+    AnticipateOvershootInterpolator     开始的时候向后然后向前甩一定值后返回最后的值
+    BounceInterpolator                          动画结束的时候弹起
+    CycleInterpolator                             动画循环播放特定的次数，速率改变沿着正弦曲线
+    DecelerateInterpolator                    在动画开始的地方快然后慢
+    LinearInterpolator                            以常量速率改变
+    OvershootInterpolator                      向前甩一定值后再回到原来位置
+
+    ScaleAnimation
+    AlphaAnimation
+    RotateAnimation
+    TranslateAnimation
+    AnimationSet
+
+    Animation.ABSOLUTE
+    Animation.RELATIVE_TO_SELF
+    Animation.RELATIVE_TO_PARENT
+
+帧动画 编译为AnimationDrawable
+帧动画不能再onCreate中进行start()
+如果想要马上进行播放动画,需要在 onWindowFocusChanged() 方法中进行.
+
+
+
+<animation-list> 必须为根节点,包含 <item>元素
+    android:oneshot true播放一次,false循环播放
+    <item> 一帧
+        android:drawable
+        android:duration 持续时间
+
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android"
+    android:oneshot="false">
+    <item android:drawable="@drawable/rocket_thrust1" android:duration="200" />
+    <item android:drawable="@drawable/rocket_thrust2" android:duration="200" />
+    <item android:drawable="@drawable/rocket_thrust3" android:duration="200" />
+</animation-list>
+
+ImageView rocketImage = (ImageView) findViewById(R.id.rocket_image);
+rocketImage.setBackgroundResource(R.drawable.rocket_thrust);
+
+rocketAnimation = (AnimationDrawable) rocketImage.getBackground();
+rocketAnimation.start();

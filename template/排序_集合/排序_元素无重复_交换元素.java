@@ -21,6 +21,7 @@ public class 排序_元素无重复_交换元素 {
             }
             all.add(list);
         }
+
         for (int i = p; i < nums.length; i++) {
             swap(nums, i, p);
             permuteHelper(nums, all, p + 1);

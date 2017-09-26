@@ -17,9 +17,6 @@ public class LevelSorder {
                     TreeNode tmp = record.removeLast();
                 }
             }
-
-
-
         }
 
 

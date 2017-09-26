@@ -23,12 +23,20 @@ public class 整数中1出现的次数 {
         if (i == nums.length - 1) {
             return nums[i] > 0 ? 1 : 0;
         }
-        int numFirstDigit = nums[i] == 0 ? 0 : nums[i] > 1 ? (int) Math.pow(10, nums.length - 1 - i) : getNums(nums, i + 1) + 1;
+        int numFirstDigit = 0;
+        if (nums[i] != 0) {
+            if (nums[i] > 1) {
+                numFirstDigit = (int) Math.pow(10, nums.length - 1 - i);
+            } else {
+                numFirstDigit = getNums(nums, i + 1) + 1;
+            }
+        }
         int numOtherDigit = nums[i] * (nums.length - 1 - i) * (int) Math.pow(10, nums.length - 2 - i);
         int numRecursive = numOf1(nums, i + 1);
         return numFirstDigit + numOtherDigit + numRecursive;
     }
 
+    //得到从i开始的剩余位数的int数值。
     public static int getNums(int[] nums, int i) {
         int count = 0;
         int k = 1;
@@ -38,5 +46,30 @@ public class 整数中1出现的次数 {
         }
         return count;
     }
+
+
+    public static int get(int n) {
+        if (n <= 0) return 0;
+        int count = 0;
+        int factor = 1;
+        int il, ic, ih;
+        while (n / factor > 0) {
+            il = n - (n / factor) * factor;
+            ic = (n / factor) % 10;
+            ih = n / (factor * 10);
+            if (ic < 1) count += ih * factor;
+            else if (ic == 1) count += ih * factor + il + 1;
+            else count += ih * factor + factor;
+            factor *= 10;
+        }
+
+        return count;
+    }
+
+    public static void main(String[] args) {
+        System.out.println(NumberOf1Between1AndN_Solution(300));
+        System.out.println(get(300));
+    }
+
 
 }

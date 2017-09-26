@@ -21,7 +21,6 @@ public class QuickSort {
             while (i < j && nums[i] < key) {
                 i++;
             }
-
             if (i < j) {
                 nums[j] = nums[i];
             }

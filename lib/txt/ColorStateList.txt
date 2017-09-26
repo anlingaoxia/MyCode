@@ -1,0 +1,17 @@
+res/color/filename.xml
+
+<selector>必须为根节点包含<item>
+    *xmlns:android
+    <item>
+        android:color      #RGB
+                           #ARGB
+                           #RRGGBB
+                           #AARRGGBB
+        android:state_pressed
+        android:state_focused
+        android:state_selected
+        android:state_checkable
+        android:state_checked
+        android:state_enabled
+        android:state_window_focused
+        默认状态必须放在最后,否则每次都会被应用.

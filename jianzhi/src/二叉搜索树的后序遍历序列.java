@@ -15,7 +15,6 @@ public class 二叉搜索树的后序遍历序列 {
             leftEnd++;
         }
 
-
         boolean left = true, right = true;
         for (int i = start; i < leftEnd; i++) {
             if (sequence[i] > root) left = false;

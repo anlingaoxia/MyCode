@@ -1,0 +1,28 @@
+
+LayoutManager:
+LinearLayoutManager 安排item在一个一维的list中,和ListView类似.
+GridLayoutManager 安排item在一个二维的list中,和GridView类似,
+StaggeredGridLayoutManager 安排item在一个二维的list中,每一列和前一列有所偏移,瀑布流.
+可以继承 RecyclerView.LayoutManager来自定义.
+
+切换动画:
+ItemChange时候,Recyclerview会调用动画,动画继承RecyclerView.ItemAnimator,默认是 DefaultItemAnimator ,可以自定义动画.
+
+recyclerview 必须setLayoutManager
+recyclerview 必须setAdapter
+
+必须先实现RecyclerView.ViewHolder 初始化viewholder
+必须实现RecylerView的三个方法:
+onCreateViewHolder
+onBindViewHolder
+getItemCount
+
+
+BaseAdapter必须实现四个方法:
+getItem
+getItemId
+getCount
+getView
+
+getItemViewType
+getViewTypeCount

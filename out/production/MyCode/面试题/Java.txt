@@ -1,0 +1,3 @@
+单例中的volatile
+因为sychronized虽然保证了原子性,但是不能保证指令重排,所以在instance = new Singleton()这个非原子操作,可能因为重排而导致先赋值后初始化
+如果先赋值,就可能导致后边的判断instance不为null

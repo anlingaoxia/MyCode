@@ -5,25 +5,23 @@ public class 丑数 {
         if (index <= 0) {
             return 0;
         }
-        int[] uglys = new int[index];
-        uglys[0] = 1;
-        int p = 1;
-        int ugly2 = 0, ugly3 = 0, ugly5 = 0;
+        int[] nums = new int[index];
+        nums[0] = 1;
+        int p = 1, ugly2 = 0, ugly3 = 0, ugly5 = 0;
         while (p < index) {
-            int min = min(uglys[ugly2] * 2, uglys[ugly3] * 3, uglys[ugly5] * 5);
-            System.out.println("min:" + min);
-            uglys[p++] = min;
-            while (uglys[ugly2] * 2 <= min) {
+            int min = min(nums[ugly2] * 2, nums[ugly3] * 3, nums[ugly5] * 5);
+            nums[p++] = min;
+            while (nums[ugly2] * 2 <= min) {
                 ugly2++;
             }
-            while (uglys[ugly3] * 3 <= min) {
+            while (nums[ugly3] * 3 <= min) {
                 ugly3++;
             }
-            while (uglys[ugly5] * 5 <= min) {
+            while (nums[ugly5] * 5 <= min) {
                 ugly5++;
             }
         }
-        return uglys[uglys.length - 1];
+        return nums[nums.length - 1];
     }
 
     public int min(int a, int b, int c) {

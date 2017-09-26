@@ -1,0 +1,15 @@
+newTaskFor(Runnable runnable, T value)
+返回一个FutureTask,runnable解包在callable中运行.运行完了返回value
+
+newTaskFor(Callable<T> callable)
+返回一个FutureTask.
+
+submit(Runnable task)
+submit(Runnable task, T result)
+submit(Callable<T> task)
+使用对应的newTaskFor()得到一个FutureTask
+execute(FutureTask)
+返回FutureTask
+
+doInvokeAny(Collection<? extends Callable<T>> tasks, boolean timed, long nanos)
+invokeAll(Collection<? extends Callable<T>> tasks, long timeout, TimeUnit unit)

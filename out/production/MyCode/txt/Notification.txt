@@ -1,0 +1,6 @@
+必需的通知内容
+Notification 对象必须包含以下内容：
+
+小图标，由 setSmallIcon() 设置
+标题，由 setContentTitle() 设置
+详细文本，由 setContentText() 设置
