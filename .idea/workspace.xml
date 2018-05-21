@@ -1,104 +1,209 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="562a92e1-f3cd-49cf-aadc-99cbc9cb3080" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dictionaries/mitc_admin.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exam/aiqiyi/Main1.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exam/aiqiyi/Main2.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exam/aiqiyi/Main3.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exam/aiqiyi/Main4.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exam/didi/NNN.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exam/haoweilai/Main.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exam/haoweilai/Main2.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exam/haoweilai/Main3.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exam/haoweilai/main.cpp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exam/wuyi/Main.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exam/xiaomi/Main.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exam/xiaomi/Main2.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exam/xiaomi/Main3.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/java/executor/Test.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/leetcode/string/N005.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/leetcode/string/N017.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/leetcode/string/N022.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/leetcode/string/N043.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/leetcode/string/N385.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/leetcode/string/N468.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/txt/Animation.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/txt/Animator.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/txt/ColorStateList.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/txt/Dialog.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/txt/Dimension.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/txt/Drawable.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/txt/Notification.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/txt/Recyclerview.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/txt/Style.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/txt/Widget.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/txt/自定义组件.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/txt/输入事件.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/源码/AbstractExecutorService.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/源码/ThreadPoolExecutor.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/算法/Array.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/算法/Array解法.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/算法/array (2).txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/面试题/Android.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/面试题/Java.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/面试题/n对括号,有多少种匹配方式" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/面试题/编程注意.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/someclass/Annotation/AnnotationUse.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/someclass/Annotation/MyAnnotation1.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/someclass/Annotation/MyAnnotation2.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/someclass/Annotation/Test.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/someclass/ArrayDequeUse.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/someclass/JVM/MClassLoader.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/someclass/JVM/StackFrame.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/someclass/JVM/TestClass.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/someclass/JVM/常量池.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/someclass/类修饰符/NewPublic.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/someclass/类修饰符/Test.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/sort/search/BinarySearch.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/thread/TFutureTask.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/thread/VolatileTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/thread/VolatileTest2.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/最短路径/Dijkstra.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/最短路径/Floyd.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/算法题/从字符串中删除子串.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/算法题/最小公共祖先.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/算法题/约瑟夫.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/设计模式/代理模式.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/设计模式/装饰器模式.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/设计模式/观察者模式.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/array/CStack.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/array/Main.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/array/TA.java" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/MyCode/designmode/Singleton.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/MyCode/designmode/Singleton1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/MyCode/designmode/Singleton2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/MyCode/designmode/Singleton3$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/MyCode/designmode/Singleton3$Inner.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/MyCode/designmode/Singleton3.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/MyCode/designmode/Singleton4$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/MyCode/designmode/Singleton4$Inner.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/MyCode/designmode/Singleton4.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/MyCode/sort/unstable/MergeSort.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/MyCode/txt/string.txt" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/MyCode/binarytree/LevelSorder.class" afterPath="$PROJECT_DIR$/out/production/MyCode/binarytree/LevelSorder.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/MyCode/sort/unstable/QuickSort.class" afterPath="$PROJECT_DIR$/out/production/MyCode/sort/unstable/QuickSort.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/MyCode/src/丑数.class" afterPath="$PROJECT_DIR$/out/production/MyCode/src/丑数.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/MyCode/src/二叉搜索树的后序遍历序列.class" afterPath="$PROJECT_DIR$/out/production/MyCode/src/二叉搜索树的后序遍历序列.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/MyCode/src/按之字形顺序打印二叉树.class" afterPath="$PROJECT_DIR$/out/production/MyCode/src/按之字形顺序打印二叉树.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/MyCode/src/整数中1出现的次数.class" afterPath="$PROJECT_DIR$/out/production/MyCode/src/整数中1出现的次数.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/MyCode/排序_集合/排序_元素无重复_交换元素.class" afterPath="$PROJECT_DIR$/out/production/MyCode/排序_集合/排序_元素无重复_交换元素.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MyCode.iml" afterPath="$PROJECT_DIR$/MyCode.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jianzhi/src/丑数.java" afterPath="$PROJECT_DIR$/jianzhi/src/丑数.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jianzhi/src/二叉搜索树的后序遍历序列.java" afterPath="$PROJECT_DIR$/jianzhi/src/二叉搜索树的后序遍历序列.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jianzhi/src/整数中1出现的次数.java" afterPath="$PROJECT_DIR$/jianzhi/src/整数中1出现的次数.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/template/binarytree/LevelSorder.java" afterPath="$PROJECT_DIR$/template/binarytree/LevelSorder.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/template/sort/unstable/QuickSort.java" afterPath="$PROJECT_DIR$/template/sort/unstable/QuickSort.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/template/排序_集合/排序_元素无重复_交换元素.java" afterPath="$PROJECT_DIR$/template/排序_集合/排序_元素无重复_交换元素.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/txt/string.txt" afterPath="$PROJECT_DIR$/lib/算法/string.txt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/template/designmode/Singleton.java" afterPath="$PROJECT_DIR$/template/设计模式/单例模式.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/template/sort/unstable/MergeSort.java" afterPath="$PROJECT_DIR$/template/sort/stable/MergeSort.java" />
+    <list default="true" id="eaf040ad-81d3-426b-b0da-08e647a33d77" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/mitc_admin.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/MyCode.iml" afterPath="$PROJECT_DIR$/MyCode.iml" />
+      <change beforePath="$PROJECT_DIR$/exam/aiqiyi/Main1.java" afterPath="$PROJECT_DIR$/algorithm/exam/aiqiyi/Main1.java" />
+      <change beforePath="$PROJECT_DIR$/exam/aiqiyi/Main2.java" afterPath="$PROJECT_DIR$/algorithm/exam/aiqiyi/Main2.java" />
+      <change beforePath="$PROJECT_DIR$/exam/aiqiyi/Main3.java" afterPath="$PROJECT_DIR$/algorithm/exam/aiqiyi/Main3.java" />
+      <change beforePath="$PROJECT_DIR$/exam/aiqiyi/Main4.java" afterPath="$PROJECT_DIR$/algorithm/exam/aiqiyi/Main4.java" />
+      <change beforePath="$PROJECT_DIR$/exam/didi/Main.java" afterPath="$PROJECT_DIR$/algorithm/exam/didi/Main.java" />
+      <change beforePath="$PROJECT_DIR$/exam/didi/NNN.java" afterPath="$PROJECT_DIR$/algorithm/exam/didi/NNN.java" />
+      <change beforePath="$PROJECT_DIR$/exam/didi/TheMaxK.java" afterPath="$PROJECT_DIR$/algorithm/exam/didi/TheMaxK.java" />
+      <change beforePath="$PROJECT_DIR$/exam/duoyi/Test.java" afterPath="$PROJECT_DIR$/algorithm/exam/duoyi/Test.java" />
+      <change beforePath="$PROJECT_DIR$/exam/haoweilai/Main.java" afterPath="$PROJECT_DIR$/algorithm/exam/haoweilai/Main.java" />
+      <change beforePath="$PROJECT_DIR$/exam/haoweilai/Main2.java" afterPath="$PROJECT_DIR$/algorithm/exam/haoweilai/Main2.java" />
+      <change beforePath="$PROJECT_DIR$/exam/haoweilai/Main3.java" afterPath="$PROJECT_DIR$/algorithm/exam/haoweilai/Main3.java" />
+      <change beforePath="$PROJECT_DIR$/exam/haoweilai/main.cpp" afterPath="$PROJECT_DIR$/algorithm/exam/haoweilai/main.cpp" />
+      <change beforePath="$PROJECT_DIR$/exam/my/TopK.java" afterPath="$PROJECT_DIR$/algorithm/exam/my/TopK.java" />
+      <change beforePath="$PROJECT_DIR$/exam/threesixzero/Main1.java" afterPath="$PROJECT_DIR$/algorithm/exam/threesixzero/Main1.java" />
+      <change beforePath="$PROJECT_DIR$/exam/threesixzero/Main2.java" afterPath="$PROJECT_DIR$/algorithm/exam/threesixzero/Main2.java" />
+      <change beforePath="$PROJECT_DIR$/exam/threesixzero/Main3.java" afterPath="$PROJECT_DIR$/algorithm/exam/threesixzero/Main3.java" />
+      <change beforePath="$PROJECT_DIR$/exam/toutiao/Main.java" afterPath="$PROJECT_DIR$/algorithm/exam/toutiao/Main.java" />
+      <change beforePath="$PROJECT_DIR$/exam/wuyi/Main.java" afterPath="$PROJECT_DIR$/algorithm/exam/wuyi/Main.java" />
+      <change beforePath="$PROJECT_DIR$/exam/xiaomi/Main.java" afterPath="$PROJECT_DIR$/algorithm/exam/xiaomi/Main.java" />
+      <change beforePath="$PROJECT_DIR$/exam/xiaomi/Main2.java" afterPath="$PROJECT_DIR$/algorithm/exam/xiaomi/Main2.java" />
+      <change beforePath="$PROJECT_DIR$/exam/xiaomi/Main3.java" afterPath="$PROJECT_DIR$/algorithm/exam/xiaomi/Main3.java" />
+      <change beforePath="$PROJECT_DIR$/jianzhi/src/丑数.java" afterPath="$PROJECT_DIR$/algorithm/jianzhi/src/丑数.java" />
+      <change beforePath="$PROJECT_DIR$/jianzhi/src/两个链表的第一个公共结点.java" afterPath="$PROJECT_DIR$/algorithm/jianzhi/src/两个链表的第一个公共结点.java" />
+      <change beforePath="$PROJECT_DIR$/jianzhi/src/二叉搜索树与双向链表.java" afterPath="$PROJECT_DIR$/algorithm/jianzhi/src/二叉搜索树与双向链表.java" />
+      <change beforePath="$PROJECT_DIR$/jianzhi/src/二叉搜索树的后序遍历序列.java" afterPath="$PROJECT_DIR$/algorithm/jianzhi/src/二叉搜索树的后序遍历序列.java" />
+      <change beforePath="$PROJECT_DIR$/jianzhi/src/二叉树中和为某一值的路径.java" afterPath="$PROJECT_DIR$/algorithm/jianzhi/src/二叉树中和为某一值的路径.java" />
+      <change beforePath="$PROJECT_DIR$/jianzhi/src/二叉树的深度.java" afterPath="$PROJECT_DIR$/algorithm/jianzhi/src/二叉树的深度.java" />
+      <change beforePath="$PROJECT_DIR$/jianzhi/src/二叉树的镜像.java" afterPath="$PROJECT_DIR$/algorithm/jianzhi/src/二叉树的镜像.java" />
+      <change beforePath="$PROJECT_DIR$/jianzhi/src/二维数组中的查找.java" afterPath="$PROJECT_DIR$/algorithm/jianzhi/src/二维数组中的查找.java" />
+      <change beforePath="$PROJECT_DIR$/jianzhi/src/二进制中1的个数.java" afterPath="$PROJECT_DIR$/algorithm/jianzhi/src/二进制中1的个数.java" />
+      <change beforePath="$PROJECT_DIR$/jianzhi/src/从上往下打印二叉树.java" afterPath="$PROJECT_DIR$/algorithm/jianzhi/src/从上往下打印二叉树.java" />
+      <change beforePath="$PROJECT_DIR$/jianzhi/src/从尾到头打印链表.java" afterPath="$PROJECT_DIR$/algorithm/jianzhi/src/从尾到头打印链表.java" />
+      <change beforePath="$PROJECT_DIR$/jianzhi/src/删除链表中重复的结点.java" afterPath="$PROJECT_DIR$/algorithm/jianzhi/src/删除链表中重复的结点.java" />
+      <change beforePath="$PROJECT_DIR$/jianzhi/src/包含min函数的栈.java" afterPath="$PROJECT_DIR$/algorithm/jianzhi/src/包含min函数的栈.java" />
+      <change beforePath="$PROJECT_DIR$/jianzhi/src/反转链表.java" afterPath="$PROJECT_DIR$/algorithm/jianzhi/src/反转链表.java" />
+      <change beforePath="$PROJECT_DIR$/jianzhi/src/变态跳台阶.java" afterPath="$PROJECT_DIR$/algorithm/jianzhi/src/变态跳台阶.java" />
+      <change beforePath="$PROJECT_DIR$/jianzhi/src/合并两个排序的链表.java" afterPath="$PROJECT_DIR$/algorithm/jianzhi/src/合并两个排序的链表.java" />
+      <change beforePath="$PROJECT_DIR$/jianzhi/src/和为S的两个数字.java" afterPath="$PROJECT_DIR$/algorithm/jianzhi/src/和为S的两个数字.java" />
+      <change beforePath="$PROJECT_DIR$/jianzhi/src/和为S的连续正数序列.java" afterPath="$PROJECT_DIR$/algorithm/jianzhi/src/和为S的连续正数序列.java" />
+      <change beforePath="$PROJECT_DIR$/jianzhi/src/复杂链表的复制.java" afterPath="$PROJECT_DIR$/algorithm/jianzhi/src/复杂链表的复制.java" />
+      <change beforePath="$PROJECT_DIR$/jianzhi/src/字符串的排列.java" afterPath="$PROJECT_DIR$/algorithm/jianzhi/src/字符串的排列.java" />
+      <change beforePath="$PROJECT_DIR$/jianzhi/src/字符串的排列Ⅱ.java" afterPath="$PROJECT_DIR$/algorithm/jianzhi/src/字符串的排列Ⅱ.java" />
+      <change beforePath="$PROJECT_DIR$/jianzhi/src/左旋转字符串.java" afterPath="$PROJECT_DIR$/algorithm/jianzhi/src/左旋转字符串.java" />
+      <change beforePath="$PROJECT_DIR$/jianzhi/src/平衡二叉树.java" afterPath="$PROJECT_DIR$/algorithm/jianzhi/src/平衡二叉树.java" />
+      <change beforePath="$PROJECT_DIR$/jianzhi/src/把数组排成最小的数.java" afterPath="$PROJECT_DIR$/algorithm/jianzhi/src/把数组排成最小的数.java" />
+      <change beforePath="$PROJECT_DIR$/jianzhi/src/按之字形顺序打印二叉树.java" afterPath="$PROJECT_DIR$/algorithm/jianzhi/src/按之字形顺序打印二叉树.java" />
+      <change beforePath="$PROJECT_DIR$/jianzhi/src/数值的整数次方.java" afterPath="$PROJECT_DIR$/algorithm/jianzhi/src/数值的整数次方.java" />
+      <change beforePath="$PROJECT_DIR$/jianzhi/src/数字在排序数组中出现的次数.java" afterPath="$PROJECT_DIR$/algorithm/jianzhi/src/数字在排序数组中出现的次数.java" />
+      <change beforePath="$PROJECT_DIR$/jianzhi/src/数组中出现次数超过一半的数字.java" afterPath="$PROJECT_DIR$/algorithm/jianzhi/src/数组中出现次数超过一半的数字.java" />
+      <change beforePath="$PROJECT_DIR$/jianzhi/src/数组中只出现一次的数字.java" afterPath="$PROJECT_DIR$/algorithm/jianzhi/src/数组中只出现一次的数字.java" />
+      <change beforePath="$PROJECT_DIR$/jianzhi/src/数组中的逆序对.java" afterPath="$PROJECT_DIR$/algorithm/jianzhi/src/数组中的逆序对.java" />
+      <change beforePath="$PROJECT_DIR$/jianzhi/src/数组中重复的数字.java" afterPath="$PROJECT_DIR$/algorithm/jianzhi/src/数组中重复的数字.java" />
+      <change beforePath="$PROJECT_DIR$/jianzhi/src/整数中1出现的次数.java" afterPath="$PROJECT_DIR$/algorithm/jianzhi/src/整数中1出现的次数.java" />
+      <change beforePath="$PROJECT_DIR$/jianzhi/src/斐波那契数列.java" afterPath="$PROJECT_DIR$/algorithm/jianzhi/src/斐波那契数列.java" />
+      <change beforePath="$PROJECT_DIR$/jianzhi/src/旋转数组的最小数字.java" afterPath="$PROJECT_DIR$/algorithm/jianzhi/src/旋转数组的最小数字.java" />
+      <change beforePath="$PROJECT_DIR$/jianzhi/src/最小的K个数.java" afterPath="$PROJECT_DIR$/algorithm/jianzhi/src/最小的K个数.java" />
+      <change beforePath="$PROJECT_DIR$/jianzhi/src/栈的压入弹出序列.java" afterPath="$PROJECT_DIR$/algorithm/jianzhi/src/栈的压入弹出序列.java" />
+      <change beforePath="$PROJECT_DIR$/jianzhi/src/树的子结构.java" afterPath="$PROJECT_DIR$/algorithm/jianzhi/src/树的子结构.java" />
+      <change beforePath="$PROJECT_DIR$/jianzhi/src/用两个栈实现队列.java" afterPath="$PROJECT_DIR$/algorithm/jianzhi/src/用两个栈实现队列.java" />
+      <change beforePath="$PROJECT_DIR$/jianzhi/src/矩形覆盖.java" afterPath="$PROJECT_DIR$/algorithm/jianzhi/src/矩形覆盖.java" />
+      <change beforePath="$PROJECT_DIR$/jianzhi/src/第一个只出现一次的字符位置.java" afterPath="$PROJECT_DIR$/algorithm/jianzhi/src/第一个只出现一次的字符位置.java" />
+      <change beforePath="$PROJECT_DIR$/jianzhi/src/翻转单词顺序列.java" afterPath="$PROJECT_DIR$/algorithm/jianzhi/src/翻转单词顺序列.java" />
+      <change beforePath="$PROJECT_DIR$/jianzhi/src/调整数组顺序使奇数位于偶数前面.java" afterPath="$PROJECT_DIR$/algorithm/jianzhi/src/调整数组顺序使奇数位于偶数前面.java" />
+      <change beforePath="$PROJECT_DIR$/jianzhi/src/跳台阶.java" afterPath="$PROJECT_DIR$/algorithm/jianzhi/src/跳台阶.java" />
+      <change beforePath="$PROJECT_DIR$/jianzhi/src/连续子数组的最大和.java" afterPath="$PROJECT_DIR$/algorithm/jianzhi/src/连续子数组的最大和.java" />
+      <change beforePath="$PROJECT_DIR$/jianzhi/src/重建二叉树.java" afterPath="$PROJECT_DIR$/algorithm/jianzhi/src/重建二叉树.java" />
+      <change beforePath="$PROJECT_DIR$/jianzhi/src/链表中倒数第k个结点.java" afterPath="$PROJECT_DIR$/algorithm/jianzhi/src/链表中倒数第k个结点.java" />
+      <change beforePath="$PROJECT_DIR$/jianzhi/src/顺时针打印矩阵.java" afterPath="$PROJECT_DIR$/algorithm/jianzhi/src/顺时针打印矩阵.java" />
+      <change beforePath="$PROJECT_DIR$/leetcode/array/N018.java" afterPath="$PROJECT_DIR$/algorithm/leetcode/array/N018.java" />
+      <change beforePath="$PROJECT_DIR$/leetcode/array/N031.java" afterPath="$PROJECT_DIR$/algorithm/leetcode/array/N031.java" />
+      <change beforePath="$PROJECT_DIR$/leetcode/array/N033.java" afterPath="$PROJECT_DIR$/algorithm/leetcode/array/N033.java" />
+      <change beforePath="$PROJECT_DIR$/leetcode/array/N034.java" afterPath="$PROJECT_DIR$/algorithm/leetcode/array/N034.java" />
+      <change beforePath="$PROJECT_DIR$/leetcode/array/N039.java" afterPath="$PROJECT_DIR$/algorithm/leetcode/array/N039.java" />
+      <change beforePath="$PROJECT_DIR$/leetcode/array/N040.java" afterPath="$PROJECT_DIR$/algorithm/leetcode/array/N040.java" />
+      <change beforePath="$PROJECT_DIR$/leetcode/array/N048.java" afterPath="$PROJECT_DIR$/algorithm/leetcode/array/N048.java" />
+      <change beforePath="$PROJECT_DIR$/leetcode/array/N054.java" afterPath="$PROJECT_DIR$/algorithm/leetcode/array/N054.java" />
+      <change beforePath="$PROJECT_DIR$/leetcode/array/N055.java" afterPath="$PROJECT_DIR$/algorithm/leetcode/array/N055.java" />
+      <change beforePath="$PROJECT_DIR$/leetcode/array/N056.java" afterPath="$PROJECT_DIR$/algorithm/leetcode/array/N056.java" />
+      <change beforePath="$PROJECT_DIR$/leetcode/array/N059.java" afterPath="$PROJECT_DIR$/algorithm/leetcode/array/N059.java" />
+      <change beforePath="$PROJECT_DIR$/leetcode/array/N062.java" afterPath="$PROJECT_DIR$/algorithm/leetcode/array/N062.java" />
+      <change beforePath="$PROJECT_DIR$/leetcode/array/N063.java" afterPath="$PROJECT_DIR$/algorithm/leetcode/array/N063.java" />
+      <change beforePath="$PROJECT_DIR$/leetcode/array/N064.java" afterPath="$PROJECT_DIR$/algorithm/leetcode/array/N064.java" />
+      <change beforePath="$PROJECT_DIR$/leetcode/array/N073.java" afterPath="$PROJECT_DIR$/algorithm/leetcode/array/N073.java" />
+      <change beforePath="$PROJECT_DIR$/leetcode/array/N074.java" afterPath="$PROJECT_DIR$/algorithm/leetcode/array/N074.java" />
+      <change beforePath="$PROJECT_DIR$/leetcode/array/N075.java" afterPath="$PROJECT_DIR$/algorithm/leetcode/array/N075.java" />
+      <change beforePath="$PROJECT_DIR$/leetcode/array/N078.java" afterPath="$PROJECT_DIR$/algorithm/leetcode/array/N078.java" />
+      <change beforePath="$PROJECT_DIR$/leetcode/array/N079.java" afterPath="$PROJECT_DIR$/algorithm/leetcode/array/N079.java" />
+      <change beforePath="$PROJECT_DIR$/leetcode/array/N080.java" afterPath="$PROJECT_DIR$/algorithm/leetcode/array/N080.java" />
+      <change beforePath="$PROJECT_DIR$/leetcode/array/N081.java" afterPath="$PROJECT_DIR$/algorithm/leetcode/array/N081.java" />
+      <change beforePath="$PROJECT_DIR$/leetcode/array/N090.java" afterPath="$PROJECT_DIR$/algorithm/leetcode/array/N090.java" />
+      <change beforePath="$PROJECT_DIR$/leetcode/array/N611.java" afterPath="$PROJECT_DIR$/algorithm/leetcode/array/N611.java" />
+      <change beforePath="$PROJECT_DIR$/leetcode/array/N621.java" afterPath="$PROJECT_DIR$/algorithm/leetcode/array/N621.java" />
+      <change beforePath="$PROJECT_DIR$/leetcode/dp/_N638.java" afterPath="$PROJECT_DIR$/algorithm/leetcode/dp/_N638.java" />
+      <change beforePath="$PROJECT_DIR$/leetcode/string/N005.java" afterPath="$PROJECT_DIR$/algorithm/leetcode/string/N005.java" />
+      <change beforePath="$PROJECT_DIR$/leetcode/string/N014.java" afterPath="$PROJECT_DIR$/algorithm/leetcode/string/N014.java" />
+      <change beforePath="$PROJECT_DIR$/leetcode/string/N017.java" afterPath="$PROJECT_DIR$/algorithm/leetcode/string/N017.java" />
+      <change beforePath="$PROJECT_DIR$/leetcode/string/N020.java" afterPath="$PROJECT_DIR$/algorithm/leetcode/string/N020.java" />
+      <change beforePath="$PROJECT_DIR$/leetcode/string/N022.java" afterPath="$PROJECT_DIR$/algorithm/leetcode/string/N022.java" />
+      <change beforePath="$PROJECT_DIR$/leetcode/string/N028.java" afterPath="$PROJECT_DIR$/algorithm/leetcode/string/N028.java" />
+      <change beforePath="$PROJECT_DIR$/leetcode/string/N043.java" afterPath="$PROJECT_DIR$/algorithm/leetcode/string/N043.java" />
+      <change beforePath="$PROJECT_DIR$/leetcode/string/N058.java" afterPath="$PROJECT_DIR$/algorithm/leetcode/string/N058.java" />
+      <change beforePath="$PROJECT_DIR$/leetcode/string/N067.java" afterPath="$PROJECT_DIR$/algorithm/leetcode/string/N067.java" />
+      <change beforePath="$PROJECT_DIR$/leetcode/string/N345.java" afterPath="$PROJECT_DIR$/algorithm/leetcode/string/N345.java" />
+      <change beforePath="$PROJECT_DIR$/leetcode/string/N383.java" afterPath="$PROJECT_DIR$/algorithm/leetcode/string/N383.java" />
+      <change beforePath="$PROJECT_DIR$/leetcode/string/N385.java" afterPath="$PROJECT_DIR$/algorithm/leetcode/string/N385.java" />
+      <change beforePath="$PROJECT_DIR$/leetcode/string/N434.java" afterPath="$PROJECT_DIR$/algorithm/leetcode/string/N434.java" />
+      <change beforePath="$PROJECT_DIR$/leetcode/string/N459.java" afterPath="$PROJECT_DIR$/algorithm/leetcode/string/N459.java" />
+      <change beforePath="$PROJECT_DIR$/leetcode/string/N468.java" afterPath="$PROJECT_DIR$/algorithm/leetcode/string/N468.java" />
+      <change beforePath="$PROJECT_DIR$/leetcode/string/N520.java" afterPath="$PROJECT_DIR$/algorithm/leetcode/string/N520.java" />
+      <change beforePath="$PROJECT_DIR$/leetcode/string/N521.java" afterPath="$PROJECT_DIR$/algorithm/leetcode/string/N521.java" />
+      <change beforePath="$PROJECT_DIR$/leetcode/string/N541.java" afterPath="$PROJECT_DIR$/algorithm/leetcode/string/N541.java" />
+      <change beforePath="$PROJECT_DIR$/leetcode/string/N551.java" afterPath="$PROJECT_DIR$/algorithm/leetcode/string/N551.java" />
+      <change beforePath="$PROJECT_DIR$/leetcode/string/N557.java" afterPath="$PROJECT_DIR$/algorithm/leetcode/string/N557.java" />
+      <change beforePath="$PROJECT_DIR$/leetcode/string/N606.java" afterPath="$PROJECT_DIR$/algorithm/leetcode/string/N606.java" />
+      <change beforePath="$PROJECT_DIR$/leetcode/动态规划/分类_是否能分为两个相等的子数组.java" afterPath="$PROJECT_DIR$/algorithm/leetcode/动态规划/分类_是否能分为两个相等的子数组.java" />
+      <change beforePath="$PROJECT_DIR$/lib/node/ComplexListNode.java" afterPath="$PROJECT_DIR$/library/node/ComplexListNode.java" />
+      <change beforePath="$PROJECT_DIR$/lib/node/Interval.java" afterPath="$PROJECT_DIR$/library/node/Interval.java" />
+      <change beforePath="$PROJECT_DIR$/lib/node/ListNode.java" afterPath="$PROJECT_DIR$/library/node/ListNode.java" />
+      <change beforePath="$PROJECT_DIR$/lib/node/RandomListNode.java" afterPath="$PROJECT_DIR$/library/node/RandomListNode.java" />
+      <change beforePath="$PROJECT_DIR$/lib/node/TreeNode.java" afterPath="$PROJECT_DIR$/library/node/TreeNode.java" />
+      <change beforePath="$PROJECT_DIR$/lib/txt/Animation.txt" afterPath="$PROJECT_DIR$/library/txt/Animation.txt" />
+      <change beforePath="$PROJECT_DIR$/lib/txt/Animator.txt" afterPath="$PROJECT_DIR$/library/txt/Animator.txt" />
+      <change beforePath="$PROJECT_DIR$/lib/txt/ColorStateList.txt" afterPath="$PROJECT_DIR$/library/txt/ColorStateList.txt" />
+      <change beforePath="$PROJECT_DIR$/lib/txt/Dialog.txt" afterPath="$PROJECT_DIR$/library/txt/Dialog.txt" />
+      <change beforePath="$PROJECT_DIR$/lib/txt/Dimension.txt" afterPath="$PROJECT_DIR$/library/txt/Dimension.txt" />
+      <change beforePath="$PROJECT_DIR$/lib/txt/Drawable.txt" afterPath="$PROJECT_DIR$/library/txt/Drawable.txt" />
+      <change beforePath="$PROJECT_DIR$/lib/txt/Notification.txt" afterPath="$PROJECT_DIR$/library/txt/Notification.txt" />
+      <change beforePath="$PROJECT_DIR$/lib/txt/Recyclerview.txt" afterPath="$PROJECT_DIR$/library/txt/Recyclerview.txt" />
+      <change beforePath="$PROJECT_DIR$/lib/txt/Style.txt" afterPath="$PROJECT_DIR$/library/txt/Style.txt" />
+      <change beforePath="$PROJECT_DIR$/lib/txt/Widget.txt" afterPath="$PROJECT_DIR$/library/txt/Widget.txt" />
+      <change beforePath="$PROJECT_DIR$/lib/txt/自定义组件.txt" afterPath="$PROJECT_DIR$/library/txt/自定义组件.txt" />
+      <change beforePath="$PROJECT_DIR$/lib/txt/输入事件.txt" afterPath="$PROJECT_DIR$/library/txt/输入事件.txt" />
+      <change beforePath="$PROJECT_DIR$/lib/源码/AbstractExecutorService.txt" afterPath="$PROJECT_DIR$/library/源码/AbstractExecutorService.txt" />
+      <change beforePath="$PROJECT_DIR$/lib/源码/ThreadPoolExecutor.txt" afterPath="$PROJECT_DIR$/library/源码/ThreadPoolExecutor.txt" />
+      <change beforePath="$PROJECT_DIR$/lib/算法/Array.txt" afterPath="$PROJECT_DIR$/library/算法/Array.txt" />
+      <change beforePath="$PROJECT_DIR$/lib/算法/Array解法.txt" afterPath="$PROJECT_DIR$/library/算法/Array解法.txt" />
+      <change beforePath="$PROJECT_DIR$/lib/算法/array (2).txt" afterPath="$PROJECT_DIR$/library/算法/array (2).txt" />
+      <change beforePath="$PROJECT_DIR$/lib/算法/string.txt" afterPath="$PROJECT_DIR$/library/算法/string.txt" />
+      <change beforePath="$PROJECT_DIR$/lib/面试题/Android.txt" afterPath="$PROJECT_DIR$/library/面试题/Android.txt" />
+      <change beforePath="$PROJECT_DIR$/lib/面试题/Java.txt" afterPath="$PROJECT_DIR$/library/面试题/Java.txt" />
+      <change beforePath="$PROJECT_DIR$/lib/面试题/n对括号,有多少种匹配方式" afterPath="$PROJECT_DIR$/library/面试题/n对括号,有多少种匹配方式" />
+      <change beforePath="$PROJECT_DIR$/lib/面试题/编程注意.txt" afterPath="$PROJECT_DIR$/library/面试题/编程注意.txt" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/haoweilai/main.cpp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/wuyi/Main$CountThread.class" afterPath="$PROJECT_DIR$/out/production/MyCode/wuyi/Main$CountThread.class" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/wuyi/Main.class" afterPath="$PROJECT_DIR$/out/production/MyCode/wuyi/Main.class" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/排序_集合/note.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/template/binarytree/Inorder.java" afterPath="$PROJECT_DIR$/library/template/binarytree/Inorder.java" />
+      <change beforePath="$PROJECT_DIR$/template/binarytree/LevelSorder.java" afterPath="$PROJECT_DIR$/library/template/binarytree/LevelSorder.java" />
+      <change beforePath="$PROJECT_DIR$/template/binarytree/Levelorder.java" afterPath="$PROJECT_DIR$/library/template/binarytree/Levelorder.java" />
+      <change beforePath="$PROJECT_DIR$/template/binarytree/Postorder.java" afterPath="$PROJECT_DIR$/library/template/binarytree/Postorder.java" />
+      <change beforePath="$PROJECT_DIR$/template/binarytree/Preorder.java" afterPath="$PROJECT_DIR$/library/template/binarytree/Preorder.java" />
+      <change beforePath="$PROJECT_DIR$/template/someclass/Annotation/AnnotationUse.java" afterPath="$PROJECT_DIR$/library/template/someclass/Annotation/AnnotationUse.java" />
+      <change beforePath="$PROJECT_DIR$/template/someclass/Annotation/MyAnnotation1.java" afterPath="$PROJECT_DIR$/library/template/someclass/Annotation/MyAnnotation1.java" />
+      <change beforePath="$PROJECT_DIR$/template/someclass/Annotation/MyAnnotation2.java" afterPath="$PROJECT_DIR$/library/template/someclass/Annotation/MyAnnotation2.java" />
+      <change beforePath="$PROJECT_DIR$/template/someclass/Annotation/Test.java" afterPath="$PROJECT_DIR$/library/template/someclass/Annotation/Test.java" />
+      <change beforePath="$PROJECT_DIR$/template/someclass/ArrayDequeUse.java" afterPath="$PROJECT_DIR$/library/template/someclass/ArrayDequeUse.java" />
+      <change beforePath="$PROJECT_DIR$/template/someclass/JVM/MClassLoader.java" afterPath="$PROJECT_DIR$/library/template/someclass/JVM/MClassLoader.java" />
+      <change beforePath="$PROJECT_DIR$/template/someclass/JVM/StackFrame.java" afterPath="$PROJECT_DIR$/library/template/someclass/JVM/StackFrame.java" />
+      <change beforePath="$PROJECT_DIR$/template/someclass/JVM/TestClass.java" afterPath="$PROJECT_DIR$/library/template/someclass/JVM/TestClass.java" />
+      <change beforePath="$PROJECT_DIR$/template/someclass/JVM/常量池.java" afterPath="$PROJECT_DIR$/library/template/someclass/JVM/常量池.java" />
+      <change beforePath="$PROJECT_DIR$/template/someclass/类修饰符/NewPublic.java" afterPath="$PROJECT_DIR$/library/template/someclass/类修饰符/NewPublic.java" />
+      <change beforePath="$PROJECT_DIR$/template/someclass/类修饰符/Test.java" afterPath="$PROJECT_DIR$/library/template/someclass/类修饰符/Test.java" />
+      <change beforePath="$PROJECT_DIR$/template/sort/search/BinarySearch.java" afterPath="$PROJECT_DIR$/library/template/sort/search/BinarySearch.java" />
+      <change beforePath="$PROJECT_DIR$/template/sort/stable/BubbleSort.java" afterPath="$PROJECT_DIR$/library/template/sort/stable/BubbleSort.java" />
+      <change beforePath="$PROJECT_DIR$/template/sort/stable/InsertionSort.java" afterPath="$PROJECT_DIR$/library/template/sort/stable/InsertionSort.java" />
+      <change beforePath="$PROJECT_DIR$/template/sort/stable/MergeSort.java" afterPath="$PROJECT_DIR$/library/template/sort/stable/MergeSort.java" />
+      <change beforePath="$PROJECT_DIR$/template/sort/unstable/HeapSort.java" afterPath="$PROJECT_DIR$/library/template/sort/unstable/HeapSort.java" />
+      <change beforePath="$PROJECT_DIR$/template/sort/unstable/QuickSort.java" afterPath="$PROJECT_DIR$/library/template/sort/unstable/QuickSort.java" />
+      <change beforePath="$PROJECT_DIR$/template/sort/unstable/SelectionSort.java" afterPath="$PROJECT_DIR$/library/template/sort/unstable/SelectionSort.java" />
+      <change beforePath="$PROJECT_DIR$/template/thread/PrintModelThread.java" afterPath="$PROJECT_DIR$/library/template/thread/PrintModelThread.java" />
+      <change beforePath="$PROJECT_DIR$/template/thread/TFutureTask.java" afterPath="$PROJECT_DIR$/library/template/thread/TFutureTask.java" />
+      <change beforePath="$PROJECT_DIR$/template/thread/VolatileTest.java" afterPath="$PROJECT_DIR$/library/template/thread/VolatileTest.java" />
+      <change beforePath="$PROJECT_DIR$/template/thread/VolatileTest2.java" afterPath="$PROJECT_DIR$/library/template/thread/VolatileTest2.java" />
+      <change beforePath="$PROJECT_DIR$/template/排序_集合/note.txt" afterPath="$PROJECT_DIR$/library/template/排序_集合/note.txt" />
+      <change beforePath="$PROJECT_DIR$/template/排序_集合/加和_元素无重复_选择有重复.java" afterPath="$PROJECT_DIR$/library/template/排序_集合/加和_元素无重复_选择有重复.java" />
+      <change beforePath="$PROJECT_DIR$/template/排序_集合/加和_元素有重复_选择无重复.java" afterPath="$PROJECT_DIR$/library/template/排序_集合/加和_元素有重复_选择无重复.java" />
+      <change beforePath="$PROJECT_DIR$/template/排序_集合/排序_元素无重复_交换元素.java" afterPath="$PROJECT_DIR$/library/template/排序_集合/排序_元素无重复_交换元素.java" />
+      <change beforePath="$PROJECT_DIR$/template/排序_集合/排序_元素无重复_排序添加.java" afterPath="$PROJECT_DIR$/library/template/排序_集合/排序_元素无重复_排序添加.java" />
+      <change beforePath="$PROJECT_DIR$/template/排序_集合/排序_元素有重复_交换元素.java" afterPath="$PROJECT_DIR$/library/template/排序_集合/排序_元素有重复_交换元素.java" />
+      <change beforePath="$PROJECT_DIR$/template/排序_集合/排序_元素有重复_排序添加.java" afterPath="$PROJECT_DIR$/library/template/排序_集合/排序_元素有重复_排序添加.java" />
+      <change beforePath="$PROJECT_DIR$/template/排序_集合/集合_元素无重复.java" afterPath="$PROJECT_DIR$/library/template/排序_集合/集合_元素无重复.java" />
+      <change beforePath="$PROJECT_DIR$/template/排序_集合/集合_元素有重复.java" afterPath="$PROJECT_DIR$/library/template/排序_集合/集合_元素有重复.java" />
+      <change beforePath="$PROJECT_DIR$/template/最短路径/Dijkstra.java" afterPath="$PROJECT_DIR$/library/template/最短路径/Dijkstra.java" />
+      <change beforePath="$PROJECT_DIR$/template/最短路径/Floyd.java" afterPath="$PROJECT_DIR$/library/template/最短路径/Floyd.java" />
+      <change beforePath="$PROJECT_DIR$/template/算法题/从字符串中删除子串.java" afterPath="$PROJECT_DIR$/library/template/算法题/从字符串中删除子串.java" />
+      <change beforePath="$PROJECT_DIR$/template/算法题/最小公共祖先.java" afterPath="$PROJECT_DIR$/library/template/算法题/最小公共祖先.java" />
+      <change beforePath="$PROJECT_DIR$/template/算法题/约瑟夫.java" afterPath="$PROJECT_DIR$/library/template/算法题/约瑟夫.java" />
+      <change beforePath="$PROJECT_DIR$/template/设计模式/代理模式.java" afterPath="$PROJECT_DIR$/library/template/设计模式/代理模式.java" />
+      <change beforePath="$PROJECT_DIR$/template/设计模式/单例模式.java" afterPath="$PROJECT_DIR$/library/template/设计模式/单例模式.java" />
+      <change beforePath="$PROJECT_DIR$/template/设计模式/装饰器模式.java" afterPath="$PROJECT_DIR$/library/template/设计模式/装饰器模式.java" />
+      <change beforePath="$PROJECT_DIR$/template/设计模式/观察者模式.java" afterPath="$PROJECT_DIR$/library/template/设计模式/观察者模式.java" />
+      <change beforePath="$PROJECT_DIR$/test/array/CStack.java" afterPath="$PROJECT_DIR$/library/test/array/CStack.java" />
+      <change beforePath="$PROJECT_DIR$/test/array/Main.java" afterPath="$PROJECT_DIR$/library/test/array/Main.java" />
+      <change beforePath="$PROJECT_DIR$/test/array/NewArray.java" afterPath="$PROJECT_DIR$/library/test/array/NewArray.java" />
+      <change beforePath="$PROJECT_DIR$/test/array/TA.java" afterPath="$PROJECT_DIR$/library/test/array/TA.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -109,78 +214,51 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/exam/xiaomi/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="9" column="18" lean-forward="false" selection-start-line="9" selection-start-column="15" selection-end-line="9" selection-end-column="18" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/exam/wuyi/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="220">
-              <caret line="11" column="26" lean-forward="true" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#309#317#0" expanded="true" />
-                <element signature="e#1403#1404#0" expanded="true" />
-                <element signature="e#1441#1442#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>listnode</find>
-      <find>println</find>
-      <find>arrays</find>
-      <find>print</find>
-      <find>    </find>
-      <find>static</find>
-      <find>root type=&quot;simple&quot; url=&quot;http://developer.android.com/reference/&quot;</find>
-      <find>http://developer.android.com/reference/</find>
-      <find>startOffset</find>
-      <find>transition</find>
-      <find>Focus</find>
-      <find>focus</find>
-      <find>onWindowFocusChanged</find>
-      <find>execute(</find>
-      <find>submit</find>
+      <find>FutureTask</find>
+      <find>Future</find>
+      <find>state</find>
+      <find>done()</find>
+      <find>invoke</find>
+      <find>invokeall</find>
+      <find>remove(</find>
+      <find>element(</find>
       <find>execute</find>
-      <find>resize</find>
-      <find>int hash =</find>
-      <find>hashCode</find>
-      <find>resize()</find>
-      <find>put(</find>
-      <find>/</find>
-      <find>*</find>
-      <find>get(</find>
-      <find>add</find>
-      <find>iterator</find>
-      <find>iterator()</find>
-      <find>杨辉</find>
-      <find>56</find>
+      <find>done</find>
+      <find>runner =</find>
+      <find>runnerOffset</find>
+      <find>waitnode</find>
+      <find>waiters</find>
+      <find>completionService</find>
+      <find>park(</find>
+      <find>awaitDone</find>
+      <find>waitNode</find>
+      <find>runner</find>
+      <find>setexceptio</find>
+      <find>ecs</find>
+      <find>ThreadPoolExecutor</find>
+      <find>beeper</find>
+      <find>allowCoreThreadTimeOut</find>
+      <find>isRunning</find>
     </findStrings>
     <replaceStrings>
       <replace />
-      <replace>file://C:/_ENVIRONMENT/Android/sdk/docs/reference/</replace>
     </replaceStrings>
+    <dirStrings>
+      <dir>/Library/Java/JavaVirtualMachines/jdk1.8.0_161.jdk/Contents/Home/jre/lib/rt.jar!/java/util/concurrent/locks</dir>
+      <dir>/Library/Java/JavaVirtualMachines/jdk1.8.0_161.jdk/Contents/Home/jre/lib/rt.jar!/java/util/concurrent</dir>
+      <dir>$PROJECT_DIR$/Algorithm</dir>
+    </dirStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -193,64 +271,34 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/template/SomeClass/Annotation/AnnotationUse.java" />
-        <option value="$PROJECT_DIR$/template/设计模式/观察者模式.java" />
-        <option value="$PROJECT_DIR$/lib/面试题/Android.txt" />
-        <option value="$PROJECT_DIR$/lib/txt/Notification.txt" />
-        <option value="$PROJECT_DIR$/lib/面试题/Java.txt" />
-        <option value="$PROJECT_DIR$/template/thread/VolatileTest2.java" />
-        <option value="$PROJECT_DIR$/lib/txt/Animation.txt" />
-        <option value="$PROJECT_DIR$/lib/txt/Recyclerview.txt" />
-        <option value="$PROJECT_DIR$/lib/算法/Array解法.txt" />
-        <option value="$PROJECT_DIR$/lib/算法/Array.txt" />
-        <option value="$PROJECT_DIR$/lib/算法/array (2).txt" />
-        <option value="$PROJECT_DIR$/lib/面试题/编程注意.txt" />
-        <option value="$PROJECT_DIR$/template/sort/search/BinarySearch.java" />
-        <option value="$PROJECT_DIR$/jianzhi/src/丑数.java" />
-        <option value="$PROJECT_DIR$/jianzhi/src/二叉搜索树的后序遍历序列.java" />
-        <option value="$PROJECT_DIR$/template/算法题/从字符串中删除子串.java" />
-        <option value="$PROJECT_DIR$/template/算法题/最小公共祖先.java" />
-        <option value="$PROJECT_DIR$/template/排序_集合/排序_元素无重复_交换元素.java" />
-        <option value="$PROJECT_DIR$/template/SomeClass/类修饰符/NewProtected.java" />
-        <option value="$PROJECT_DIR$/template/SomeClass/类修饰符/NewPublic.java" />
-        <option value="$PROJECT_DIR$/template/SomeClass/类修饰符/Test.java" />
-        <option value="$PROJECT_DIR$/exam/didi/NNN.java" />
-        <option value="$PROJECT_DIR$/exam/aiqiyi/Main1.java" />
-        <option value="$PROJECT_DIR$/exam/aiqiyi/Main3.java" />
-        <option value="$PROJECT_DIR$/exam/aiqiyi/Main2.java" />
-        <option value="$PROJECT_DIR$/exam/aiqiyi/Main4.java" />
-        <option value="$PROJECT_DIR$/leetcode/string/N017.java" />
-        <option value="$PROJECT_DIR$/leetcode/string/N468.java" />
-        <option value="$PROJECT_DIR$/lib/面试题/n对括号,有多少种匹配方式" />
-        <option value="$PROJECT_DIR$/leetcode/string/N022.java" />
-        <option value="$PROJECT_DIR$/leetcode/string/N005.java" />
-        <option value="$PROJECT_DIR$/leetcode/string/N385.java" />
-        <option value="$PROJECT_DIR$/leetcode/string/N43.java" />
-        <option value="$PROJECT_DIR$/leetcode/string/N043.java" />
-        <option value="$PROJECT_DIR$/template/SomeClass/ArrayDequeUse.java" />
-        <option value="$PROJECT_DIR$/template/SomeClass/JVM/常量池.java" />
-        <option value="$PROJECT_DIR$/template/SomeClass/JVM/栈帧.java" />
-        <option value="$PROJECT_DIR$/template/SomeClass/JVM/StackFrame.java" />
-        <option value="$PROJECT_DIR$/exam/haoweilai/Main.java" />
-        <option value="$PROJECT_DIR$/exam/haoweilai/Main2.java" />
-        <option value="$PROJECT_DIR$/exam/haoweilai/main.cpp" />
-        <option value="$PROJECT_DIR$/exam/haoweilai/Main3.java" />
-        <option value="$PROJECT_DIR$/template/算法题/约瑟夫.java" />
-        <option value="$PROJECT_DIR$/template/someclass/JVM/TestClass.java" />
-        <option value="$PROJECT_DIR$/template/someclass/JVM/MClassLoader.java" />
-        <option value="$PROJECT_DIR$/jianzhi/src/整数中1出现的次数.java" />
-        <option value="$PROJECT_DIR$/template/sort/unstable/QuickSort.java" />
-        <option value="$PROJECT_DIR$/exam/xiaomi/Main2.java" />
-        <option value="$PROJECT_DIR$/exam/xiaomi/Main3.java" />
-        <option value="$PROJECT_DIR$/exam/xiaomi/Main.java" />
-        <option value="$PROJECT_DIR$/exam/wuyi/Main.java" />
+        <option value="$PROJECT_DIR$/test/array/Callbacks.java" />
+        <option value="$PROJECT_DIR$/test/Parcel3.java" />
+        <option value="$PROJECT_DIR$/test/BigEgg.java" />
+        <option value="$PROJECT_DIR$/thinking in java/chapter7/Frog.java" />
+        <option value="$PROJECT_DIR$/thread/creation/CreateThread.java" />
+        <option value="$PROJECT_DIR$/thread/synchronization/Counter.java" />
+        <option value="$PROJECT_DIR$/thread/synchronization/Waiter.java" />
+        <option value="$PROJECT_DIR$/thread/executor/NewExecutor.java" />
+        <option value="$PROJECT_DIR$/thread/executor/NewExecutorService.java" />
+        <option value="$PROJECT_DIR$/thread/future/NewFuture.java" />
+        <option value="$PROJECT_DIR$/java/executor/Test.java" />
+        <option value="$PROJECT_DIR$/test/IdCardGenerator.java" />
+        <option value="$PROJECT_DIR$/java/clz/SupSubClass.java" />
+        <option value="$PROJECT_DIR$/java/thread/synchronization/Waiter.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="984" />
-    <option name="width" value="943" />
-    <option name="height" value="1087" />
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="65" />
+    <option name="y" value="23" />
+    <option name="width" value="1375" />
+    <option name="height" value="877" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -260,81 +308,41 @@
             <id />
           </State>
           <State>
-            <id>Android &gt; Lint &gt; Accessibility</id>
+            <id>Android &gt; Lint &gt; Usability &gt; Icons</id>
           </State>
           <State>
-            <id>Android &gt; Lint &gt; Correctness</id>
+            <id>UI Form Problems</id>
           </State>
           <State>
-            <id>Android &gt; Lint &gt; Usability</id>
-          </State>
-          <State>
-            <id>Android Lint for Kotlin</id>
-          </State>
-          <State>
-            <id>Compiler issuesJava</id>
-          </State>
-          <State>
-            <id>Java</id>
-          </State>
-          <State>
-            <id>XML</id>
+            <id>XPath</id>
           </State>
         </expanded-state>
+        <selected-state>
+          <State>
+            <id>Android</id>
+          </State>
+        </selected-state>
       </profile-state>
     </entry>
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
-    <ConfirmationsSetting value="2" id="Add" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
-      <flattenPackages />
-      <showMembers />
+      <flattenPackages ProjectPane="false" />
+      <showMembers ProjectPane="false" />
       <showModules />
       <showLibraryContents />
-      <hideEmptyPackages />
+      <hideEmptyPackages ProjectPane="false" />
       <abbreviatePackageNames />
       <autoscrollToSource />
-      <autoscrollFromSource />
-      <sortByType />
+      <autoscrollFromSource ProjectPane="false" />
+      <sortByType ProjectPane="false" />
       <manualOrder />
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
-      <pane id="PackagesPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="MyCode" type="58d84e3e:PackageViewProjectNode" />
-              <item name="Leetcode" type="616d4139:PackageViewModuleNode" />
-            </path>
-            <path>
-              <item name="MyCode" type="58d84e3e:PackageViewProjectNode" />
-              <item name="Leetcode" type="616d4139:PackageViewModuleNode" />
-              <item name="Libraries" type="5c3f07af:PackageViewLibrariesNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="Scope">
-        <subPane subId="Project Files">
-          <expand>
-            <path>
-              <item name="Root" type="cbb8eebc:String" user="Root" />
-              <item name="MyCode" type="cbb8eebc:String" user="MyCode" />
-            </path>
-            <path>
-              <item name="Root" type="cbb8eebc:String" user="Root" />
-              <item name="MyCode" type="cbb8eebc:String" user="MyCode" />
-              <item name="MyCode" type="cbb8eebc:String" user="MyCode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -342,112 +350,32 @@
               <item name="MyCode" type="b2602c69:ProjectViewProjectNode" />
               <item name="MyCode" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="MyCode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MyCode" type="462c0819:PsiDirectoryNode" />
-              <item name="exam" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MyCode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MyCode" type="462c0819:PsiDirectoryNode" />
-              <item name="jianzhi" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MyCode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MyCode" type="462c0819:PsiDirectoryNode" />
-              <item name="lib" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MyCode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MyCode" type="462c0819:PsiDirectoryNode" />
-              <item name="lib" type="462c0819:PsiDirectoryNode" />
-              <item name="算法" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MyCode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MyCode" type="462c0819:PsiDirectoryNode" />
-              <item name="template" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MyCode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MyCode" type="462c0819:PsiDirectoryNode" />
-              <item name="template" type="462c0819:PsiDirectoryNode" />
-              <item name="binarytree" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MyCode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MyCode" type="462c0819:PsiDirectoryNode" />
-              <item name="template" type="462c0819:PsiDirectoryNode" />
-              <item name="someclass" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MyCode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MyCode" type="462c0819:PsiDirectoryNode" />
-              <item name="template" type="462c0819:PsiDirectoryNode" />
-              <item name="someclass" type="462c0819:PsiDirectoryNode" />
-              <item name="JVM" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MyCode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MyCode" type="462c0819:PsiDirectoryNode" />
-              <item name="template" type="462c0819:PsiDirectoryNode" />
-              <item name="sort" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MyCode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MyCode" type="462c0819:PsiDirectoryNode" />
-              <item name="template" type="462c0819:PsiDirectoryNode" />
-              <item name="sort" type="462c0819:PsiDirectoryNode" />
-              <item name="search" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MyCode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MyCode" type="462c0819:PsiDirectoryNode" />
-              <item name="template" type="462c0819:PsiDirectoryNode" />
-              <item name="sort" type="462c0819:PsiDirectoryNode" />
-              <item name="stable" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MyCode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MyCode" type="462c0819:PsiDirectoryNode" />
-              <item name="template" type="462c0819:PsiDirectoryNode" />
-              <item name="sort" type="462c0819:PsiDirectoryNode" />
-              <item name="unstable" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scratches" />
+      <pane id="PackagesPane" />
       <pane id="AndroidView" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="preferences.externalTools" />
+    <property name="settings.editor.selected.configurable" value="editing.templates" />
+    <property name="SearchEverywhereHistoryKey" value="threadfac&#9;PSI&#9;JAVA://java.util.concurrent.ThreadFactory&#10;fork&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_161.jdk/Contents/Home/src.zip!/java/util/concurrent/ForkJoinPool.java&#10;threadpoolex&#9;PSI&#9;JAVA://java.util.concurrent.ThreadPoolExecutor&#10;ThreadPoolExecutor&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_161.jdk/Contents/Home/src.zip!/java/util/concurrent/ScheduledThreadPoolExecutor.java&#10;ScheduledExecutorService&#9;PSI&#9;JAVA://java.util.concurrent.ScheduledExecutorService&#10;abstractex&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_161.jdk/Contents/Home/src.zip!/java/util/concurrent/AbstractExecutorService.java&#10;executorcom&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_161.jdk/Contents/Home/src.zip!/java/util/concurrent/ExecutorCompletionService.java&#10;Fut&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_161.jdk/Contents/Home/src.zip!/java/util/concurrent/FutureTask.java" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="SearchEverywhereHistoryKey" value="linkedhashmap&#9;PSI&#9;JAVA://java.util.LinkedHashMap&#10;binarysearch&#9;PSI&#9;JAVA://src.数字在排序数组中出现的次数#binarySearch&#10;volatile&#9;FILE&#9;file://D:/_WORKSPACE/_intellij/MyCode/template/thread/VolatileTest.java&#10;mergesor&#9;FILE&#9;file://D:/_WORKSPACE/_intellij/MyCode/template/sort/unstable/MergeSort.java&#10;merge&#9;PSI&#9;JAVA://sort.unstable.MergeSort&#10;heap&#9;FILE&#9;file://D:/_WORKSPACE/_intellij/MyCode/template/sort/unstable/HeapSort.java&#10;字符串的排列&#9;FILE&#9;file://D:/_WORKSPACE/_intellij/MyCode/jianzhi/src/字符串的排列.java&#10;qui&#9;FILE&#9;file://D:/_WORKSPACE/_intellij/MyCode/template/sort/unstable/QuickSort.java&#10;heapsor&#9;PSI&#9;JAVA://sort.unstable.HeapSort&#10;quick&#9;PSI&#9;JAVA://sort.unstable.QuickSort" />
-    <property name="last_opened_file_path" value="C:/_ENVIRONMENT/Java/jdk/bin/javap.exe" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
-      <recent name="" />
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/java" />
+      <recent name="$PROJECT_DIR$/lib" />
+      <recent name="$PROJECT_DIR$/JavaDataStruction" />
+      <recent name="$PROJECT_DIR$/Algorithm" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\_WORKSPACE\_intellij\MyCode\lib\面试题" />
-      <recent name="D:\_WORKSPACE\_intellij\MyCode\lib\算法" />
-      <recent name="D:\_WORKSPACE\_intellij\MyCode\jianzhi\src" />
-      <recent name="D:\_WORKSPACE\_intellij\MyCode\leetcode\string" />
-      <recent name="D:\_WORKSPACE\_intellij\MyCode\leetcode\array" />
-    </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="models" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\_WORKSPACE\_intellij\MyCode\lib\算法" />
-      <recent name="D:\_WORKSPACE\_intellij\MyCode\lib\txt" />
-      <recent name="D:\_WORKSPACE\_intellij\MyCode\lib" />
-      <recent name="D:\_WORKSPACE\_intellij\MyCode\Note\txt" />
+      <recent name="$PROJECT_DIR$/test" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -462,165 +390,103 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main">
-    <configuration name="整数中1出现的次数" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="src.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="src.整数中1出现的次数" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="MyCode" />
-      <envs />
-    </configuration>
-    <configuration name="ArrayDequeUse (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="SomeClass.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="SomeClass.ArrayDequeUse" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="MyCode" />
-      <envs />
-    </configuration>
-    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="xiaomi.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="xiaomi.Main" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="MyCode" />
-      <envs />
-    </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="wuyi.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="wuyi.Main" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="MyCode" />
-      <envs />
-    </configuration>
-    <configuration name="Main2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="xiaomi.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="xiaomi.Main2" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="MyCode" />
-      <envs />
-    </configuration>
-    <configuration name="Main3 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="xiaomi.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="xiaomi.Main3" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="MyCode" />
-      <envs />
-    </configuration>
-    <configuration name="N005" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="string.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="string.N005" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="MyCode" />
-      <envs />
-    </configuration>
-    <configuration name="N468" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="string.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="string.N468" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="MyCode" />
-      <envs />
-    </configuration>
+  <component name="RunManager" selected="Application.Waiter (1)">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
       <option name="HEIGHT" value="300" />
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <module />
+    </configuration>
+    <configuration name="IdCardGenerator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="IdCardGenerator" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="MyCode" />
+      <envs />
+    </configuration>
+    <configuration name="NewSubClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="clz.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="clz.NewSubClass" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="MyCode" />
+      <envs />
+    </configuration>
+    <configuration name="SupSubClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="clz.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="clz.SupSubClass" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="MyCode" />
+      <envs />
+    </configuration>
+    <configuration name="Waiter (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="thread.synchronization.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="thread.synchronization.Waiter" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="MyCode" />
+      <envs />
+    </configuration>
+    <configuration name="Waiter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="synchronization.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="synchronization.Waiter" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="MyCode" />
+      <envs />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
@@ -647,7 +513,7 @@
       <option name="TEST_OBJECT" value="class" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
       <option name="TEST_SEARCH_SCOPE">
@@ -655,12 +521,6 @@
       </option>
       <envs />
       <patterns />
-    </configuration>
-    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
-      <module name="" />
-      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
-      <option name="PROGRAM_PARAMETERS" />
-      <predefined_log_file id="idea.log" enabled="true" />
     </configuration>
     <configuration default="true" type="Remote" factoryName="Remote">
       <option name="USE_SOCKET_TRANSPORT" value="true" />
@@ -682,7 +542,7 @@
       <option name="TEST_OBJECT" value="CLASS" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
       <option name="OUTPUT_DIRECTORY" />
       <option name="ANNOTATION_TYPE" />
       <option name="ENV_VARIABLES" />
@@ -696,20 +556,26 @@
       <properties />
       <listeners />
     </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+    </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.整数中1出现的次数" />
-      <item index="1" class="java.lang.String" itemvalue="Application.Main (1)" />
-      <item index="2" class="java.lang.String" itemvalue="Application.Main2" />
-      <item index="3" class="java.lang.String" itemvalue="Application.Main3 (1)" />
-      <item index="4" class="java.lang.String" itemvalue="Application.Main" />
+      <item index="0" class="java.lang.String" itemvalue="Application.Waiter" />
+      <item index="1" class="java.lang.String" itemvalue="Application.IdCardGenerator" />
+      <item index="2" class="java.lang.String" itemvalue="Application.SupSubClass" />
+      <item index="3" class="java.lang.String" itemvalue="Application.NewSubClass" />
+      <item index="4" class="java.lang.String" itemvalue="Application.Waiter (1)" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.Main" />
-        <item index="1" class="java.lang.String" itemvalue="Application.Main3 (1)" />
-        <item index="2" class="java.lang.String" itemvalue="Application.Main2" />
-        <item index="3" class="java.lang.String" itemvalue="Application.Main (1)" />
-        <item index="4" class="java.lang.String" itemvalue="Application.整数中1出现的次数" />
+        <item index="0" class="java.lang.String" itemvalue="Application.Waiter (1)" />
+        <item index="1" class="java.lang.String" itemvalue="Application.NewSubClass" />
+        <item index="2" class="java.lang.String" itemvalue="Application.SupSubClass" />
+        <item index="3" class="java.lang.String" itemvalue="Application.IdCardGenerator" />
+        <item index="4" class="java.lang.String" itemvalue="Application.Waiter" />
       </list>
     </recent_temporary>
   </component>
@@ -721,486 +587,423 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="562a92e1-f3cd-49cf-aadc-99cbc9cb3080" name="Default" comment="" />
-      <created>1503624761163</created>
+      <changelist id="eaf040ad-81d3-426b-b0da-08e647a33d77" name="Default" comment="" />
+      <created>1524712092649</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1503624761163</updated>
+      <updated>1524712092649</updated>
     </task>
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="54" y="-8" width="1490" height="880" extended-state="6" />
-    <editor active="true" />
+    <frame x="65" y="23" width="1375" height="877" extended-state="0" />
     <layout>
-      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3291536" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32908162" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.42737722" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32919255" sideWeight="0.5025455" order="1" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32908162" sideWeight="0.5" order="11" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32908162" sideWeight="0.49745455" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32908162" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32908162" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25946704" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24914676" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20162481" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" x="588" y="69" width="328" height="784" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32908162" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24963072" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24872449" sideWeight="0.5" order="12" side_tool="true" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39916405" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3291536" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
     </layout>
-    <layout-to-restore>
-      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24914676" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39916405" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3291536" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.42737722" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2044199" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3291536" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
-    </layout-to-restore>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="8" />
+      <option name="time" value="6" />
     </breakpoint-manager>
     <watches-manager />
   </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/exam/aiqiyi/Main3.java">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_161.jdk/Contents/Home/javafx-src.zip!/com/sun/javafx/runtime/async/AbstractAsyncOperation.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="40">
-          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="24" selection-end-column="1" />
+        <state relative-caret-position="161">
+          <caret line="83" column="26" lean-forward="false" selection-start-line="83" selection-start-column="26" selection-end-line="83" selection-end-column="26" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/string/N017.java">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_161.jdk/Contents/Home/src.zip!/java/util/concurrent/Future.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="5" column="14" lean-forward="false" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
+        <state relative-caret-position="85">
+          <caret line="116" column="29" lean-forward="true" selection-start-line="116" selection-start-column="29" selection-end-line="116" selection-end-column="29" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/string/N521.java">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_161.jdk/Contents/Home/src.zip!/java/util/concurrent/Executor.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="13" column="32" lean-forward="true" selection-start-line="13" selection-start-column="32" selection-end-line="13" selection-end-column="32" />
+        <state relative-caret-position="582">
+          <caret line="139" column="9" lean-forward="false" selection-start-line="139" selection-start-column="9" selection-end-line="139" selection-end-column="9" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/exam/aiqiyi/Main4.java">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_161.jdk/Contents/Home/src.zip!/java/util/concurrent/ForkJoinTask.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="333">
-          <caret line="26" column="0" lean-forward="true" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+        <state relative-caret-position="247">
+          <caret line="211" column="22" lean-forward="false" selection-start-line="211" selection-start-column="22" selection-end-line="211" selection-end-column="22" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/exam/aiqiyi/Main2.java">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_161.jdk/Contents/Home/src.zip!/java/util/concurrent/ExecutorService.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="280">
-          <caret line="14" column="32" lean-forward="true" selection-start-line="14" selection-start-column="32" selection-end-line="14" selection-end-column="32" />
+        <state relative-caret-position="817">
+          <caret line="340" column="19" lean-forward="false" selection-start-line="340" selection-start-column="10" selection-end-line="340" selection-end-column="19" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/exam/aiqiyi/Main1.java">
+    <entry file="file://$PROJECT_DIR$/java/thread/executor/NewExecutorService.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="17" selection-end-column="35" />
+        <state relative-caret-position="296">
+          <caret line="23" column="31" lean-forward="false" selection-start-line="23" selection-start-column="19" selection-end-line="23" selection-end-column="31" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/_ENVIRONMENT/Java/jdk/src.zip!/java/lang/NumberFormatException.java">
+    <entry file="file://$PROJECT_DIR$/library/template/thread/TFutureTask.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="339">
-          <caret line="64" column="0" lean-forward="false" selection-start-line="64" selection-start-column="0" selection-end-line="64" selection-end-column="0" />
+        <state relative-caret-position="285">
+          <caret line="17" column="22" lean-forward="false" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="22" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/动态规划/分类_是否能分为两个相等的子数组.java">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_161.jdk/Contents/Home/src.zip!/java/util/concurrent/RunnableFuture.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        <state relative-caret-position="251">
+          <caret line="47" column="17" lean-forward="false" selection-start-line="47" selection-start-column="17" selection-end-line="47" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lib/面试题/n对括号,有多少种匹配方式">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_161.jdk/Contents/Home/jre/lib/rt.jar!/com/sun/jndi/cosnaming/CNCtx.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="3" column="4" lean-forward="false" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
+        <state relative-caret-position="-13416">
+          <caret line="48" column="13" lean-forward="false" selection-start-line="48" selection-start-column="13" selection-end-line="48" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/string/N022.java">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_161.jdk/Contents/Home/src.zip!/com/sun/java/swing/plaf/gtk/GTKColorType.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="980">
-          <caret line="49" column="2" lean-forward="true" selection-start-line="49" selection-start-column="2" selection-end-line="49" selection-end-column="2" />
+        <state relative-caret-position="-2146">
+          <caret line="33" column="13" lean-forward="false" selection-start-line="33" selection-start-column="13" selection-end-line="33" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/string/N005.java">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_161.jdk/Contents/Home/jre/lib/ext/jaccess.jar!/com/sun/java/accessibility/util/GUIInitializedMulticaster.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="720">
-          <caret line="54" column="5" lean-forward="true" selection-start-line="54" selection-start-column="5" selection-end-line="54" selection-end-column="5" />
+        <state relative-caret-position="-287">
+          <caret line="12" column="13" lean-forward="false" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/string/N468.java">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_161.jdk/Contents/Home/jre/lib/plugin.jar!/com/sun/deploy/uitoolkit/impl/awt/AppletAudioClip.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" column="83" lean-forward="false" selection-start-line="20" selection-start-column="83" selection-end-line="20" selection-end-column="83" />
+        <state relative-caret-position="114">
+          <caret line="17" column="6" lean-forward="false" selection-start-line="17" selection-start-column="6" selection-end-line="17" selection-end-column="6" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/string/N385.java">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_161.jdk/Contents/Home/jre/lib/plugin.jar!/com/sun/deploy/uitoolkit/DragContext.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="5" column="10" lean-forward="false" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
+        <state relative-caret-position="76">
+          <caret line="7" column="28" lean-forward="false" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="28" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/string/N043.java">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_161.jdk/Contents/Home/jre/lib/plugin.jar!/com/sun/deploy/uitoolkit/DragHelper.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="600">
-          <caret line="30" column="46" lean-forward="true" selection-start-line="30" selection-start-column="46" selection-end-line="30" selection-end-column="46" />
+        <state relative-caret-position="76">
+          <caret line="7" column="17" lean-forward="false" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/_ENVIRONMENT/Java/jdk/src.zip!/java/util/stream/Stream.java">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_161.jdk/Contents/Home/jre/lib/plugin.jar!/com/sun/deploy/uitoolkit/DragListener.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="20">
-          <caret line="985" column="31" lean-forward="false" selection-start-line="985" selection-start-column="31" selection-end-line="985" selection-end-column="31" />
+        <state relative-caret-position="76">
+          <caret line="7" column="17" lean-forward="false" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/_ENVIRONMENT/Java/jdk/src.zip!/java/util/LinkedHashMap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="325" column="20" lean-forward="false" selection-start-line="325" selection-start-column="20" selection-end-line="325" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/_ENVIRONMENT/Java/jdk/src.zip!/java/util/ArrayList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="260" column="15" lean-forward="false" selection-start-line="260" selection-start-column="15" selection-end-line="260" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/_ENVIRONMENT/Java/jdk/src.zip!/java/lang/Thread.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="181">
-          <caret line="753" column="0" lean-forward="false" selection-start-line="753" selection-start-column="0" selection-end-line="753" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/out/production/MyCode/aiqiyi/Main1.class">
+    <entry file="file://$PROJECT_DIR$/MyCode.iml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/jianzhi/src/二进制中1的个数.java">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_161.jdk/Contents/Home/src.zip!/java/util/concurrent/locks/LockSupport.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="320">
-          <caret line="16" column="27" lean-forward="false" selection-start-line="16" selection-start-column="27" selection-end-line="16" selection-end-column="27" />
+        <state relative-caret-position="199">
+          <caret line="140" column="22" lean-forward="false" selection-start-line="140" selection-start-column="22" selection-end-line="140" selection-end-column="22" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/template/someclass/JVM/StackFrame.java">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_161.jdk/Contents/Home/src.zip!/java/lang/Thread.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="17" column="54" lean-forward="true" selection-start-line="17" selection-start-column="54" selection-end-line="17" selection-end-column="54" />
+        <state relative-caret-position="291">
+          <caret line="2047" column="24" lean-forward="false" selection-start-line="2047" selection-start-column="24" selection-end-line="2047" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_161.jdk/Contents/Home/src.zip!/java/util/concurrent/FutureTask.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="246">
+          <caret line="259" column="13" lean-forward="true" selection-start-line="259" selection-start-column="13" selection-end-line="259" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_161.jdk/Contents/Home/jre/lib/ext/zipfs.jar!/META-INF/services/java.nio.file.spi.FileSystemProvider">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/thread/future/NewFuture.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="4" lean-forward="true" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_161.jdk/Contents/Home/src.zip!/java/util/concurrent/AbstractExecutorService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="150" column="29" lean-forward="true" selection-start-line="150" selection-start-column="29" selection-end-line="150" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/library/源码/AbstractExecutorService.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="15" lean-forward="false" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_161.jdk/Contents/Home/src.zip!/java/util/concurrent/CompletionService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="60" column="17" lean-forward="false" selection-start-line="60" selection-start-column="17" selection-end-line="60" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_161.jdk/Contents/Home/src.zip!/java/util/concurrent/ExecutorCompletionService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="411">
+          <caret line="192" column="35" lean-forward="false" selection-start-line="192" selection-start-column="31" selection-end-line="192" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/library/源码/ThreadPoolExecutor.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_161.jdk/Contents/Home/src.zip!/java/lang/Comparable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="95" column="17" lean-forward="false" selection-start-line="95" selection-start-column="17" selection-end-line="95" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_161.jdk/Contents/Home/src.zip!/java/util/concurrent/Delayed.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="48" column="40" lean-forward="false" selection-start-line="48" selection-start-column="40" selection-end-line="48" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_161.jdk/Contents/Home/src.zip!/java/util/concurrent/ScheduledFuture.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="46" column="48" lean-forward="false" selection-start-line="46" selection-start-column="48" selection-end-line="46" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_161.jdk/Contents/Home/src.zip!/java/util/concurrent/ScheduledThreadPoolExecutor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1224">
+          <caret line="88" column="59" lean-forward="false" selection-start-line="88" selection-start-column="59" selection-end-line="88" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_161.jdk/Contents/Home/src.zip!/java/util/concurrent/ForkJoinPool.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2261">
+          <caret line="169" column="57" lean-forward="false" selection-start-line="169" selection-start-column="34" selection-end-line="169" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_161.jdk/Contents/Home/src.zip!/java/util/concurrent/ThreadFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="646">
+          <caret line="67" column="18" lean-forward="false" selection-start-line="67" selection-start-column="18" selection-end-line="67" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_161.jdk/Contents/Home/src.zip!/java/util/concurrent/RejectedExecutionHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="43" column="17" lean-forward="false" selection-start-line="43" selection-start-column="17" selection-end-line="43" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_161.jdk/Contents/Home/src.zip!/java/util/concurrent/locks/AbstractQueuedSynchronizer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4769">
+          <caret line="288" column="35" lean-forward="false" selection-start-line="288" selection-start-column="35" selection-end-line="288" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_161.jdk/Contents/Home/src.zip!/java/lang/Runnable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="564">
+          <caret line="67" column="25" lean-forward="false" selection-start-line="67" selection-start-column="25" selection-end-line="67" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_161.jdk/Contents/Home/src.zip!/java/util/concurrent/ScheduledExecutorService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1353">
+          <caret line="173" column="56" lean-forward="true" selection-start-line="173" selection-start-column="56" selection-end-line="173" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_161.jdk/Contents/Home/src.zip!/java/lang/System.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-7">
+          <caret line="109" column="36" lean-forward="false" selection-start-line="109" selection-start-column="36" selection-end-line="109" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_161.jdk/Contents/Home/src.zip!/java/io/PrintStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-7">
+          <caret line="803" column="16" lean-forward="false" selection-start-line="803" selection-start-column="16" selection-end-line="803" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/executor/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="45" lean-forward="true" selection-start-line="12" selection-start-column="45" selection-end-line="12" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/library/test/IdCardGenerator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="730">
+          <caret line="3594" column="25" lean-forward="false" selection-start-line="3594" selection-start-column="25" selection-end-line="3594" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_161.jdk/Contents/Home/src.zip!/java/util/concurrent/ThreadPoolExecutor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="532">
+          <caret line="697" column="30" lean-forward="true" selection-start-line="697" selection-start-column="30" selection-end-line="697" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_161.jdk/Contents/Home/src.zip!/java/util/concurrent/BlockingQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="43" column="23" lean-forward="false" selection-start-line="43" selection-start-column="23" selection-end-line="43" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_161.jdk/Contents/Home/src.zip!/java/util/concurrent/BlockingDeque.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="199" column="23" lean-forward="false" selection-start-line="199" selection-start-column="23" selection-end-line="199" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/clz/SupSubClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="484">
+          <caret line="22" column="35" lean-forward="true" selection-start-line="22" selection-start-column="35" selection-end-line="22" selection-end-column="35" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/template/someclass/JVM/常量池.java">
+    <entry file="file://$PROJECT_DIR$/java/thread/executor/NewExecutor.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="15" column="5" lean-forward="false" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/template/someclass/ArrayDequeUse.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="400">
-          <caret line="20" column="40" lean-forward="false" selection-start-line="20" selection-start-column="40" selection-end-line="20" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/exam/my/TopK.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="80">
-          <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/exam/haoweilai/main.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/_ENVIRONMENT/Java/jdk/src.zip!/java/util/LinkedList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="164">
-          <caret line="889" column="0" lean-forward="false" selection-start-line="889" selection-start-column="0" selection-end-line="889" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/_ENVIRONMENT/Java/jdk/src.zip!/java/util/Iterator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="173">
-          <caret line="91" column="17" lean-forward="false" selection-start-line="91" selection-start-column="17" selection-end-line="91" selection-end-column="17" />
-          <folding>
-            <element signature="e#2496#2497#0" expanded="false" />
-            <element signature="e#2561#2562#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/template/算法题/约瑟夫.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="11" column="32" lean-forward="true" selection-start-line="11" selection-start-column="32" selection-end-line="11" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/exam/haoweilai/Main3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="40">
-          <caret line="31" column="0" lean-forward="false" selection-start-line="31" selection-start-column="0" selection-end-line="47" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/template/设计模式/单例模式.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="38" column="27" lean-forward="false" selection-start-line="38" selection-start-column="27" selection-end-line="38" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/exam/haoweilai/Main2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="80">
-          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="36" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/exam/haoweilai/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="14" column="42" lean-forward="true" selection-start-line="14" selection-start-column="42" selection-end-line="14" selection-end-column="42" />
+        <state relative-caret-position="132">
+          <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/template/someclass/JVM/TestClass.java">
+    <entry file="file://$PROJECT_DIR$/java/thread/creation/CreateThread.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="21" lean-forward="false" selection-start-line="0" selection-start-column="8" selection-end-line="0" selection-end-column="21" />
-          <folding>
-            <element signature="e#72#73#0" expanded="true" />
-            <element signature="e#114#115#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/_ENVIRONMENT/Java/jdk/src.zip!/javax/swing/JPanel.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="173">
-          <caret line="64" column="32" lean-forward="false" selection-start-line="64" selection-start-column="32" selection-end-line="64" selection-end-column="32" />
+        <state relative-caret-position="32">
+          <caret line="5" column="44" lean-forward="true" selection-start-line="5" selection-start-column="44" selection-end-line="5" selection-end-column="44" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/_ENVIRONMENT/Java/jdk/jre/lib/rt.jar!/sun/awt/AWTAccessor.class">
+    <entry file="file://$PROJECT_DIR$/java/thinking in java/chapter7/Frog.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-6300">
-          <caret line="53" column="19" lean-forward="false" selection-start-line="53" selection-start-column="19" selection-end-line="53" selection-end-column="19" />
+        <state relative-caret-position="1883">
+          <caret line="96" column="34" lean-forward="false" selection-start-line="96" selection-start-column="15" selection-end-line="96" selection-end-column="34" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/_ENVIRONMENT/Java/jdk/src.zip!/java/awt/Component.java">
+    <entry file="file://$PROJECT_DIR$/algorithm/exam/haoweilai/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="173">
-          <caret line="838" column="16" lean-forward="false" selection-start-line="838" selection-start-column="16" selection-end-line="838" selection-end-column="16" />
+        <state relative-caret-position="88">
+          <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/_ENVIRONMENT/Java/jdk/src.zip!/java/awt/Container.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="173">
-          <caret line="91" column="37" lean-forward="false" selection-start-line="91" selection-start-column="37" selection-end-line="91" selection-end-column="37" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/_ENVIRONMENT/Java/jdk/src.zip!/javax/swing/JComponent.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-127">
-          <caret line="183" column="43" lean-forward="true" selection-start-line="183" selection-start-column="43" selection-end-line="183" selection-end-column="43" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/template/sort/unstable/HeapTreeSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="80">
-          <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/template/sort/unstable/HeapSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="21" column="0" lean-forward="true" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/template/sort/unstable/QuickSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="440">
-          <caret line="22" column="13" lean-forward="true" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/jianzhi/src/整数中1出现的次数.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="58" column="35" lean-forward="true" selection-start-line="58" selection-start-column="35" selection-end-line="58" selection-end-column="35" />
-          <folding>
-            <element signature="method#NumberOf1Between1AndN_Solution#0;class#整数中1出现的次数#0" expanded="false" />
-            <element signature="method#numOf1#0;class#整数中1出现的次数#0" expanded="false" />
-            <element signature="method#getNums#0;class#整数中1出现的次数#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/template/someclass/JVM/MClassLoader.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="20">
-          <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-          <folding>
-            <element signature="e#91#92#0" expanded="true" />
-            <element signature="e#118#119#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/算法/Array解法.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3300">
-          <caret line="165" column="36" lean-forward="true" selection-start-line="165" selection-start-column="36" selection-end-line="165" selection-end-column="36" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/算法/Array.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="507">
-          <caret line="47" column="5" lean-forward="true" selection-start-line="47" selection-start-column="5" selection-end-line="47" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/算法/array (2).txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="53" column="1" lean-forward="false" selection-start-line="53" selection-start-column="0" selection-end-line="53" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/exam/xiaomi/Main3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="21" column="33" lean-forward="false" selection-start-line="21" selection-start-column="27" selection-end-line="21" selection-end-column="33" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/exam/xiaomi/Main2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="41" column="0" lean-forward="true" selection-start-line="41" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/exam/xiaomi/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="9" column="18" lean-forward="false" selection-start-line="9" selection-start-column="15" selection-end-line="9" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/_ENVIRONMENT/Java/jdk/src.zip!/java/util/concurrent/BlockingDeque.java">
+    <entry file="file://$PROJECT_DIR$/java/thread/synchronization/Counter.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="308">
-          <caret line="199" column="17" lean-forward="false" selection-start-line="199" selection-start-column="17" selection-end-line="199" selection-end-column="17" />
+          <caret line="21" column="5" lean-forward="false" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/exam/wuyi/Main.java">
+    <entry file="file://$PROJECT_DIR$/.idea/misc.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="11" column="26" lean-forward="true" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#309#317#0" expanded="true" />
-            <element signature="e#1403#1404#0" expanded="true" />
-            <element signature="e#1441#1442#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/thread/synchronization/Waiter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="792">
+          <caret line="36" column="36" lean-forward="false" selection-start-line="36" selection-start-column="36" selection-end-line="36" selection-end-column="36" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1257,6 +1060,19 @@
       <state key="ModuleStructureConfigurable.UI">
         <settings>
           <last-edited>MyCode</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
