@@ -2,208 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eaf040ad-81d3-426b-b0da-08e647a33d77" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/mitc_admin.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/MyCode.iml" afterPath="$PROJECT_DIR$/MyCode.iml" />
-      <change beforePath="$PROJECT_DIR$/exam/aiqiyi/Main1.java" afterPath="$PROJECT_DIR$/algorithm/exam/aiqiyi/Main1.java" />
-      <change beforePath="$PROJECT_DIR$/exam/aiqiyi/Main2.java" afterPath="$PROJECT_DIR$/algorithm/exam/aiqiyi/Main2.java" />
-      <change beforePath="$PROJECT_DIR$/exam/aiqiyi/Main3.java" afterPath="$PROJECT_DIR$/algorithm/exam/aiqiyi/Main3.java" />
-      <change beforePath="$PROJECT_DIR$/exam/aiqiyi/Main4.java" afterPath="$PROJECT_DIR$/algorithm/exam/aiqiyi/Main4.java" />
-      <change beforePath="$PROJECT_DIR$/exam/didi/Main.java" afterPath="$PROJECT_DIR$/algorithm/exam/didi/Main.java" />
-      <change beforePath="$PROJECT_DIR$/exam/didi/NNN.java" afterPath="$PROJECT_DIR$/algorithm/exam/didi/NNN.java" />
-      <change beforePath="$PROJECT_DIR$/exam/didi/TheMaxK.java" afterPath="$PROJECT_DIR$/algorithm/exam/didi/TheMaxK.java" />
-      <change beforePath="$PROJECT_DIR$/exam/duoyi/Test.java" afterPath="$PROJECT_DIR$/algorithm/exam/duoyi/Test.java" />
-      <change beforePath="$PROJECT_DIR$/exam/haoweilai/Main.java" afterPath="$PROJECT_DIR$/algorithm/exam/haoweilai/Main.java" />
-      <change beforePath="$PROJECT_DIR$/exam/haoweilai/Main2.java" afterPath="$PROJECT_DIR$/algorithm/exam/haoweilai/Main2.java" />
-      <change beforePath="$PROJECT_DIR$/exam/haoweilai/Main3.java" afterPath="$PROJECT_DIR$/algorithm/exam/haoweilai/Main3.java" />
-      <change beforePath="$PROJECT_DIR$/exam/haoweilai/main.cpp" afterPath="$PROJECT_DIR$/algorithm/exam/haoweilai/main.cpp" />
-      <change beforePath="$PROJECT_DIR$/exam/my/TopK.java" afterPath="$PROJECT_DIR$/algorithm/exam/my/TopK.java" />
-      <change beforePath="$PROJECT_DIR$/exam/threesixzero/Main1.java" afterPath="$PROJECT_DIR$/algorithm/exam/threesixzero/Main1.java" />
-      <change beforePath="$PROJECT_DIR$/exam/threesixzero/Main2.java" afterPath="$PROJECT_DIR$/algorithm/exam/threesixzero/Main2.java" />
-      <change beforePath="$PROJECT_DIR$/exam/threesixzero/Main3.java" afterPath="$PROJECT_DIR$/algorithm/exam/threesixzero/Main3.java" />
-      <change beforePath="$PROJECT_DIR$/exam/toutiao/Main.java" afterPath="$PROJECT_DIR$/algorithm/exam/toutiao/Main.java" />
-      <change beforePath="$PROJECT_DIR$/exam/wuyi/Main.java" afterPath="$PROJECT_DIR$/algorithm/exam/wuyi/Main.java" />
-      <change beforePath="$PROJECT_DIR$/exam/xiaomi/Main.java" afterPath="$PROJECT_DIR$/algorithm/exam/xiaomi/Main.java" />
-      <change beforePath="$PROJECT_DIR$/exam/xiaomi/Main2.java" afterPath="$PROJECT_DIR$/algorithm/exam/xiaomi/Main2.java" />
-      <change beforePath="$PROJECT_DIR$/exam/xiaomi/Main3.java" afterPath="$PROJECT_DIR$/algorithm/exam/xiaomi/Main3.java" />
-      <change beforePath="$PROJECT_DIR$/jianzhi/src/丑数.java" afterPath="$PROJECT_DIR$/algorithm/jianzhi/src/丑数.java" />
-      <change beforePath="$PROJECT_DIR$/jianzhi/src/两个链表的第一个公共结点.java" afterPath="$PROJECT_DIR$/algorithm/jianzhi/src/两个链表的第一个公共结点.java" />
-      <change beforePath="$PROJECT_DIR$/jianzhi/src/二叉搜索树与双向链表.java" afterPath="$PROJECT_DIR$/algorithm/jianzhi/src/二叉搜索树与双向链表.java" />
-      <change beforePath="$PROJECT_DIR$/jianzhi/src/二叉搜索树的后序遍历序列.java" afterPath="$PROJECT_DIR$/algorithm/jianzhi/src/二叉搜索树的后序遍历序列.java" />
-      <change beforePath="$PROJECT_DIR$/jianzhi/src/二叉树中和为某一值的路径.java" afterPath="$PROJECT_DIR$/algorithm/jianzhi/src/二叉树中和为某一值的路径.java" />
-      <change beforePath="$PROJECT_DIR$/jianzhi/src/二叉树的深度.java" afterPath="$PROJECT_DIR$/algorithm/jianzhi/src/二叉树的深度.java" />
-      <change beforePath="$PROJECT_DIR$/jianzhi/src/二叉树的镜像.java" afterPath="$PROJECT_DIR$/algorithm/jianzhi/src/二叉树的镜像.java" />
-      <change beforePath="$PROJECT_DIR$/jianzhi/src/二维数组中的查找.java" afterPath="$PROJECT_DIR$/algorithm/jianzhi/src/二维数组中的查找.java" />
-      <change beforePath="$PROJECT_DIR$/jianzhi/src/二进制中1的个数.java" afterPath="$PROJECT_DIR$/algorithm/jianzhi/src/二进制中1的个数.java" />
-      <change beforePath="$PROJECT_DIR$/jianzhi/src/从上往下打印二叉树.java" afterPath="$PROJECT_DIR$/algorithm/jianzhi/src/从上往下打印二叉树.java" />
-      <change beforePath="$PROJECT_DIR$/jianzhi/src/从尾到头打印链表.java" afterPath="$PROJECT_DIR$/algorithm/jianzhi/src/从尾到头打印链表.java" />
-      <change beforePath="$PROJECT_DIR$/jianzhi/src/删除链表中重复的结点.java" afterPath="$PROJECT_DIR$/algorithm/jianzhi/src/删除链表中重复的结点.java" />
-      <change beforePath="$PROJECT_DIR$/jianzhi/src/包含min函数的栈.java" afterPath="$PROJECT_DIR$/algorithm/jianzhi/src/包含min函数的栈.java" />
-      <change beforePath="$PROJECT_DIR$/jianzhi/src/反转链表.java" afterPath="$PROJECT_DIR$/algorithm/jianzhi/src/反转链表.java" />
-      <change beforePath="$PROJECT_DIR$/jianzhi/src/变态跳台阶.java" afterPath="$PROJECT_DIR$/algorithm/jianzhi/src/变态跳台阶.java" />
-      <change beforePath="$PROJECT_DIR$/jianzhi/src/合并两个排序的链表.java" afterPath="$PROJECT_DIR$/algorithm/jianzhi/src/合并两个排序的链表.java" />
-      <change beforePath="$PROJECT_DIR$/jianzhi/src/和为S的两个数字.java" afterPath="$PROJECT_DIR$/algorithm/jianzhi/src/和为S的两个数字.java" />
-      <change beforePath="$PROJECT_DIR$/jianzhi/src/和为S的连续正数序列.java" afterPath="$PROJECT_DIR$/algorithm/jianzhi/src/和为S的连续正数序列.java" />
-      <change beforePath="$PROJECT_DIR$/jianzhi/src/复杂链表的复制.java" afterPath="$PROJECT_DIR$/algorithm/jianzhi/src/复杂链表的复制.java" />
-      <change beforePath="$PROJECT_DIR$/jianzhi/src/字符串的排列.java" afterPath="$PROJECT_DIR$/algorithm/jianzhi/src/字符串的排列.java" />
-      <change beforePath="$PROJECT_DIR$/jianzhi/src/字符串的排列Ⅱ.java" afterPath="$PROJECT_DIR$/algorithm/jianzhi/src/字符串的排列Ⅱ.java" />
-      <change beforePath="$PROJECT_DIR$/jianzhi/src/左旋转字符串.java" afterPath="$PROJECT_DIR$/algorithm/jianzhi/src/左旋转字符串.java" />
-      <change beforePath="$PROJECT_DIR$/jianzhi/src/平衡二叉树.java" afterPath="$PROJECT_DIR$/algorithm/jianzhi/src/平衡二叉树.java" />
-      <change beforePath="$PROJECT_DIR$/jianzhi/src/把数组排成最小的数.java" afterPath="$PROJECT_DIR$/algorithm/jianzhi/src/把数组排成最小的数.java" />
-      <change beforePath="$PROJECT_DIR$/jianzhi/src/按之字形顺序打印二叉树.java" afterPath="$PROJECT_DIR$/algorithm/jianzhi/src/按之字形顺序打印二叉树.java" />
-      <change beforePath="$PROJECT_DIR$/jianzhi/src/数值的整数次方.java" afterPath="$PROJECT_DIR$/algorithm/jianzhi/src/数值的整数次方.java" />
-      <change beforePath="$PROJECT_DIR$/jianzhi/src/数字在排序数组中出现的次数.java" afterPath="$PROJECT_DIR$/algorithm/jianzhi/src/数字在排序数组中出现的次数.java" />
-      <change beforePath="$PROJECT_DIR$/jianzhi/src/数组中出现次数超过一半的数字.java" afterPath="$PROJECT_DIR$/algorithm/jianzhi/src/数组中出现次数超过一半的数字.java" />
-      <change beforePath="$PROJECT_DIR$/jianzhi/src/数组中只出现一次的数字.java" afterPath="$PROJECT_DIR$/algorithm/jianzhi/src/数组中只出现一次的数字.java" />
-      <change beforePath="$PROJECT_DIR$/jianzhi/src/数组中的逆序对.java" afterPath="$PROJECT_DIR$/algorithm/jianzhi/src/数组中的逆序对.java" />
-      <change beforePath="$PROJECT_DIR$/jianzhi/src/数组中重复的数字.java" afterPath="$PROJECT_DIR$/algorithm/jianzhi/src/数组中重复的数字.java" />
-      <change beforePath="$PROJECT_DIR$/jianzhi/src/整数中1出现的次数.java" afterPath="$PROJECT_DIR$/algorithm/jianzhi/src/整数中1出现的次数.java" />
-      <change beforePath="$PROJECT_DIR$/jianzhi/src/斐波那契数列.java" afterPath="$PROJECT_DIR$/algorithm/jianzhi/src/斐波那契数列.java" />
-      <change beforePath="$PROJECT_DIR$/jianzhi/src/旋转数组的最小数字.java" afterPath="$PROJECT_DIR$/algorithm/jianzhi/src/旋转数组的最小数字.java" />
-      <change beforePath="$PROJECT_DIR$/jianzhi/src/最小的K个数.java" afterPath="$PROJECT_DIR$/algorithm/jianzhi/src/最小的K个数.java" />
-      <change beforePath="$PROJECT_DIR$/jianzhi/src/栈的压入弹出序列.java" afterPath="$PROJECT_DIR$/algorithm/jianzhi/src/栈的压入弹出序列.java" />
-      <change beforePath="$PROJECT_DIR$/jianzhi/src/树的子结构.java" afterPath="$PROJECT_DIR$/algorithm/jianzhi/src/树的子结构.java" />
-      <change beforePath="$PROJECT_DIR$/jianzhi/src/用两个栈实现队列.java" afterPath="$PROJECT_DIR$/algorithm/jianzhi/src/用两个栈实现队列.java" />
-      <change beforePath="$PROJECT_DIR$/jianzhi/src/矩形覆盖.java" afterPath="$PROJECT_DIR$/algorithm/jianzhi/src/矩形覆盖.java" />
-      <change beforePath="$PROJECT_DIR$/jianzhi/src/第一个只出现一次的字符位置.java" afterPath="$PROJECT_DIR$/algorithm/jianzhi/src/第一个只出现一次的字符位置.java" />
-      <change beforePath="$PROJECT_DIR$/jianzhi/src/翻转单词顺序列.java" afterPath="$PROJECT_DIR$/algorithm/jianzhi/src/翻转单词顺序列.java" />
-      <change beforePath="$PROJECT_DIR$/jianzhi/src/调整数组顺序使奇数位于偶数前面.java" afterPath="$PROJECT_DIR$/algorithm/jianzhi/src/调整数组顺序使奇数位于偶数前面.java" />
-      <change beforePath="$PROJECT_DIR$/jianzhi/src/跳台阶.java" afterPath="$PROJECT_DIR$/algorithm/jianzhi/src/跳台阶.java" />
-      <change beforePath="$PROJECT_DIR$/jianzhi/src/连续子数组的最大和.java" afterPath="$PROJECT_DIR$/algorithm/jianzhi/src/连续子数组的最大和.java" />
-      <change beforePath="$PROJECT_DIR$/jianzhi/src/重建二叉树.java" afterPath="$PROJECT_DIR$/algorithm/jianzhi/src/重建二叉树.java" />
-      <change beforePath="$PROJECT_DIR$/jianzhi/src/链表中倒数第k个结点.java" afterPath="$PROJECT_DIR$/algorithm/jianzhi/src/链表中倒数第k个结点.java" />
-      <change beforePath="$PROJECT_DIR$/jianzhi/src/顺时针打印矩阵.java" afterPath="$PROJECT_DIR$/algorithm/jianzhi/src/顺时针打印矩阵.java" />
-      <change beforePath="$PROJECT_DIR$/leetcode/array/N018.java" afterPath="$PROJECT_DIR$/algorithm/leetcode/array/N018.java" />
-      <change beforePath="$PROJECT_DIR$/leetcode/array/N031.java" afterPath="$PROJECT_DIR$/algorithm/leetcode/array/N031.java" />
-      <change beforePath="$PROJECT_DIR$/leetcode/array/N033.java" afterPath="$PROJECT_DIR$/algorithm/leetcode/array/N033.java" />
-      <change beforePath="$PROJECT_DIR$/leetcode/array/N034.java" afterPath="$PROJECT_DIR$/algorithm/leetcode/array/N034.java" />
-      <change beforePath="$PROJECT_DIR$/leetcode/array/N039.java" afterPath="$PROJECT_DIR$/algorithm/leetcode/array/N039.java" />
-      <change beforePath="$PROJECT_DIR$/leetcode/array/N040.java" afterPath="$PROJECT_DIR$/algorithm/leetcode/array/N040.java" />
-      <change beforePath="$PROJECT_DIR$/leetcode/array/N048.java" afterPath="$PROJECT_DIR$/algorithm/leetcode/array/N048.java" />
-      <change beforePath="$PROJECT_DIR$/leetcode/array/N054.java" afterPath="$PROJECT_DIR$/algorithm/leetcode/array/N054.java" />
-      <change beforePath="$PROJECT_DIR$/leetcode/array/N055.java" afterPath="$PROJECT_DIR$/algorithm/leetcode/array/N055.java" />
-      <change beforePath="$PROJECT_DIR$/leetcode/array/N056.java" afterPath="$PROJECT_DIR$/algorithm/leetcode/array/N056.java" />
-      <change beforePath="$PROJECT_DIR$/leetcode/array/N059.java" afterPath="$PROJECT_DIR$/algorithm/leetcode/array/N059.java" />
-      <change beforePath="$PROJECT_DIR$/leetcode/array/N062.java" afterPath="$PROJECT_DIR$/algorithm/leetcode/array/N062.java" />
-      <change beforePath="$PROJECT_DIR$/leetcode/array/N063.java" afterPath="$PROJECT_DIR$/algorithm/leetcode/array/N063.java" />
-      <change beforePath="$PROJECT_DIR$/leetcode/array/N064.java" afterPath="$PROJECT_DIR$/algorithm/leetcode/array/N064.java" />
-      <change beforePath="$PROJECT_DIR$/leetcode/array/N073.java" afterPath="$PROJECT_DIR$/algorithm/leetcode/array/N073.java" />
-      <change beforePath="$PROJECT_DIR$/leetcode/array/N074.java" afterPath="$PROJECT_DIR$/algorithm/leetcode/array/N074.java" />
-      <change beforePath="$PROJECT_DIR$/leetcode/array/N075.java" afterPath="$PROJECT_DIR$/algorithm/leetcode/array/N075.java" />
-      <change beforePath="$PROJECT_DIR$/leetcode/array/N078.java" afterPath="$PROJECT_DIR$/algorithm/leetcode/array/N078.java" />
-      <change beforePath="$PROJECT_DIR$/leetcode/array/N079.java" afterPath="$PROJECT_DIR$/algorithm/leetcode/array/N079.java" />
-      <change beforePath="$PROJECT_DIR$/leetcode/array/N080.java" afterPath="$PROJECT_DIR$/algorithm/leetcode/array/N080.java" />
-      <change beforePath="$PROJECT_DIR$/leetcode/array/N081.java" afterPath="$PROJECT_DIR$/algorithm/leetcode/array/N081.java" />
-      <change beforePath="$PROJECT_DIR$/leetcode/array/N090.java" afterPath="$PROJECT_DIR$/algorithm/leetcode/array/N090.java" />
-      <change beforePath="$PROJECT_DIR$/leetcode/array/N611.java" afterPath="$PROJECT_DIR$/algorithm/leetcode/array/N611.java" />
-      <change beforePath="$PROJECT_DIR$/leetcode/array/N621.java" afterPath="$PROJECT_DIR$/algorithm/leetcode/array/N621.java" />
-      <change beforePath="$PROJECT_DIR$/leetcode/dp/_N638.java" afterPath="$PROJECT_DIR$/algorithm/leetcode/dp/_N638.java" />
-      <change beforePath="$PROJECT_DIR$/leetcode/string/N005.java" afterPath="$PROJECT_DIR$/algorithm/leetcode/string/N005.java" />
-      <change beforePath="$PROJECT_DIR$/leetcode/string/N014.java" afterPath="$PROJECT_DIR$/algorithm/leetcode/string/N014.java" />
-      <change beforePath="$PROJECT_DIR$/leetcode/string/N017.java" afterPath="$PROJECT_DIR$/algorithm/leetcode/string/N017.java" />
-      <change beforePath="$PROJECT_DIR$/leetcode/string/N020.java" afterPath="$PROJECT_DIR$/algorithm/leetcode/string/N020.java" />
-      <change beforePath="$PROJECT_DIR$/leetcode/string/N022.java" afterPath="$PROJECT_DIR$/algorithm/leetcode/string/N022.java" />
-      <change beforePath="$PROJECT_DIR$/leetcode/string/N028.java" afterPath="$PROJECT_DIR$/algorithm/leetcode/string/N028.java" />
-      <change beforePath="$PROJECT_DIR$/leetcode/string/N043.java" afterPath="$PROJECT_DIR$/algorithm/leetcode/string/N043.java" />
-      <change beforePath="$PROJECT_DIR$/leetcode/string/N058.java" afterPath="$PROJECT_DIR$/algorithm/leetcode/string/N058.java" />
-      <change beforePath="$PROJECT_DIR$/leetcode/string/N067.java" afterPath="$PROJECT_DIR$/algorithm/leetcode/string/N067.java" />
-      <change beforePath="$PROJECT_DIR$/leetcode/string/N345.java" afterPath="$PROJECT_DIR$/algorithm/leetcode/string/N345.java" />
-      <change beforePath="$PROJECT_DIR$/leetcode/string/N383.java" afterPath="$PROJECT_DIR$/algorithm/leetcode/string/N383.java" />
-      <change beforePath="$PROJECT_DIR$/leetcode/string/N385.java" afterPath="$PROJECT_DIR$/algorithm/leetcode/string/N385.java" />
-      <change beforePath="$PROJECT_DIR$/leetcode/string/N434.java" afterPath="$PROJECT_DIR$/algorithm/leetcode/string/N434.java" />
-      <change beforePath="$PROJECT_DIR$/leetcode/string/N459.java" afterPath="$PROJECT_DIR$/algorithm/leetcode/string/N459.java" />
-      <change beforePath="$PROJECT_DIR$/leetcode/string/N468.java" afterPath="$PROJECT_DIR$/algorithm/leetcode/string/N468.java" />
-      <change beforePath="$PROJECT_DIR$/leetcode/string/N520.java" afterPath="$PROJECT_DIR$/algorithm/leetcode/string/N520.java" />
-      <change beforePath="$PROJECT_DIR$/leetcode/string/N521.java" afterPath="$PROJECT_DIR$/algorithm/leetcode/string/N521.java" />
-      <change beforePath="$PROJECT_DIR$/leetcode/string/N541.java" afterPath="$PROJECT_DIR$/algorithm/leetcode/string/N541.java" />
-      <change beforePath="$PROJECT_DIR$/leetcode/string/N551.java" afterPath="$PROJECT_DIR$/algorithm/leetcode/string/N551.java" />
-      <change beforePath="$PROJECT_DIR$/leetcode/string/N557.java" afterPath="$PROJECT_DIR$/algorithm/leetcode/string/N557.java" />
-      <change beforePath="$PROJECT_DIR$/leetcode/string/N606.java" afterPath="$PROJECT_DIR$/algorithm/leetcode/string/N606.java" />
-      <change beforePath="$PROJECT_DIR$/leetcode/动态规划/分类_是否能分为两个相等的子数组.java" afterPath="$PROJECT_DIR$/algorithm/leetcode/动态规划/分类_是否能分为两个相等的子数组.java" />
-      <change beforePath="$PROJECT_DIR$/lib/node/ComplexListNode.java" afterPath="$PROJECT_DIR$/library/node/ComplexListNode.java" />
-      <change beforePath="$PROJECT_DIR$/lib/node/Interval.java" afterPath="$PROJECT_DIR$/library/node/Interval.java" />
-      <change beforePath="$PROJECT_DIR$/lib/node/ListNode.java" afterPath="$PROJECT_DIR$/library/node/ListNode.java" />
-      <change beforePath="$PROJECT_DIR$/lib/node/RandomListNode.java" afterPath="$PROJECT_DIR$/library/node/RandomListNode.java" />
-      <change beforePath="$PROJECT_DIR$/lib/node/TreeNode.java" afterPath="$PROJECT_DIR$/library/node/TreeNode.java" />
-      <change beforePath="$PROJECT_DIR$/lib/txt/Animation.txt" afterPath="$PROJECT_DIR$/library/txt/Animation.txt" />
-      <change beforePath="$PROJECT_DIR$/lib/txt/Animator.txt" afterPath="$PROJECT_DIR$/library/txt/Animator.txt" />
-      <change beforePath="$PROJECT_DIR$/lib/txt/ColorStateList.txt" afterPath="$PROJECT_DIR$/library/txt/ColorStateList.txt" />
-      <change beforePath="$PROJECT_DIR$/lib/txt/Dialog.txt" afterPath="$PROJECT_DIR$/library/txt/Dialog.txt" />
-      <change beforePath="$PROJECT_DIR$/lib/txt/Dimension.txt" afterPath="$PROJECT_DIR$/library/txt/Dimension.txt" />
-      <change beforePath="$PROJECT_DIR$/lib/txt/Drawable.txt" afterPath="$PROJECT_DIR$/library/txt/Drawable.txt" />
-      <change beforePath="$PROJECT_DIR$/lib/txt/Notification.txt" afterPath="$PROJECT_DIR$/library/txt/Notification.txt" />
-      <change beforePath="$PROJECT_DIR$/lib/txt/Recyclerview.txt" afterPath="$PROJECT_DIR$/library/txt/Recyclerview.txt" />
-      <change beforePath="$PROJECT_DIR$/lib/txt/Style.txt" afterPath="$PROJECT_DIR$/library/txt/Style.txt" />
-      <change beforePath="$PROJECT_DIR$/lib/txt/Widget.txt" afterPath="$PROJECT_DIR$/library/txt/Widget.txt" />
-      <change beforePath="$PROJECT_DIR$/lib/txt/自定义组件.txt" afterPath="$PROJECT_DIR$/library/txt/自定义组件.txt" />
-      <change beforePath="$PROJECT_DIR$/lib/txt/输入事件.txt" afterPath="$PROJECT_DIR$/library/txt/输入事件.txt" />
-      <change beforePath="$PROJECT_DIR$/lib/源码/AbstractExecutorService.txt" afterPath="$PROJECT_DIR$/library/源码/AbstractExecutorService.txt" />
-      <change beforePath="$PROJECT_DIR$/lib/源码/ThreadPoolExecutor.txt" afterPath="$PROJECT_DIR$/library/源码/ThreadPoolExecutor.txt" />
-      <change beforePath="$PROJECT_DIR$/lib/算法/Array.txt" afterPath="$PROJECT_DIR$/library/算法/Array.txt" />
-      <change beforePath="$PROJECT_DIR$/lib/算法/Array解法.txt" afterPath="$PROJECT_DIR$/library/算法/Array解法.txt" />
-      <change beforePath="$PROJECT_DIR$/lib/算法/array (2).txt" afterPath="$PROJECT_DIR$/library/算法/array (2).txt" />
-      <change beforePath="$PROJECT_DIR$/lib/算法/string.txt" afterPath="$PROJECT_DIR$/library/算法/string.txt" />
-      <change beforePath="$PROJECT_DIR$/lib/面试题/Android.txt" afterPath="$PROJECT_DIR$/library/面试题/Android.txt" />
-      <change beforePath="$PROJECT_DIR$/lib/面试题/Java.txt" afterPath="$PROJECT_DIR$/library/面试题/Java.txt" />
-      <change beforePath="$PROJECT_DIR$/lib/面试题/n对括号,有多少种匹配方式" afterPath="$PROJECT_DIR$/library/面试题/n对括号,有多少种匹配方式" />
-      <change beforePath="$PROJECT_DIR$/lib/面试题/编程注意.txt" afterPath="$PROJECT_DIR$/library/面试题/编程注意.txt" />
-      <change beforePath="$PROJECT_DIR$/out/production/MyCode/haoweilai/main.cpp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/MyCode/wuyi/Main$CountThread.class" afterPath="$PROJECT_DIR$/out/production/MyCode/wuyi/Main$CountThread.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/MyCode/wuyi/Main.class" afterPath="$PROJECT_DIR$/out/production/MyCode/wuyi/Main.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/MyCode/排序_集合/note.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/template/binarytree/Inorder.java" afterPath="$PROJECT_DIR$/library/template/binarytree/Inorder.java" />
-      <change beforePath="$PROJECT_DIR$/template/binarytree/LevelSorder.java" afterPath="$PROJECT_DIR$/library/template/binarytree/LevelSorder.java" />
-      <change beforePath="$PROJECT_DIR$/template/binarytree/Levelorder.java" afterPath="$PROJECT_DIR$/library/template/binarytree/Levelorder.java" />
-      <change beforePath="$PROJECT_DIR$/template/binarytree/Postorder.java" afterPath="$PROJECT_DIR$/library/template/binarytree/Postorder.java" />
-      <change beforePath="$PROJECT_DIR$/template/binarytree/Preorder.java" afterPath="$PROJECT_DIR$/library/template/binarytree/Preorder.java" />
-      <change beforePath="$PROJECT_DIR$/template/someclass/Annotation/AnnotationUse.java" afterPath="$PROJECT_DIR$/library/template/someclass/Annotation/AnnotationUse.java" />
-      <change beforePath="$PROJECT_DIR$/template/someclass/Annotation/MyAnnotation1.java" afterPath="$PROJECT_DIR$/library/template/someclass/Annotation/MyAnnotation1.java" />
-      <change beforePath="$PROJECT_DIR$/template/someclass/Annotation/MyAnnotation2.java" afterPath="$PROJECT_DIR$/library/template/someclass/Annotation/MyAnnotation2.java" />
-      <change beforePath="$PROJECT_DIR$/template/someclass/Annotation/Test.java" afterPath="$PROJECT_DIR$/library/template/someclass/Annotation/Test.java" />
-      <change beforePath="$PROJECT_DIR$/template/someclass/ArrayDequeUse.java" afterPath="$PROJECT_DIR$/library/template/someclass/ArrayDequeUse.java" />
-      <change beforePath="$PROJECT_DIR$/template/someclass/JVM/MClassLoader.java" afterPath="$PROJECT_DIR$/library/template/someclass/JVM/MClassLoader.java" />
-      <change beforePath="$PROJECT_DIR$/template/someclass/JVM/StackFrame.java" afterPath="$PROJECT_DIR$/library/template/someclass/JVM/StackFrame.java" />
-      <change beforePath="$PROJECT_DIR$/template/someclass/JVM/TestClass.java" afterPath="$PROJECT_DIR$/library/template/someclass/JVM/TestClass.java" />
-      <change beforePath="$PROJECT_DIR$/template/someclass/JVM/常量池.java" afterPath="$PROJECT_DIR$/library/template/someclass/JVM/常量池.java" />
-      <change beforePath="$PROJECT_DIR$/template/someclass/类修饰符/NewPublic.java" afterPath="$PROJECT_DIR$/library/template/someclass/类修饰符/NewPublic.java" />
-      <change beforePath="$PROJECT_DIR$/template/someclass/类修饰符/Test.java" afterPath="$PROJECT_DIR$/library/template/someclass/类修饰符/Test.java" />
-      <change beforePath="$PROJECT_DIR$/template/sort/search/BinarySearch.java" afterPath="$PROJECT_DIR$/library/template/sort/search/BinarySearch.java" />
-      <change beforePath="$PROJECT_DIR$/template/sort/stable/BubbleSort.java" afterPath="$PROJECT_DIR$/library/template/sort/stable/BubbleSort.java" />
-      <change beforePath="$PROJECT_DIR$/template/sort/stable/InsertionSort.java" afterPath="$PROJECT_DIR$/library/template/sort/stable/InsertionSort.java" />
-      <change beforePath="$PROJECT_DIR$/template/sort/stable/MergeSort.java" afterPath="$PROJECT_DIR$/library/template/sort/stable/MergeSort.java" />
-      <change beforePath="$PROJECT_DIR$/template/sort/unstable/HeapSort.java" afterPath="$PROJECT_DIR$/library/template/sort/unstable/HeapSort.java" />
-      <change beforePath="$PROJECT_DIR$/template/sort/unstable/QuickSort.java" afterPath="$PROJECT_DIR$/library/template/sort/unstable/QuickSort.java" />
-      <change beforePath="$PROJECT_DIR$/template/sort/unstable/SelectionSort.java" afterPath="$PROJECT_DIR$/library/template/sort/unstable/SelectionSort.java" />
-      <change beforePath="$PROJECT_DIR$/template/thread/PrintModelThread.java" afterPath="$PROJECT_DIR$/library/template/thread/PrintModelThread.java" />
-      <change beforePath="$PROJECT_DIR$/template/thread/TFutureTask.java" afterPath="$PROJECT_DIR$/library/template/thread/TFutureTask.java" />
-      <change beforePath="$PROJECT_DIR$/template/thread/VolatileTest.java" afterPath="$PROJECT_DIR$/library/template/thread/VolatileTest.java" />
-      <change beforePath="$PROJECT_DIR$/template/thread/VolatileTest2.java" afterPath="$PROJECT_DIR$/library/template/thread/VolatileTest2.java" />
-      <change beforePath="$PROJECT_DIR$/template/排序_集合/note.txt" afterPath="$PROJECT_DIR$/library/template/排序_集合/note.txt" />
-      <change beforePath="$PROJECT_DIR$/template/排序_集合/加和_元素无重复_选择有重复.java" afterPath="$PROJECT_DIR$/library/template/排序_集合/加和_元素无重复_选择有重复.java" />
-      <change beforePath="$PROJECT_DIR$/template/排序_集合/加和_元素有重复_选择无重复.java" afterPath="$PROJECT_DIR$/library/template/排序_集合/加和_元素有重复_选择无重复.java" />
-      <change beforePath="$PROJECT_DIR$/template/排序_集合/排序_元素无重复_交换元素.java" afterPath="$PROJECT_DIR$/library/template/排序_集合/排序_元素无重复_交换元素.java" />
-      <change beforePath="$PROJECT_DIR$/template/排序_集合/排序_元素无重复_排序添加.java" afterPath="$PROJECT_DIR$/library/template/排序_集合/排序_元素无重复_排序添加.java" />
-      <change beforePath="$PROJECT_DIR$/template/排序_集合/排序_元素有重复_交换元素.java" afterPath="$PROJECT_DIR$/library/template/排序_集合/排序_元素有重复_交换元素.java" />
-      <change beforePath="$PROJECT_DIR$/template/排序_集合/排序_元素有重复_排序添加.java" afterPath="$PROJECT_DIR$/library/template/排序_集合/排序_元素有重复_排序添加.java" />
-      <change beforePath="$PROJECT_DIR$/template/排序_集合/集合_元素无重复.java" afterPath="$PROJECT_DIR$/library/template/排序_集合/集合_元素无重复.java" />
-      <change beforePath="$PROJECT_DIR$/template/排序_集合/集合_元素有重复.java" afterPath="$PROJECT_DIR$/library/template/排序_集合/集合_元素有重复.java" />
-      <change beforePath="$PROJECT_DIR$/template/最短路径/Dijkstra.java" afterPath="$PROJECT_DIR$/library/template/最短路径/Dijkstra.java" />
-      <change beforePath="$PROJECT_DIR$/template/最短路径/Floyd.java" afterPath="$PROJECT_DIR$/library/template/最短路径/Floyd.java" />
-      <change beforePath="$PROJECT_DIR$/template/算法题/从字符串中删除子串.java" afterPath="$PROJECT_DIR$/library/template/算法题/从字符串中删除子串.java" />
-      <change beforePath="$PROJECT_DIR$/template/算法题/最小公共祖先.java" afterPath="$PROJECT_DIR$/library/template/算法题/最小公共祖先.java" />
-      <change beforePath="$PROJECT_DIR$/template/算法题/约瑟夫.java" afterPath="$PROJECT_DIR$/library/template/算法题/约瑟夫.java" />
-      <change beforePath="$PROJECT_DIR$/template/设计模式/代理模式.java" afterPath="$PROJECT_DIR$/library/template/设计模式/代理模式.java" />
-      <change beforePath="$PROJECT_DIR$/template/设计模式/单例模式.java" afterPath="$PROJECT_DIR$/library/template/设计模式/单例模式.java" />
-      <change beforePath="$PROJECT_DIR$/template/设计模式/装饰器模式.java" afterPath="$PROJECT_DIR$/library/template/设计模式/装饰器模式.java" />
-      <change beforePath="$PROJECT_DIR$/template/设计模式/观察者模式.java" afterPath="$PROJECT_DIR$/library/template/设计模式/观察者模式.java" />
-      <change beforePath="$PROJECT_DIR$/test/array/CStack.java" afterPath="$PROJECT_DIR$/library/test/array/CStack.java" />
-      <change beforePath="$PROJECT_DIR$/test/array/Main.java" afterPath="$PROJECT_DIR$/library/test/array/Main.java" />
-      <change beforePath="$PROJECT_DIR$/test/array/NewArray.java" afterPath="$PROJECT_DIR$/library/test/array/NewArray.java" />
-      <change beforePath="$PROJECT_DIR$/test/array/TA.java" afterPath="$PROJECT_DIR$/library/test/array/TA.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -214,7 +13,18 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="SupSubClass.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/java/clz/SupSubClass.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="606">
+              <caret line="31" column="0" lean-forward="true" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -349,6 +159,32 @@
             <path>
               <item name="MyCode" type="b2602c69:ProjectViewProjectNode" />
               <item name="MyCode" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MyCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MyCode" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MyCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MyCode" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+              <item name="production" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MyCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MyCode" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+              <item name="production" type="462c0819:PsiDirectoryNode" />
+              <item name="MyCode" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MyCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MyCode" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+              <item name="production" type="462c0819:PsiDirectoryNode" />
+              <item name="MyCode" type="462c0819:PsiDirectoryNode" />
+              <item name="aiqiyi" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -941,14 +777,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/java/clz/SupSubClass.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="484">
-          <caret line="22" column="35" lean-forward="true" selection-start-line="22" selection-start-column="35" selection-end-line="22" selection-end-column="35" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/java/thread/executor/NewExecutor.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="132">
@@ -1003,6 +831,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="792">
           <caret line="36" column="36" lean-forward="false" selection-start-line="36" selection-start-column="36" selection-end-line="36" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/clz/SupSubClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="606">
+          <caret line="31" column="0" lean-forward="true" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
           <folding />
         </state>
       </provider>
