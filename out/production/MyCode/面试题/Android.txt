@@ -1,4 +1,0 @@
-Bitmap占多大内存
-1.跟bitmap的config有关,ARGB_8888占4字节,RGB_555占2字节
-2.跟bitmap的长宽有关.
-3.根放在哪个文件夹有关,不同文件夹下bitmap的getByteCount和getHeight结果会成比例.

@@ -1,7 +1,0 @@
-Button:
-自定义外观:
-1,创建三种,default, pressed, focused state的9-patch, bitmap
-2.放到res/drawable中
-3.创建selector
-
-

@@ -1,7 +1,275 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="eaf040ad-81d3-426b-b0da-08e647a33d77" name="Default" comment="" />
+    <list default="true" id="eaf040ad-81d3-426b-b0da-08e647a33d77" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/BigEgg.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/Contents.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/Destination.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/Egg$1NewEgg.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/Egg$NewEgg2.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/Egg.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/IdCardGenerator.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/Parcel3$1.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/Parcel3$PContents.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/Parcel3$PDestination.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/Parcel3.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/Test.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/array/A$B.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/array/A.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/array/C.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/array/CStack.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/array/Callbacks.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/array/Callee1.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/array/Callee2$1.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/array/Callee2$Closure.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/array/Callee2.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/array/Caller.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/array/Incrementable.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/array/Main.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/array/MyIncrementable.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/array/N018.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/array/N031.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/array/N033.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/array/N034.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/array/N039.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/array/N040.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/array/N048.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/array/N054.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/array/N055.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/array/N056.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/array/N059.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/array/N062.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/array/N063.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/array/N064.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/array/N073.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/array/N074.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/array/N075.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/array/N078.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/array/N079.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/array/N080.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/array/N081.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/array/N090.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/array/N611.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/array/N621.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/array/NewArray.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/array/TA$TT.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/array/TA.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/array/TAC.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/binarytree/Inorder.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/binarytree/LevelSorder.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/binarytree/Levelorder.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/binarytree/Postorder.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/binarytree/Preorder.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/chapter7/Amphibian.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/chapter7/Animal.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/chapter7/Characteristic.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/chapter7/DoBaseFinalization.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/chapter7/Frog.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/chapter7/LivingCreature.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/clz/NewSubClass.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/clz/NewSubClass2.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/clz/SupSubClass.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/didi/Main.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/didi/NNN.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/didi/TheMaxK.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/dp/_N638.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/duoyi/Person.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/duoyi/Test.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/exam/haoweilai/main.cpp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/executor/Test.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/haoweilai/Main.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/haoweilai/Main2.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/haoweilai/Main3.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/my/TopK.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/node/ComplexListNode.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/node/Interval.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/node/ListNode.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/node/RandomListNode.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/node/TreeNode.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/someclass/Annotation/AnnotationUse.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/someclass/Annotation/MyAnnotation1.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/someclass/Annotation/MyAnnotation2.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/someclass/Annotation/Test.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/someclass/ArrayDequeUse.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/someclass/JVM/MClassLoader.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/someclass/JVM/StackFrame.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/someclass/JVM/TestClass.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/someclass/JVM/常量池.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/someclass/类修饰符/NewDefault.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/someclass/类修饰符/NewPublic$NewPrivate.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/someclass/类修饰符/NewPublic$NewProtected.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/someclass/类修饰符/NewPublic.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/someclass/类修饰符/Test.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/sort/search/BinarySearch.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/sort/stable/BubbleSort.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/sort/stable/InsertionSort.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/sort/stable/MergeSort.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/sort/unstable/HeapSort.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/sort/unstable/QuickSort.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/sort/unstable/SelectionSort.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/src/丑数.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/src/两个链表的第一个公共结点.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/src/二叉搜索树与双向链表.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/src/二叉搜索树的后序遍历序列.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/src/二叉树中和为某一值的路径.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/src/二叉树的深度.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/src/二叉树的镜像.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/src/二维数组中的查找.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/src/二进制中1的个数.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/src/从上往下打印二叉树.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/src/从尾到头打印链表.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/src/删除链表中重复的结点.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/src/包含min函数的栈.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/src/反转链表.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/src/变态跳台阶.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/src/合并两个排序的链表.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/src/和为S的两个数字.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/src/和为S的连续正数序列.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/src/复杂链表的复制.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/src/字符串的排列.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/src/字符串的排列Ⅱ.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/src/左旋转字符串.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/src/平衡二叉树.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/src/把数组排成最小的数$1.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/src/把数组排成最小的数.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/src/按之字形顺序打印二叉树.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/src/数值的整数次方.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/src/数字在排序数组中出现的次数.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/src/数组中出现次数超过一半的数字.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/src/数组中只出现一次的数字.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/src/数组中的逆序对.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/src/数组中重复的数字.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/src/整数中1出现的次数.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/src/斐波那契数列.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/src/旋转数组的最小数字.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/src/最小的K个数.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/src/栈的压入弹出序列.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/src/树的子结构.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/src/用两个栈实现队列.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/src/矩形覆盖.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/src/第一个只出现一次的字符位置.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/src/翻转单词顺序列.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/src/调整数组顺序使奇数位于偶数前面.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/src/跳台阶.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/src/连续子数组的最大和.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/src/重建二叉树.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/src/链表中倒数第k个结点.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/src/顺时针打印矩阵.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/string/N005.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/string/N014.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/string/N017.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/string/N020.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/string/N022.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/string/N028.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/string/N043.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/string/N058.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/string/N067.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/string/N345.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/string/N383.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/string/N385.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/string/N434.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/string/N459.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/string/N468.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/string/N520.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/string/N521.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/string/N541.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/string/N551.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/string/N557.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/string/N606.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/string/NestedInteger.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/template/排序_集合/note.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/thread/PrintModelThread$PrintChar.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/thread/PrintModelThread$PrintNum.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/thread/PrintModelThread.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/thread/TFutureTask$1.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/thread/TFutureTask$2.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/thread/TFutureTask.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/thread/VolatileTest$1.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/thread/VolatileTest$2.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/thread/VolatileTest$3.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/thread/VolatileTest$Tmp.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/thread/VolatileTest.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/thread/VolatileTest2$1.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/thread/VolatileTest2$2.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/thread/VolatileTest2$AAA.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/thread/VolatileTest2.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/thread/creation/CreateThread.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/thread/creation/CreateThread2.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/thread/creation/CreateThread3.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/thread/executor/NewExecutor.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/thread/executor/NewExecutorService.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/thread/future/NewFuture.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/thread/synchronization/Counter.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/thread/synchronization/IncreaseThread.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/thread/synchronization/WaitThread.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/thread/synchronization/Waiter.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/threesixzero/Main1.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/threesixzero/Main2.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/threesixzero/Main3.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/toutiao/Main.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/txt/Animation.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/txt/Animator.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/txt/ColorStateList.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/txt/Dialog.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/txt/Dimension.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/txt/Drawable.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/txt/Notification.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/txt/Recyclerview.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/txt/Style.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/txt/Widget.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/txt/自定义组件.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/txt/输入事件.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/wuyi/Main$CountThread.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/wuyi/Main.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/xiaomi/Main.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/xiaomi/Main2.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/xiaomi/Main3.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/动态规划/分类_是否能分为两个相等的子数组.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/排序_集合/加和_元素无重复_选择有重复.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/排序_集合/加和_元素有重复_选择无重复.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/排序_集合/排序_元素无重复_交换元素.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/排序_集合/排序_元素无重复_排序添加.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/排序_集合/排序_元素有重复_交换元素.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/排序_集合/排序_元素有重复_排序添加.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/排序_集合/集合_元素无重复.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/排序_集合/集合_元素有重复.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/最短路径/Dijkstra.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/最短路径/Floyd.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/源码/AbstractExecutorService.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/源码/ThreadPoolExecutor.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/算法/Array.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/算法/Array解法.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/算法/array (2).txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/算法/string.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/算法题/从字符串中删除子串.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/算法题/最小公共祖先.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/算法题/约瑟夫.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/设计模式/Decorator.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/设计模式/Function.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/设计模式/Image.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/设计模式/Observalbe.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/设计模式/Observer.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/设计模式/Original.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/设计模式/ProxyImage.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/设计模式/RealImage.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/设计模式/Singleton1.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/设计模式/Singleton2.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/设计模式/Singleton3$1.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/设计模式/Singleton3$Inner.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/设计模式/Singleton3.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/设计模式/Singleton4$1.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/设计模式/Singleton4$Inner.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/设计模式/Singleton4.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/设计模式/Subject.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/设计模式/Subjector.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/设计模式/代理模式.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/设计模式/单例模式.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/设计模式/观察者模式.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/面试题/Android.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/面试题/Java.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/面试题/n对括号,有多少种匹配方式" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCode/面试题/编程注意.txt" afterPath="" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -16,7 +284,7 @@
         <entry file="file://$PROJECT_DIR$/java/clz/SupSubClass.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="606">
-              <caret line="31" column="0" lean-forward="true" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+              <caret line="31" column="0" lean-forward="false" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -156,24 +424,6 @@
           <expand>
             <path>
               <item name="MyCode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MyCode" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MyCode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MyCode" type="462c0819:PsiDirectoryNode" />
-              <item name="out" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MyCode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MyCode" type="462c0819:PsiDirectoryNode" />
-              <item name="out" type="462c0819:PsiDirectoryNode" />
-              <item name="production" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MyCode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MyCode" type="462c0819:PsiDirectoryNode" />
-              <item name="out" type="462c0819:PsiDirectoryNode" />
-              <item name="production" type="462c0819:PsiDirectoryNode" />
               <item name="MyCode" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -466,13 +716,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_161.jdk/Contents/Home/javafx-src.zip!/com/sun/javafx/runtime/async/AbstractAsyncOperation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
-          <caret line="83" column="26" lean-forward="false" selection-start-line="83" selection-start-column="26" selection-end-line="83" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_161.jdk/Contents/Home/src.zip!/java/util/concurrent/Future.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
@@ -825,10 +1068,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/out/production/MyCode/Test.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/java/clz/SupSubClass.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="606">
-          <caret line="31" column="0" lean-forward="true" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+          <caret line="31" column="0" lean-forward="false" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
           <folding />
         </state>
       </provider>

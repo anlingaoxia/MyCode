@@ -1,2 +1,0 @@
-1.extends View.class或者其子类
-2.重写一些方法.onMeasure() ,onDraw(),默认的onMeasure是100x100, 默认的onDraw不做任何事.
